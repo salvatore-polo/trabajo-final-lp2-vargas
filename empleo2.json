@@ -1,0 +1,431 @@
+{
+    "aviso": {
+        "fechaPublicacion": "14-06-2026",
+        "fechaHoraPublicacion": "14-06-2026 22:11:00",
+        "fechaFinalizacion": "12-10-2026",
+        "fechaModificado": "14-06-2026 22:11:00",
+        "estado": "activo",
+        "titulo": "INGENIERO DE MANTENIMIENTO MECÁNICO",
+        "descripcion": "<p>Principales Funciones:</p><ul> <li>Supervisar el cumplimiento de los procesos a travez del control y seguimiento de las objetivos estratégicas dentro del plan anual de mantenimiento mecánico y así garantizar la eficiencia y efectividad de los equipos asi como la productividad de su funcionamiento. </li> <li>Supervisar y controlar las funciones, procesos, actividades y tareas del personal a su cargo, tomando las medidas pertinentes en caso de desviación para mantener los estandares del sistema de gestión de riesgos con la finalidad de evitar accidentes/incidentes. </li> <li>Gestionar y supervisar el presupuesto anual de mantenimiento mecanico así como validar las solicitudes de pedidos.</li> <li>Garantizar el uso responable del presupuesto anual programado. </li> <li>Gestionar la disponibilidad de los recursos humanos, materiales, economicos y la información reuquerida para el cumplimiento de las metas establecidas, a fin de garantizar correctamente los recursos disponibles del área asi como garantizar el cumplimiento eficiente del plan anual de mantenimiento. </li> <li>Cumplimiento de los estandares y procedimiento de seguridad. Validación del plan anual de mantenimiento.</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "confidencial": true,
+            "videoUrl": null,
+            "inclusiva": false
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 272424,
+            "provinciaIdSemantico": "peru|huancavelica",
+            "localidadId": 497510,
+            "localidadIdSemantico": "peru|huancavelica|castrovirreyna",
+            "direccion": null,
+            "detalle": "Castrovirreyna, Huancavelica, Peru",
+            "id": 497510,
+            "localidadStringId": "castrovirreyna",
+            "provinciaStringId": "huancavelica",
+            "paisStringId": "peru",
+            "localidadDetalle": "Castrovirreyna",
+            "provinciaDetalle": "Huancavelica",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 16,
+            "nombre": "Producción y Manufactura",
+            "idSemantico": "produccion-y-manufactura",
+            "stringId": "produccion-y-manufactura"
+        },
+        "subArea": {
+            "id": 70,
+            "nombre": "Mantenimiento",
+            "idSemantico": "produccion-y-manufactura|mantenimiento",
+            "stringId": "mantenimiento"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 36
+            },
+            "genero": {
+                "excluyente": false,
+                "nombre": "masculino"
+            },
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            },
+            "idiomas": [
+                {
+                    "excluyente": false,
+                    "idioma": {
+                        "id": 1,
+                        "nombre": "Inglés"
+                    },
+                    "nivel": {
+                        "id": 11,
+                        "nombre": "Intermedio"
+                    }
+                }
+            ],
+            "conocimientos": [
+                {
+                    "excluyente": false,
+                    "grupo": {
+                        "id": 4,
+                        "nombre": "Habilidades"
+                    },
+                    "tipo": {
+                        "id": 1105,
+                        "nombre": "Aptitudes personales"
+                    },
+                    "calificador": {
+                        "id": 20,
+                        "nombre": "No aplica"
+                    },
+                    "conocimientoEspecifico": {
+                        "nombre": "Trabajo en equipo",
+                        "id": 693
+                    },
+                    "nivel": {
+                        "id": 13,
+                        "nombre": "No aplica"
+                    }
+                },
+                {
+                    "excluyente": false,
+                    "grupo": {
+                        "id": 4,
+                        "nombre": "Habilidades"
+                    },
+                    "tipo": {
+                        "id": 1105,
+                        "nombre": "Aptitudes personales"
+                    },
+                    "calificador": {
+                        "id": 20,
+                        "nombre": "No aplica"
+                    },
+                    "conocimientoEspecifico": {
+                        "nombre": "Liderazgo",
+                        "id": 701
+                    },
+                    "nivel": {
+                        "id": 13,
+                        "nombre": "No aplica"
+                    }
+                },
+                {
+                    "excluyente": false,
+                    "grupo": {
+                        "id": 4,
+                        "nombre": "Habilidades"
+                    },
+                    "tipo": {
+                        "id": 1105,
+                        "nombre": "Aptitudes personales"
+                    },
+                    "calificador": {
+                        "id": 20,
+                        "nombre": "No aplica"
+                    },
+                    "conocimientoEspecifico": {
+                        "nombre": "Comunicación asertiva",
+                        "id": 703
+                    },
+                    "nivel": {
+                        "id": 13,
+                        "nombre": "No aplica"
+                    }
+                },
+                {
+                    "excluyente": false,
+                    "grupo": {
+                        "id": 4,
+                        "nombre": "Habilidades"
+                    },
+                    "tipo": {
+                        "id": 1105,
+                        "nombre": "Aptitudes personales"
+                    },
+                    "calificador": {
+                        "id": 20,
+                        "nombre": "No aplica"
+                    },
+                    "conocimientoEspecifico": {
+                        "nombre": "Capacidad analítica",
+                        "id": 731
+                    },
+                    "nivel": {
+                        "id": 13,
+                        "nombre": "No aplica"
+                    }
+                }
+            ],
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49596284,
+                    "texto": "¿Cuál es tu disponibilidad para comenzar a trabajar con nosotros?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49596285,
+                    "texto": "¿Posees licencia para conducir? Aclara por favor para qué tipo de vehículos"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 340,
+            "nombre": "Ingeniero de Mantenimiento",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/mantenimiento/ingeniero-de-mantenimiento_340.html"
+        },
+        "tipoContratacion": {
+            "id": 2,
+            "nombre": "Temporal",
+            "idSemantico": "temporal"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118331274,
+        "descripcionSimple": "<p>Principales Funciones:</p><ul> <li>Supervisar el cumplimiento de los procesos a travez del control y seguimiento de las objetivos estratégicas dentro del plan anual de mantenimiento mecánico y así garantizar la eficiencia y efectividad de los equipos asi como la productividad de su funcionamiento. </li> <li>Supervisar y controlar las funciones, procesos, actividades y tareas del personal a su cargo, tomando las medidas pertinentes en caso de desviación para mantener los estandares del sistema de gestión de riesgos con la finalidad de evitar accidentes/incidentes. </li> <li>Gestionar y supervisar el presupuesto anual de mantenimiento mecanico así como validar las solicitudes de pedidos.</li> <li>Garantizar el uso responable del presupuesto anual programado. </li> <li>Gestionar la disponibilidad de los recursos humanos, materiales, economicos y la información reuquerida para el cumplimiento de las metas establecidas, a fin de garantizar correctamente los recursos disponibles del área asi como garantizar el cumplimiento eficiente del plan anual de mantenimiento. </li> <li>Cumplimiento de los estandares y procedimiento de seguridad. Validación del plan anual de mantenimiento.</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "mantenimiento",
+                "name": "Mantenimiento"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 497510
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "produccion-y-manufactura",
+                "name": "Producción y Manufactura"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/ingeniero-de-mantenimiento-mecanico-1118331274.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118330838,
+            "confidencial": false,
+            "detalle": "Perubar S.A. es una de las empresas del grupo Glencore, hoy en día desarrolla principalmente operaciones logísticas de almacenamiento, mezcla, acondicionamiento y embarque de concentrados de minerales a empresas del sector minero, vinculadas y de terceros y actualmente se encuentra en la búsqueda ...",
+            "planPublicacion": {
+                "id": 50,
+                "nombre": "Destacados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13230541_bum_vd2a27bdb.jpg",
+            "titulo": "Ingeniero de Mantenimiento Mecánico A",
+            "empresa": "PERUBAR",
+            "empresaPro": false,
+            "localizacion": "Gobierno Regional del Callao, Gobierno Regional del Callao",
+            "area": "Producción y Manufactura",
+            "subarea": "Mantenimiento",
+            "fechaHoraPublicacion": "13-06-2026 11:44:42",
+            "fechaModificado": "15-06-2026 11:06:57",
+            "fechaPublicacion": "13-06-2026 11:44:42",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "destacado",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118239555,
+            "confidencial": false,
+            "detalle": "Objetivo del puestoGarantizar la continuidad operativa de los equipos críticos mediante la identificación, diagnóstico y solución directa de fallas mecánicas y de proceso, participando activamente en campo en la resolución de problemas técnicos relacionados con sistemas de refrigeración con ...",
+            "planPublicacion": {
+                "id": 50,
+                "nombre": "Destacados_60Full"
+            },
+            "promedioEmpresa": 4.35,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10000282_bum_v7ae1f290.jpg",
+            "titulo": "Ingeniero de mantenimiento mecánico",
+            "empresa": "BACKUS",
+            "empresaPro": true,
+            "localizacion": "Pucallpa, Ucayali",
+            "area": "Producción y Manufactura",
+            "subarea": "Mantenimiento",
+            "fechaHoraPublicacion": "20-04-2026 14:35:26",
+            "fechaModificado": "20-04-2026 14:35:26",
+            "fechaPublicacion": "20-04-2026 14:35:26",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "destacado",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118313187,
+            "confidencial": true,
+            "detalle": "Empresa líder del sector agroindustrial y reconocida en el rubro azucarero, ubicada en La Libertad. Nos encontramos en búsqueda del mejor talento para sumarse a nuestro equipo y cubrir el perfil de:Ingeniero de Mantenimiento (Extracción)REQUISITOS: Bachiller o Titulado(a) en Ing. Mecánica ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Ingeniero de Mantenimiento (Extracción)/ Ing. Mecánica",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Casa Grande, La Libertad",
+            "area": "Producción y Manufactura",
+            "subarea": "Mantenimiento",
+            "fechaHoraPublicacion": "01-06-2026 09:10:02",
+            "fechaModificado": "15-06-2026 14:20:57",
+            "fechaPublicacion": "01-06-2026 09:10:02",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118188831,
+            "confidencial": false,
+            "detalle": "Objetivo del puestoGarantizar la continuidad operativa de los equipos críticos mediante la identificación, diagnóstico y solución directa de fallas mecánicas y de proceso, participando activamente en campo en la resolución de problemas técnicos relacionados con sistemas de refrigeración con ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.35,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10000282_bum_v7ae1f290.jpg",
+            "titulo": "Ingeniero de mantenimiento mecánico",
+            "empresa": "BACKUS",
+            "empresaPro": true,
+            "localizacion": "Pucallpa, Ucayali",
+            "area": "Producción y Manufactura",
+            "subarea": "Mantenimiento",
+            "fechaHoraPublicacion": "10-03-2026 18:41:43",
+            "fechaModificado": "25-03-2026 09:54:50",
+            "fechaPublicacion": "10-03-2026 18:41:43",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 20,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118161740,
+            "confidencial": false,
+            "detalle": "Somos Veta Dorada, filial de Dynacor Group, corporación canadiense que invierte en el Perú desde hace 29 años. Nos dedicamos al procesamiento de mineral aurífero proveniente de la MAPE (Minería Artesanal de Pequeña Escala), produciendo oro comprometidos con altos estándares de calidad, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10080362_bum_v410fa7d3.jpg",
+            "titulo": "INGENIERO EN ENTRENAMIENTO DE MANTENIMIENTO MECÁNICO (CHALA - AREQUIPA)",
+            "empresa": "MINERA VETA DORADA",
+            "empresaPro": true,
+            "localizacion": "Chala, Arequipa",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Instrumentación Minera",
+            "fechaHoraPublicacion": "18-02-2026 12:54:31",
+            "fechaModificado": "23-02-2026 14:15:10",
+            "fechaPublicacion": "18-02-2026 12:54:31",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        }
+    ]
+}

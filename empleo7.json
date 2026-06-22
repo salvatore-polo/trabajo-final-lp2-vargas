@@ -1,0 +1,341 @@
+{
+    "aviso": {
+        "fechaPublicacion": "16-06-2026",
+        "fechaHoraPublicacion": "16-06-2026 14:48:48",
+        "fechaFinalizacion": "14-09-2026",
+        "fechaModificado": "16-06-2026 14:48:48",
+        "estado": "activo",
+        "titulo": "Inspector de Seguridad - Mina subterránea",
+        "descripcion": "<p>Buscamos un Inspector de Seguridad con experiencia en mina subterránea para unirse a nuestro equipo. Si tienes experiencia en la industria minera y cuentas con habilidades técnicas excepcionales, esta posición puede ser perfecta para ti.</p><p><strong>REQUISITOS:</strong></p><ul> <li>Ingeniero de Minas, Técnico, bachiller o titulado.</li> <li>Experiencia mínima de 01 año en el área de seguridad y Salud Ocupacional en minería y/o en operaciones en minería y/o subterráneas.</li> <li>Disponibilidad para trabajar en Unidad Minera bajo régimen 14x07</li></ul><p><strong>FUNCIONES:</strong></p><ul> <li>Colaborar en la elaboración de informes de gestión SSOMA bajo la supervisión del Jefe de Seguridad y/o asistente de seguridad.</li> <li>Apoyar en la identificación, evaluación y control de riesgos en las diferentes áreas de la unidad minera, minimizando actos y condiciones subestándar.</li> <li>Asegurar el cumplimiento con las normas SSOMA, estándares, PETS, políticas internas y legislación vigente aplicable al rubro minero.</li></ul><p><strong>CONDICIONES LABORALES:</strong></p><ul> <li>Lima - Barranca - Sistema de trabajo: 14x07</li> <li>Ingreso a planilla desde el primer día.</li> <li>Alimentación y alojamiento cubiertos al 100%.</li> <li>Transporte: Lima, Barranca, Trujillo, Huancayo y La Unión.</li> <li>Planilla completa con todos los beneficios de ley.</li></ul><p><strong>¡Si cumples con los requisitos y estás listo para formar parte de un equipo dinámico en el sector de la minería subterránea, te invitamos a postularte!</strong></p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "CONTRATA MINERA CRISTOBAL S.A.C.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13066962_bum_v88cb8e3f.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 350,
+            "gptwUrl": null,
+            "id": 13066962,
+            "rangoEmpleados": "Entre 301 y 500",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": false,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": "Somos una Empresa Contratista Especializada en Minería Subterránea, con más de 26 años de experiencia  en el rubro. Brindando  asesoría en minería subterránea y servicios mineros integrales como explotación, preparación, operación y desarrollo de minería convencional y mecanizada.",
+            "ciudad": "Parcoy",
+            "provincia": "La Libertad",
+            "industria": "Minería / Petróleo / Gas"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 16707,
+            "localidadIdSemantico": "peru|lima|barranca",
+            "direccion": null,
+            "detalle": "Barranca, Lima, Peru",
+            "id": 16707,
+            "localidadStringId": "barranca",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Barranca",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 29,
+            "nombre": "Minería, Petróleo y Gas",
+            "idSemantico": "mineria-petroleo-y-gas",
+            "stringId": "mineria-petroleo-y-gas"
+        },
+        "subArea": {
+            "id": 2574,
+            "nombre": "Ingeniería en Minas",
+            "idSemantico": "mineria-petroleo-y-gas|ingenieria-en-minas",
+            "stringId": "ingenieria-en-minas"
+        },
+        "requisitos": {
+            "edad": {
+                "excluyente": false,
+                "edadMinima": 25,
+                "edadMaxima": 45
+            },
+            "residencia": {
+                "excluyente": false,
+                "cercania": "provincia",
+                "cantidadKm": null
+            },
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 12
+            },
+            "genero": {
+                "excluyente": false,
+                "nombre": "masculino"
+            },
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49601027,
+                    "texto": "Indicar pretensión salarial"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Jefe / Supervisor / Responsable",
+            "idSemantico": "jefe-supervisor-responsable",
+            "id": 4,
+            "stringId": "jefe-supervisor-responsable"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118334022,
+        "descripcionSimple": "<p>Buscamos un Inspector de Seguridad con experiencia en mina subterránea para unirse a nuestro equipo. Si tienes experiencia en la industria minera y cuentas con habilidades técnicas excepcionales, esta posición puede ser perfecta para ti.</p><p><strong>REQUISITOS:</strong></p><ul> <li>Ingeniero de Minas, Técnico, bachiller o titulado.</li> <li>Experiencia mínima de 01 año en el área de seguridad y Salud Ocupacional en minería y/o en operaciones en minería y/o subterráneas.</li> <li>Disponibilidad para trabajar en Unidad Minera bajo régimen 14x07</li></ul><p><strong>FUNCIONES:</strong></p><ul> <li>Colaborar en la elaboración de informes de gestión SSOMA bajo la supervisión del Jefe de Seguridad y/o asistente de seguridad.</li> <li>Apoyar en la identificación, evaluación y control de riesgos en las diferentes áreas de la unidad minera, minimizando actos y condiciones subestándar.</li> <li>Asegurar el cumplimiento con las normas SSOMA, estándares, PETS, políticas internas y legislación vigente aplicable al rubro minero.</li></ul><p><strong>CONDICIONES LABORALES:</strong></p><ul> <li>Lima - Barranca - Sistema de trabajo: 14x07</li> <li>Ingreso a planilla desde el primer día.</li> <li>Alimentación y alojamiento cubiertos al 100%.</li> <li>Transporte: Lima, Barranca, Trujillo, Huancayo y La Unión.</li> <li>Planilla completa con todos los beneficios de ley.</li></ul><p><strong>¡Si cumples con los requisitos y estás listo para formar parte de un equipo dinámico en el sector de la minería subterránea, te invitamos a postularte!</strong></p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "ingenieria-en-minas",
+                "name": "Ingeniería en Minas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 16707
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "mineria-petroleo-y-gas",
+                "name": "Minería, Petróleo y Gas"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/inspector-de-seguridad-mina-subterranea-contrata-minera-cristobal-s.a.c.-1118334022.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118336197,
+            "confidencial": false,
+            "detalle": "Servicios Generales Saturno se encuentra en la búsqueda de un Ingeniero de Seguridad para integrarse a nuestra operación minera enINGENIERO DE SEGURIDAD - INTERIOR MINARequisitos: Titulado y colegiado en: Ingeniería de Minas, Geología, Ingeniería Química, Ingeniería Metalúrgica, Ingeniería de ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/3/6/3/4/7/logoMainPic_10136347.jpg",
+            "titulo": "INGENIERO DE SEGURIDAD - INTERIOR MINA",
+            "empresa": "SERGESAT",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Ingeniería en Minas",
+            "fechaHoraPublicacion": "17-06-2026 17:51:28",
+            "fechaModificado": "17-06-2026 18:05:12",
+            "fechaPublicacion": "17-06-2026 17:51:28",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118336191,
+            "confidencial": false,
+            "detalle": "Por encargo de nuestro cliente, la Compañía Minera Santander se encuentra en la búsqueda de un(a) un(a) Ingeniero(a) Geomecánico(a) para integrarse al equipo de Planeamiento y Geomecánica de su operación minera subterránea en un contrato de 3 meses.&#x1f3af; Principales funciones: Realizar mapeo ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13120515_bum_v362e9dba.jpg",
+            "titulo": "Ingeniero Geomecánico - Región Lima (Temporal)",
+            "empresa": "Grupo Alwa",
+            "empresaPro": false,
+            "localizacion": "Huaral, Lima",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Ingeniería en Minas",
+            "fechaHoraPublicacion": "17-06-2026 17:48:20",
+            "fechaModificado": "17-06-2026 17:48:20",
+            "fechaPublicacion": "17-06-2026 17:48:20",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118335574,
+            "confidencial": false,
+            "detalle": "&#x1f477;‍&#x2642;&#xfe0f;Jefe de Guardia Junior &#x1f4c8; Principales responsabilidades: - Apoyar en la supervisión de las actividades operativas en campo. - Verificar el cumplimiento de los estándares y procedimientos de seguridad. - Realizar el seguimiento y control del avance de la producción ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Jefe de Guardia Junior",
+            "empresa": "CL SELECTION/ DIVISION ENERGY",
+            "empresaPro": false,
+            "localizacion": "Lampa, Puno",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Ingeniería en Minas",
+            "fechaHoraPublicacion": "17-06-2026 13:00:31",
+            "fechaModificado": "17-06-2026 13:00:31",
+            "fechaPublicacion": "17-06-2026 13:00:31",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118335099,
+            "confidencial": false,
+            "detalle": "INCIMMET S.A. contratista minera especializada en minería subterránea requiere un Jefe de Guardia para ser incorporado a nuestro equipo, en nuestra sede de PASCO.Requisitos: Ingeniero de Minas titulado y colegiado. Experiencia de al menos 4 años desempeñándose en el cargo y 2 años como mínimo en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.8,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10077730_bum_v9bde96c8.jpg",
+            "titulo": "Jefe de Guardia - Mina Pasco",
+            "empresa": "INCIMMET SA",
+            "empresaPro": false,
+            "localizacion": "Cerro De Pasco, Pasco",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Ingeniería en Minas",
+            "fechaHoraPublicacion": "17-06-2026 10:12:06",
+            "fechaModificado": "17-06-2026 14:15:19",
+            "fechaPublicacion": "17-06-2026 10:12:06",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118334280,
+            "confidencial": false,
+            "detalle": "Tecsup, institución líder en educación tecnológica, cuenta con más de 40 años en el mercado formando profesionales innovadores y éticos. En esta oportunidad no encontramos en búsqueda de un Instructor de Seguridad con las siguientes características:Perfil Profesional: Profesional (bachiller o ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.31,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2112280_bum_vc48137e4.jpg",
+            "titulo": "Instructor de Seguridad - Puno",
+            "empresa": "TECSUP",
+            "empresaPro": false,
+            "localizacion": "Puno, Puno",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Ingeniería en Minas",
+            "fechaHoraPublicacion": "16-06-2026 16:16:57",
+            "fechaModificado": "16-06-2026 16:54:08",
+            "fechaPublicacion": "16-06-2026 16:16:57",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

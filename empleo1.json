@@ -1,0 +1,283 @@
+{
+    "aviso": {
+        "fechaPublicacion": "15-06-2026",
+        "fechaHoraPublicacion": "15-06-2026 10:37:17",
+        "fechaFinalizacion": "13-10-2026",
+        "fechaModificado": "15-06-2026 10:37:17",
+        "estado": "activo",
+        "titulo": "Ejecutivo de Afiliaciones en Salud - Piura",
+        "descripcion": "<p><strong>¿Buscas ingresos altos, estabilidad y crecimiento comercial?</strong> En YT Grupo, socios de Auna Salud y Oncosalud, estamos ampliando nuestro equipo comercial en Piura.</p><p>&#x1f539; ¿Qué te ofrecemos?</p><ul> <li>Ingreso a <strong>planilla desde el primer día</strong>.</li> <li><strong>Sueldo base S/1500 + comisiones ilimitadas</strong>.</li> <li>Bonos por productividad y <strong>bonos semanales desde S/500</strong>.</li> <li>Ingresos promedio entre <strong>S/3,000 y S/10,000 a más</strong>.</li> <li>Incentivos, premios y reconocimientos por resultados.</li> <li>Capacitación constante y acompañamiento comercial.</li> <li>Línea de carrera con evaluaciones trimestrales.</li> <li>Modalidad <strong>híbrida</strong>.</li> <li>Pagos puntuales y beneficios corporativos.</li></ul><p>&#x1f539; ¿Qué buscamos?</p><ul> <li>Experiencia en ventas (intangibles, seguros, créditos, servicios).</li> <li>Habilidad para prospectar, negociar y cerrar ventas.</li> <li>Manejo de llamadas, videollamadas y redes sociales.</li> <li>Orientación a resultados y enfoque comercial.</li> <li>Disponibilidad para trabajar en campo.</li> <li>Disponibilidad de lunes a viernes de 9:00 a.m. a 6:30 p.m. y sábados (remoto) de 9:00 a.m. a 1:00 p.m.</li></ul><p>&#x1f449; <strong>Si quieres estabilidad, altos ingresos y crecimiento real, este puesto es para ti. ¡Postula ahora!</strong></p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 10,
+        "empresa": {
+            "confidencial": true,
+            "videoUrl": null,
+            "inclusiva": false
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 426945,
+            "provinciaIdSemantico": "peru|piura",
+            "localidadId": 226,
+            "localidadIdSemantico": "peru|piura|piura",
+            "direccion": null,
+            "detalle": "Piura, Piura, Peru",
+            "id": 226,
+            "localidadStringId": "piura",
+            "provinciaStringId": "piura",
+            "paisStringId": "peru",
+            "localidadDetalle": "Piura",
+            "provinciaDetalle": "Piura",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 6,
+            "nombre": "Comercial, Ventas y Negocios",
+            "idSemantico": "comercial-ventas-y-negocios",
+            "stringId": "comercial-ventas-y-negocios"
+        },
+        "subArea": {
+            "id": 23,
+            "nombre": "Comercial",
+            "idSemantico": "comercial-ventas-y-negocios|comercial",
+            "stringId": "comercial"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": null,
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": null
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Junior",
+            "idSemantico": "junior",
+            "id": 2,
+            "stringId": "junior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 3,
+            "nombre": "Híbrido",
+            "idSemantico": "hibrido",
+            "stringId": "hibrido"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118331627,
+        "descripcionSimple": "<p><strong>¿Buscas ingresos altos, estabilidad y crecimiento comercial?</strong> En YT Grupo, socios de Auna Salud y Oncosalud, estamos ampliando nuestro equipo comercial en Piura.</p><p>&#x1f539; ¿Qué te ofrecemos?</p><ul> <li>Ingreso a <strong>planilla desde el primer día</strong>.</li> <li><strong>Sueldo base S/1500 + comisiones ilimitadas</strong>.</li> <li>Bonos por productividad y <strong>bonos semanales desde S/500</strong>.</li> <li>Ingresos promedio entre <strong>S/3,000 y S/10,000 a más</strong>.</li> <li>Incentivos, premios y reconocimientos por resultados.</li> <li>Capacitación constante y acompañamiento comercial.</li> <li>Línea de carrera con evaluaciones trimestrales.</li> <li>Modalidad <strong>híbrida</strong>.</li> <li>Pagos puntuales y beneficios corporativos.</li></ul><p>&#x1f539; ¿Qué buscamos?</p><ul> <li>Experiencia en ventas (intangibles, seguros, créditos, servicios).</li> <li>Habilidad para prospectar, negociar y cerrar ventas.</li> <li>Manejo de llamadas, videollamadas y redes sociales.</li> <li>Orientación a resultados y enfoque comercial.</li> <li>Disponibilidad para trabajar en campo.</li> <li>Disponibilidad de lunes a viernes de 9:00 a.m. a 6:30 p.m. y sábados (remoto) de 9:00 a.m. a 1:00 p.m.</li></ul><p>&#x1f449; <strong>Si quieres estabilidad, altos ingresos y crecimiento real, este puesto es para ti. ¡Postula ahora!</strong></p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "comercial",
+                "name": "Comercial"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 226
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "hibrido",
+                "name": "Híbrido"
+            },
+            {
+                "type": "area",
+                "id": "comercial-ventas-y-negocios",
+                "name": "Comercial, Ventas y Negocios"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/ejecutivo-de-afiliaciones-en-salud-piura-1118331627.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118332032,
+            "confidencial": false,
+            "detalle": "líderes regionales con 19 años de trayectoria brindando soluciones tecnológicas de alta seguridad y calidad basadas en riesgos para cadenas de suministro logísticas, nos encontramos en la búsqueda de dos (2) profesionales comerciales de alta energía para unirse a nuestro equipo de alto rendimiento ...",
+            "planPublicacion": {
+                "id": 20,
+                "nombre": "Agrupados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/0/8/1/0/1/7/logoMainPic_10081017.jpg",
+            "titulo": "Ejecutivo/Asesor Ventas Inside Sales B2B",
+            "empresa": "TITADSU SAC",
+            "empresaPro": false,
+            "localizacion": "Callao, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "15-06-2026 13:23:23",
+            "fechaModificado": "15-06-2026 13:23:23",
+            "fechaPublicacion": "15-06-2026 13:23:23",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 4,
+            "idPais": 11,
+            "tipoAviso": "home",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118332094,
+            "confidencial": false,
+            "detalle": "ASESOR COMERCIAL DE CRÉDITOS (BAGUA GRANDE - AMAZONAS)Buscamos un Asesor Comercial experimentado para unirse a nuestro equipo. El candidato ideal tendrá un fuerte conocimiento de los productos y servicios financieros, y será capaz de gestionar la venta de los productos crediticios (compra de deuda, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "ASESOR COMERCIAL - BAGUA",
+            "empresa": "Derrama Magisterial",
+            "empresaPro": false,
+            "localizacion": "Bagua Grande, Amazonas",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "15-06-2026 14:03:16",
+            "fechaModificado": "15-06-2026 14:03:16",
+            "fechaPublicacion": "15-06-2026 14:03:16",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118332010,
+            "confidencial": false,
+            "detalle": "En Financiera ProEmpresa estamos en búsqueda de personas con talento y compromiso, dispuestas a ser parte de nuestro propósito: contribuir al desarrollo de más peruanos a través de la inclusión financiera.Tu principal función:Realizar la promoción y ventas productos y servicios de La Financiera, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.19,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_818070_bum_v5dcb822.jpg",
+            "titulo": "Analista de Crédito - Con experiencia - Oficina Paucarpata",
+            "empresa": "FINANCIERA PROEMPRESA ",
+            "empresaPro": false,
+            "localizacion": "Paucarpata, Arequipa",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "15-06-2026 13:04:21",
+            "fechaModificado": "15-06-2026 13:07:37",
+            "fechaPublicacion": "15-06-2026 13:04:21",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118305780,
+            "confidencial": false,
+            "detalle": "En Manpower Perú nos encontramos en la búsqueda de un(a) Asesor(a) Comercial / Orientador Académico(a) para incorporarse al equipo de empresa importante del area de educacion superior.¡Postula y forma parte de un equipo dinámico y orientado al desarrollo profesional!Funciones principales: ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.86,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10011970_bum_v646cbf9.jpg",
+            "titulo": "Asesor(a) Comercial de productos académicos",
+            "empresa": "ManpowerGroup Perú",
+            "empresaPro": false,
+            "localizacion": "San Borja, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "15-06-2026 13:04:16",
+            "fechaModificado": "15-06-2026 13:04:16",
+            "fechaPublicacion": "15-06-2026 13:04:16",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118332001,
+            "confidencial": false,
+            "detalle": "¿Cuál es el reto?Establecer la estrategia para administrar la cartera de clientes, colocando al centro las necesidades de los clientes internos y externos para seguir brindando una experiencia WOW.¿Cómo impactarás en grande? Definir la estrategia para administrar la cartera, dividirla por segmentos ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13511553_bum_v92e0c8c2.jpg",
+            "titulo": "EJECUTIVO DE BANCA PYME HUANUCO",
+            "empresa": "MANPOWER  RPO BCP",
+            "empresaPro": null,
+            "localizacion": "Huánuco, Huánuco",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "15-06-2026 12:57:02",
+            "fechaModificado": "15-06-2026 12:57:02",
+            "fechaPublicacion": "15-06-2026 12:57:02",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

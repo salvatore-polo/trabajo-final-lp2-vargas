@@ -1,0 +1,306 @@
+{
+    "aviso": {
+        "fechaPublicacion": "15-06-2026",
+        "fechaHoraPublicacion": "15-06-2026 13:02:48",
+        "fechaFinalizacion": "13-09-2026",
+        "fechaModificado": "15-06-2026 13:02:48",
+        "estado": "activo",
+        "titulo": "Coordinador de Cumplimiento Tributario",
+        "descripcion": "<p><span style=\"\">Somos desarrolladores y administradores de ecosistemas inmobiliarios innovadores que unen personas. Gestionamos más de 170 mil metros cuadrados de edificios de oficinas, 165 mil metros cuadrados de retail, la mejor cartera de hoteles del país y un vasto banco de terrenos por desarrollar. Creemos que para, que un espacio sea realmente trascendente debe hacer mucho más que transformar la ciudad, debe ser parte de la vida de sus ciudadanos. De esta manera, nos convertimos en escenario de momentos únicos que las personas rememoran y valoran a lo largo de su vida; no solo momentos laborales, sino en familia, disfrute, éxito y diversión.</span></p> <p><strong>¿Cuáles serán mis retos?</strong></p><p><strong>1. Procesos de fiscalizaciones por parte de la Administración tributaria</strong></p><p>1.1. Asegurar la preparación y obtención de toda la información requerida por la Administración Tributaria (libros contables, comprobantes, contratos y análisis requeridos, otros).</p><p>1.2. Coordinar con los asesores externos y con todas las áreas internas de la organización para obtener la información requerida.</p><p>1.3. Control de avance y seguimiento de los requerimientos de la Administración Tributaria hasta su cumplimiento.</p><p>1.4. Documentar hallazgos y recomendaciones para prevenir futuras contingencias.</p><p>1.5. Implementar controles internos para fortalecer el cumplimiento tributario.</p><p><strong>2. Garantizar y ejecutar el proceso de Planificación tributaria, reportería de informes tributarios para entes reguladores y cumplimientos hacia el corporativo</strong></p><p>2.1 Dar soporte en la planificación tributaria del negocio.</p><p>2.2 Asegurar la obtención de información y la presentación del Reporte Local, Reporte Maestro, Test de Beneficio, Memo CINIIF 23 y Norma XVI.</p><p>2.3 Seguimiento y control de los KPIs tributarios de la compañía y de cumplimiento hacia el corporativo.</p><p><strong>3. Brindar soporte en la gestión de proyectos específicos asignados.</strong></p><p>3.1. Evaluar, diseñar y ejecutar iniciativas de mejoras de procesos.</p><p>3.2 Liderar proyectos de automatización de procesos.</p><br/> Requisitos:<br/> <p>Titulado de las carreras de Contabilidad<br />MS Office (Intermedio)<br />De 3 a 5 años en posiciones similares</p><br/>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "Jackeline Pimentel",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13254236_bum_v2884c15e.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 100,
+            "gptwUrl": null,
+            "id": 13254236,
+            "rangoEmpleados": "Entre 51 y 150",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": "Somos una de las inmobiliarias líderes en el Perú, con presencia en San Isidro, San Borja y Miraflores, con oficinas prime, espacios de coworking, retail y hoteles.Creamos y administramos proyectos inmobiliarios sostenibles que conectan talento profesional y una comunidad empresarial de compañías multinacionales y locales líderes en el mercado, brindando soluciones específicas en nuestros más de 170 mil m² de oficinas.\n\nAdemás, nuestra gestión en proyectos inmobiliarios y experiencia en el diseño, desarrollo y administración de espacios para al bienestar de las personas, nos convierte en referente del sector retail. \n\nEl portafolio hotelero de Urbanova está compuesto por activos destacados en destinos únicos, los cuales operan bajo marcas internacionales de Marriott International. Destacan hoteles icónicos urbanos y resorts de lujo irreplicables, todos fieles representantes de los grandes destinos donde se encuentran.",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Inmobiliaria"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 428,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 6171,
+            "localidadIdSemantico": "peru|lima|lima",
+            "direccion": null,
+            "detalle": "Lima, Lima, Peru",
+            "id": 6171,
+            "localidadStringId": "lima",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Lima",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 1,
+            "nombre": "Administración, Contabilidad y Finanzas",
+            "idSemantico": "administracion-contabilidad-y-finanzas",
+            "stringId": "administracion-contabilidad-y-finanzas"
+        },
+        "subArea": {
+            "id": 90,
+            "nombre": "Impuestos",
+            "idSemantico": "administracion-contabilidad-y-finanzas|impuestos",
+            "stringId": "impuestos"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Senior / Semi-Senior",
+            "idSemantico": "senior-semi-senior",
+            "id": 1,
+            "stringId": "senior-semi-senior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "HIRING_ROOM",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": null,
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118332008,
+        "descripcionSimple": "<p><span style=\"\">Somos desarrolladores y administradores de ecosistemas inmobiliarios innovadores que unen personas. Gestionamos más de 170 mil metros cuadrados de edificios de oficinas, 165 mil metros cuadrados de retail, la mejor cartera de hoteles del país y un vasto banco de terrenos por desarrollar. Creemos que para, que un espacio sea realmente trascendente debe hacer mucho más que transformar la ciudad, debe ser parte de la vida de sus ciudadanos. De esta manera, nos convertimos en escenario de momentos únicos que las personas rememoran y valoran a lo largo de su vida; no solo momentos laborales, sino en familia, disfrute, éxito y diversión.</span></p> <p><strong>¿Cuáles serán mis retos?</strong></p><p><strong>1. Procesos de fiscalizaciones por parte de la Administración tributaria</strong></p><p>1.1. Asegurar la preparación y obtención de toda la información requerida por la Administración Tributaria (libros contables, comprobantes, contratos y análisis requeridos, otros).</p><p>1.2. Coordinar con los asesores externos y con todas las áreas internas de la organización para obtener la información requerida.</p><p>1.3. Control de avance y seguimiento de los requerimientos de la Administración Tributaria hasta su cumplimiento.</p><p>1.4. Documentar hallazgos y recomendaciones para prevenir futuras contingencias.</p><p>1.5. Implementar controles internos para fortalecer el cumplimiento tributario.</p><p><strong>2. Garantizar y ejecutar el proceso de Planificación tributaria, reportería de informes tributarios para entes reguladores y cumplimientos hacia el corporativo</strong></p><p>2.1 Dar soporte en la planificación tributaria del negocio.</p><p>2.2 Asegurar la obtención de información y la presentación del Reporte Local, Reporte Maestro, Test de Beneficio, Memo CINIIF 23 y Norma XVI.</p><p>2.3 Seguimiento y control de los KPIs tributarios de la compañía y de cumplimiento hacia el corporativo.</p><p><strong>3. Brindar soporte en la gestión de proyectos específicos asignados.</strong></p><p>3.1. Evaluar, diseñar y ejecutar iniciativas de mejoras de procesos.</p><p>3.2 Liderar proyectos de automatización de procesos.</p><br/> Requisitos:<br/> <p>Titulado de las carreras de Contabilidad<br />MS Office (Intermedio)<br />De 3 a 5 años en posiciones similares</p><br/>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "impuestos",
+                "name": "Impuestos"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 6171
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "administracion-contabilidad-y-finanzas",
+                "name": "Administración, Contabilidad y Finanzas"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/coordinador-de-cumplimiento-tributario-jackeline-pimentel-1118332008.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118330525,
+            "confidencial": false,
+            "detalle": "Importante grupo empresarial se encuentra en búsqueda de un(a) Asistente de Impuestos para incorporarse a su equipo corporativo.Funciones principales: Elaborar y consolidar información para la preparación de declaraciones tributarias mensuales y anuales. Ejecutar controles y validaciones ...",
+            "planPublicacion": {
+                "id": 50,
+                "nombre": "Destacados_60Full"
+            },
+            "promedioEmpresa": 4.04,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1048290_bum_v2a6a654e.jpg",
+            "titulo": "9550 - ASISTENTE DE IMPUESTOS",
+            "empresa": "GRUPO AENZA",
+            "empresaPro": false,
+            "localizacion": "Miraflores, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Impuestos",
+            "fechaHoraPublicacion": "12-06-2026 17:56:13",
+            "fechaModificado": "12-06-2026 17:58:59",
+            "fechaPublicacion": "12-06-2026 17:56:13",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "destacado",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118329717,
+            "confidencial": false,
+            "detalle": "Somos una empresa peruana del Grupo DC, líder especializada en el diseño, fabricación y comercialización de soluciones de empaque sostenibles para la agroindustria, enfocada en la exportación de frutas y productos frescos. Buscamos talento al que le apasione el trabajo y se encuentre en búsqueda de ...",
+            "planPublicacion": {
+                "id": 50,
+                "nombre": "Destacados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13257218_bum_v8e6ff85a.jpg",
+            "titulo": "Analista de Impuestos",
+            "empresa": "ECOPACKING CLAMSHELLS S.A.",
+            "empresaPro": false,
+            "localizacion": "Lurín, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Impuestos",
+            "fechaHoraPublicacion": "12-06-2026 11:50:48",
+            "fechaModificado": "12-06-2026 11:52:33",
+            "fechaPublicacion": "12-06-2026 11:50:48",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "destacado",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118331870,
+            "confidencial": false,
+            "detalle": "Asistente Contable Resumen del Puesto Estamos en la búsqueda de un Asistente Contable proactivo y con gran atención al detalle para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y la capacidad de gestionar eficientemente las tareas asignadas. ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Asistente Contable",
+            "empresa": "DVS CONSULTORES S.R.L.",
+            "empresaPro": false,
+            "localizacion": "Ate, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Impuestos",
+            "fechaHoraPublicacion": "15-06-2026 11:59:16",
+            "fechaModificado": "15-06-2026 11:59:16",
+            "fechaPublicacion": "15-06-2026 11:59:16",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118330226,
+            "confidencial": false,
+            "detalle": "Especialista en Obras por Impuestos (OxI) Resumen del Puesto Buscamos un Especialista en Obras por Impuestos (OxI) con sólida formación y experiencia para unirse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento del Sistema Nacional de Programación Multianual y Gestión de ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Especialista en Obras por Impuestos (OxI)",
+            "empresa": "Grupo Socopur",
+            "empresaPro": null,
+            "localizacion": "Ate, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Impuestos",
+            "fechaHoraPublicacion": "12-06-2026 15:42:59",
+            "fechaModificado": "12-06-2026 15:42:59",
+            "fechaPublicacion": "12-06-2026 15:42:59",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118329827,
+            "confidencial": false,
+            "detalle": "Asistente de Impuestos Resumen del Puesto Buscamos un Asistente de Impuestos proactivo y detallista para unirse a nuestro equipo. El candidato ideal poseerá un sólido conocimiento en la liquidación y declaración de impuestos, así como experiencia en el manejo de sistemas contables y herramientas de ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Asistente de Impuestos",
+            "empresa": "CONTADORES PERU INC. S.A.C.S.",
+            "empresaPro": false,
+            "localizacion": "Ate, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Impuestos",
+            "fechaHoraPublicacion": "12-06-2026 12:45:58",
+            "fechaModificado": "12-06-2026 12:45:58",
+            "fechaPublicacion": "12-06-2026 12:45:58",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

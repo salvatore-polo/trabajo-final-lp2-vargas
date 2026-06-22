@@ -1,0 +1,296 @@
+{
+    "aviso": {
+        "fechaPublicacion": "11-06-2026",
+        "fechaHoraPublicacion": "11-06-2026 17:25:17",
+        "fechaFinalizacion": "09-09-2026",
+        "fechaModificado": "11-06-2026 17:25:17",
+        "estado": "activo",
+        "titulo": "Especialista de almacenes",
+        "descripcion": "<p>Zoomlion, uno de los diez principales productores de maquinaria pesada a nivel mundial, actualmente está buscando el mejor talento para ocupar el puesto de<strong> Especialista de almacenes</strong>. Cambia el futuro con nosotros. Únase a nuestro equipo y le daremos los últimos conocimientos e independencia para la acción y la toma de decisiones autónomas, ayudándole a convertirse en un socio de confianza en las relaciones con los clientes. ¡Desarrollarás los primeros pasos de nuestro negocio en Latam para convertirte en un jugador consolidado en esta parte del mundo!</p><p><strong>¿Qué vas a hacer?</strong></p><ol> <li>Coordinar las entradas y salidas de equipos y repuestos de los almacenes.</li> <li>Gestionar los inventarios según los requerimientos de la filial o casa matriz, cumpliendo con los plazos establecidos.</li> <li>Operar de manera oportuna el ERP interno para registro de entradas y salidas de equipos y repuestos.</li> <li>Realizar verificaciones regulares e irregulares de la entrada, salida y cantidad final del inventario según lo requerido y generar informes.</li> <li>Proponer mejoras en el proceso de recepción y despacho de existencias.</li> <li>Implementar estrictamente las normas y regulaciones sobre el acceso de mercancías y personal para asegurar un inventario preciso en el almacén.</li> <li>Revisar constantemente el stock de máquinas en cada almacén para proponer los movimientos internos de máquinas y tener una distribución adecuada.</li></ol><p><strong>¿Qué necesitarás para tener éxito?</strong></p><ol> <li>Inglés nivel intermedio.</li> <li>Bachiller o licenciatura en Administración, Negocios internacionales, Ingeniería industrial o afines.</li> <li>Especialización en Gestión de Almacenes e inventarios.</li> <li>Experiencia mínima de 05 años en gestión de almacenes, de preferencia en empresas de repuestos o maquinaria pesada.</li> <li>Deseable experiencia contar con licencia de conducir.</li></ol><p><strong>¿Cuáles son los beneficios de trabajar con nosotros?</strong></p><p>Entrenamiento constante.</p><p>Un salario competitivo Autonomía y gestión de objetivos.</p><p>Reconocimiento y reconocimiento al excelente desempeño, actitud y trabajo en equipo.</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 2,
+        "empresa": {
+            "denominacion": "ZOOMLION",
+            "logoURL": null,
+            "confidencial": false,
+            "cantidadEmpleados": 100,
+            "gptwUrl": null,
+            "id": 13443757,
+            "rangoEmpleados": "Entre 51 y 150",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": true,
+            "empresaPro": false,
+            "descripcion": null,
+            "ciudad": null,
+            "provincia": null,
+            "industria": "Comercio"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 17725092,
+            "localidadIdSemantico": "peru|lima|pachacamac",
+            "direccion": null,
+            "detalle": "Pachacamac, Lima, Peru",
+            "id": 17725092,
+            "localidadStringId": "pachacamac",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Pachacamac",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 3,
+            "nombre": "Abastecimiento y Logística",
+            "idSemantico": "abastecimiento-y-logistica",
+            "stringId": "abastecimiento-y-logistica"
+        },
+        "subArea": {
+            "id": 2638,
+            "nombre": "Almacén / Depósito / Expedición",
+            "idSemantico": "abastecimiento-y-logistica|almacen-deposito-expedicion",
+            "stringId": "almacen-deposito-expedicion"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": null,
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": null
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118328915,
+        "descripcionSimple": "<p>Zoomlion, uno de los diez principales productores de maquinaria pesada a nivel mundial, actualmente está buscando el mejor talento para ocupar el puesto de<strong> Especialista de almacenes</strong>. Cambia el futuro con nosotros. Únase a nuestro equipo y le daremos los últimos conocimientos e independencia para la acción y la toma de decisiones autónomas, ayudándole a convertirse en un socio de confianza en las relaciones con los clientes. ¡Desarrollarás los primeros pasos de nuestro negocio en Latam para convertirte en un jugador consolidado en esta parte del mundo!</p><p><strong>¿Qué vas a hacer?</strong></p><ol> <li>Coordinar las entradas y salidas de equipos y repuestos de los almacenes.</li> <li>Gestionar los inventarios según los requerimientos de la filial o casa matriz, cumpliendo con los plazos establecidos.</li> <li>Operar de manera oportuna el ERP interno para registro de entradas y salidas de equipos y repuestos.</li> <li>Realizar verificaciones regulares e irregulares de la entrada, salida y cantidad final del inventario según lo requerido y generar informes.</li> <li>Proponer mejoras en el proceso de recepción y despacho de existencias.</li> <li>Implementar estrictamente las normas y regulaciones sobre el acceso de mercancías y personal para asegurar un inventario preciso en el almacén.</li> <li>Revisar constantemente el stock de máquinas en cada almacén para proponer los movimientos internos de máquinas y tener una distribución adecuada.</li></ol><p><strong>¿Qué necesitarás para tener éxito?</strong></p><ol> <li>Inglés nivel intermedio.</li> <li>Bachiller o licenciatura en Administración, Negocios internacionales, Ingeniería industrial o afines.</li> <li>Especialización en Gestión de Almacenes e inventarios.</li> <li>Experiencia mínima de 05 años en gestión de almacenes, de preferencia en empresas de repuestos o maquinaria pesada.</li> <li>Deseable experiencia contar con licencia de conducir.</li></ol><p><strong>¿Cuáles son los beneficios de trabajar con nosotros?</strong></p><p>Entrenamiento constante.</p><p>Un salario competitivo Autonomía y gestión de objetivos.</p><p>Reconocimiento y reconocimiento al excelente desempeño, actitud y trabajo en equipo.</p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "almacen-deposito-expedicion",
+                "name": "Almacén / Depósito / Expedición"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 17725092
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "abastecimiento-y-logistica",
+                "name": "Abastecimiento y Logística"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/especialista-de-almacenes-zoomlion-1118328915.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118332220,
+            "confidencial": true,
+            "detalle": "&#x1f680; ¡Buscamos Supervisor de Almacén!¿Qué te ofrecemos? Trabajar con SAP 4HANA (EWM/MM) en entornos de alta exigencia. Ser clave en la exactitud del inventario (ERI) y la fluidez de más de 3,000 SKUs. Desafíos reales en recepción, almacenamiento, picking y despacho.¿Qué harás? Supervisarás la ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Supervisor de Almacén",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "15-06-2026 15:11:12",
+            "fechaModificado": "15-06-2026 15:11:12",
+            "fechaPublicacion": "15-06-2026 15:11:12",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1117838704,
+            "confidencial": false,
+            "detalle": "Gloria S.A. es la empresa líder del mercado lácteo peruano y entre las primeras en las categorías de otros productos en que participa. Es reconocida como una de las empresas más admiradas del Perú, siendo considerada la marca peruana más valiosa y de mayor recordación. Como parte de nuestro plan de ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.32,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10004683_bum_va9b3b4de.jpg",
+            "titulo": "Auxiliar de Almacén - Huachipa",
+            "empresa": "Gloria S.A.",
+            "empresaPro": false,
+            "localizacion": "Lurigancho, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "15-06-2026 14:38:03",
+            "fechaModificado": "15-06-2026 14:39:04",
+            "fechaPublicacion": "15-06-2026 14:38:03",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331983,
+            "confidencial": false,
+            "detalle": "¡Somos OASI! Empresa Peruana dedicada a brindar los servicios de TRANSPORTE DE CARGA, TRADE MARKETING, ACTIVOS , BTL; es así que actualmente nos encontramos en la búsqueda del mejores talentos para cubrir el puesto de ASISTENTE DE SERVICIO TÉCNICO¿A QUIÉN BUSCAMOS? Estudiante o egresad de la ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "ASISTENTE / COMAS",
+            "empresa": "OCEANO AZUL SOLUCIONES INTEGRALES S.A.C",
+            "empresaPro": null,
+            "localizacion": "Comas, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "15-06-2026 12:51:14",
+            "fechaModificado": "15-06-2026 15:28:51",
+            "fechaPublicacion": "15-06-2026 12:51:14",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331970,
+            "confidencial": false,
+            "detalle": "Auxiliar de Almacén Resumen del Puesto Buscamos un Auxiliar de Almacén proactivo y organizado para unirse a nuestro equipo logístico. El candidato ideal tendrá una gran disposición para aprender y apoyar en las operaciones diarias del almacén. Responsabilidades  Recepción y despacho de mercadería. ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Auxiliar de Almacén",
+            "empresa": "TOTAL SOLUCIONES ",
+            "empresaPro": null,
+            "localizacion": "La Victoria, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "15-06-2026 12:45:20",
+            "fechaModificado": "15-06-2026 12:45:20",
+            "fechaPublicacion": "15-06-2026 12:45:20",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331885,
+            "confidencial": false,
+            "detalle": "Auxiliar de Almacén con Licencia de Conducir A1 Resumen del Puesto Buscamos un Auxiliar de Almacén comprometido y proactivo, con gran capacidad para trabajar en equipo. El rol principal será apoyar en la gestión integral del almacén y en la distribución eficiente de mercadería. Es indispensable ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Auxiliar de Almacén con Licencia de Conducir A1",
+            "empresa": "ADELU",
+            "empresaPro": null,
+            "localizacion": "Lima, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "15-06-2026 12:04:00",
+            "fechaModificado": "15-06-2026 12:04:00",
+            "fechaPublicacion": "15-06-2026 12:04:00",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

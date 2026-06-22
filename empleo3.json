@@ -1,0 +1,317 @@
+{
+    "aviso": {
+        "fechaPublicacion": "12-06-2026",
+        "fechaHoraPublicacion": "12-06-2026 10:30:23",
+        "fechaFinalizacion": "10-09-2026",
+        "fechaModificado": "15-06-2026 10:06:05",
+        "estado": "activo",
+        "titulo": "Part time/Fulltime/Sin experiencia/Solo de L a V - turno mañana",
+        "descripcion": "<p><u><strong>Se busca personal para incorporarse en Kontacta Solutions</strong></u>.</p><p>Ofrecemos posiciones tanto a tiempo completo como a tiempo parcial para candidatos sin experiencia previa.</p><p>Buscamos personas con disponibilidad para trabajar en horario fijo y con predisposición a trabajar bajo presión.</p><p>Si estás dispuesto a pasar por una capacitación con buena actitud, esta oportunidad es para ti.</p><p>En<strong> Kontacta Solutions</strong> valoramos el compromiso y la capacidad de adaptación.</p><p>Tu disposición para trabajar en horarios fijos y bajo condiciones de presión es fundamental para nuestro equipo.</p><p>Estamos comprometidos a ofrecer una experiencia de capacitación que te permitirá desarrollar tus habilidades y crecer profesionalmente.</p><p><strong>¿CUÁLES SERÁN MIS BENEFICIOS?</strong></p><p>Posibilidad de hacer línea de carrera</p><p>Convenios corporativos</p><p>Bonos por asistencia y mas</p><p>Incentivos con programa de puntos</p><p>Retos diarios</p><p>Modalidad <strong>Full Time</strong>:</p><p>Modalidad <strong>Semi Full</strong>:</p><p>¡¡¡Somos el mejor Call Center de Lima Norte, y estamos en búsqueda de Talentos como tú!!!</p><p>¡Ven y únete al mejor equipo de ventas, tenemos las mejores Comisiones, Sueldo básico por encima del mercado y el mejor Ambiente Laboral, míralo tú mismo en nuestras Redes Tiktok, Facebook como Kontacta_Solutions</p><p>SEDE: Los Olivos</p><p><strong>¿QUÉ NECESITAS PARA APLICAR A ESTE PUESTO?</strong></p><p>- <u>No Necesitas Experiencia</u> ¡¡¡NOSOTROS TE CAPACITAMOS¡!!</p><p>- Responsabilidad y predisposición a aprender.</p><p>- Manejo de PC a nivel usuario</p><p>- Disponibilidad para trabajar de forma presencial</p><p>Si tienes interés en comenzar una nueva trayectoria laboral y estás abierto a aprender y adaptarte, esta es tu oportunidad.</p><p>No necesitas experiencia previa, solo la actitud y la disponibilidad para comenzar una nueva etapa en un ambiente dinámico y desafiante.</p><p>Únete a nosotros y contribuye al éxito de Kontacta Solutions. PUEDES ACERCARTE A ENTREVISTA DE LUNES A VIERNES DESDE LAS 10AM A 2PM Lugar: AV. NARANJAL 1308 - LOS OLIVOS (PISO 3) 908902235</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 19,
+        "empresa": {
+            "denominacion": "KONTACTA SOLUTIONS S.A.C.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13388966_bum_vf0f7b03e.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 5,
+            "gptwUrl": null,
+            "id": 13388966,
+            "rangoEmpleados": "Entre 1 y 10",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": "Somos Kontacta Solutions, empresa dedicada al rubro de Contact Center y BPO. Desarrollamos y mejoramos la experiencia de tu negocio. Aumentando la calidad y ventas en sus servicios.",
+            "ciudad": "Los Olivos",
+            "provincia": "Lima",
+            "industria": "Call Center"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 11861983,
+            "localidadIdSemantico": "peru|lima|los-olivos",
+            "direccion": null,
+            "detalle": "Los Olivos, Lima, Peru",
+            "id": 11861983,
+            "localidadStringId": "los-olivos",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Los Olivos",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 25,
+            "nombre": "Atención al Cliente, Call Center y Telemarketing",
+            "idSemantico": "atencion-al-cliente-call-center-y-telemarketing",
+            "stringId": "atencion-al-cliente-call-center-y-telemarketing"
+        },
+        "subArea": {
+            "id": 110,
+            "nombre": "Call Center",
+            "idSemantico": "atencion-al-cliente-call-center-y-telemarketing|call-center",
+            "stringId": "call-center"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49593151,
+                    "texto": "Número de whatsapp"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 1,
+            "nombre": "Part-time",
+            "idSemantico": "part-time",
+            "stringId": "part-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Sin Experiencia",
+            "idSemantico": "sin-experiencia",
+            "id": 6,
+            "stringId": "sin-experiencia"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": true,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118329494,
+        "descripcionSimple": "<p><u><strong>Se busca personal para incorporarse en Kontacta Solutions</strong></u>.</p><p>Ofrecemos posiciones tanto a tiempo completo como a tiempo parcial para candidatos sin experiencia previa.</p><p>Buscamos personas con disponibilidad para trabajar en horario fijo y con predisposición a trabajar bajo presión.</p><p>Si estás dispuesto a pasar por una capacitación con buena actitud, esta oportunidad es para ti.</p><p>En<strong> Kontacta Solutions</strong> valoramos el compromiso y la capacidad de adaptación.</p><p>Tu disposición para trabajar en horarios fijos y bajo condiciones de presión es fundamental para nuestro equipo.</p><p>Estamos comprometidos a ofrecer una experiencia de capacitación que te permitirá desarrollar tus habilidades y crecer profesionalmente.</p><p><strong>¿CUÁLES SERÁN MIS BENEFICIOS?</strong></p><p>Posibilidad de hacer línea de carrera</p><p>Convenios corporativos</p><p>Bonos por asistencia y mas</p><p>Incentivos con programa de puntos</p><p>Retos diarios</p><p>Modalidad <strong>Full Time</strong>:</p><p>Modalidad <strong>Semi Full</strong>:</p><p>¡¡¡Somos el mejor Call Center de Lima Norte, y estamos en búsqueda de Talentos como tú!!!</p><p>¡Ven y únete al mejor equipo de ventas, tenemos las mejores Comisiones, Sueldo básico por encima del mercado y el mejor Ambiente Laboral, míralo tú mismo en nuestras Redes Tiktok, Facebook como Kontacta_Solutions</p><p>SEDE: Los Olivos</p><p><strong>¿QUÉ NECESITAS PARA APLICAR A ESTE PUESTO?</strong></p><p>- <u>No Necesitas Experiencia</u> ¡¡¡NOSOTROS TE CAPACITAMOS¡!!</p><p>- Responsabilidad y predisposición a aprender.</p><p>- Manejo de PC a nivel usuario</p><p>- Disponibilidad para trabajar de forma presencial</p><p>Si tienes interés en comenzar una nueva trayectoria laboral y estás abierto a aprender y adaptarte, esta es tu oportunidad.</p><p>No necesitas experiencia previa, solo la actitud y la disponibilidad para comenzar una nueva etapa en un ambiente dinámico y desafiante.</p><p>Únete a nosotros y contribuye al éxito de Kontacta Solutions. PUEDES ACERCARTE A ENTREVISTA DE LUNES A VIERNES DESDE LAS 10AM A 2PM Lugar: AV. NARANJAL 1308 - LOS OLIVOS (PISO 3) 908902235</p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "call-center",
+                "name": "Call Center"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "part-time",
+                "name": "Part-time"
+            },
+            {
+                "id": "provincia",
+                "value": 11861983
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "atencion-al-cliente-call-center-y-telemarketing",
+                "name": "Atención al Cliente, Call Center y Telemarketing"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/part-time-fulltime-sin-experiencia-solo-de-l-a-v-turno-manana-kontacta-solutions-s.a.c.-1118329494.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118332244,
+            "confidencial": false,
+            "detalle": "Postúlate a: Auxiliar Administrativo de Operaciones - Call Center SurquilloFunciones: Redactar, actualizar, administrar y analizar las bases de datos que maneja la cuenta. Brindar soporte a la operación con el seguimiento de los datos arrojados por la campaña. Realizar análisis e informes, y ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10140232_bum_vc02b9bdf.jpg",
+            "titulo": "AUXILIAR ADMINISTRATIVO DE OPERACIONES - CALL CENTER",
+            "empresa": "KONECTA",
+            "empresaPro": false,
+            "localizacion": "Surquillo, Lima",
+            "area": "Atención al Cliente, Call Center y Telemarketing",
+            "subarea": "Call Center",
+            "fechaHoraPublicacion": "15-06-2026 15:19:52",
+            "fechaModificado": "15-06-2026 15:19:52",
+            "fechaPublicacion": "15-06-2026 15:19:52",
+            "modalidadTrabajo": "Remoto",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118331903,
+            "confidencial": false,
+            "detalle": "Actualmente estamos en la búsqueda de un Líder de Operaciones (televentas). para formar parte del equipo.Te ofrecemos Lunes a Viernes de 9:00 a.m. a 6:00 p.m., y Sábados de 9:00 a.m. a 3:00 p.m. (no incluye feriados). Sueldo fijo + Tarjeta de alimentos + comisiones en TR Oportunidad de línea de ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10140232_bum_vc02b9bdf.jpg",
+            "titulo": "Líder de Operaciones (Televentas) - Call Center",
+            "empresa": "KONECTA",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Atención al Cliente, Call Center y Telemarketing",
+            "subarea": "Call Center",
+            "fechaHoraPublicacion": "15-06-2026 12:08:39",
+            "fechaModificado": "15-06-2026 12:47:00",
+            "fechaPublicacion": "15-06-2026 12:08:39",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331734,
+            "confidencial": false,
+            "detalle": "Somos TCONTAKTO, empresa perteneciente al grupo Logixtal y Mall Hogar, especializados en servicios de OUTSOURCING, INTELIGENCIA COMERCIAL Y CONTACT CENTER. En la actualidad nos encontramos en la búsqueda de talentos para el cargo de FORMADOR DE VENTAS - SEDE CERCADO DE LIMARequisitos: Experiencia ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10074401_bum_vdbd3b154.jpg",
+            "titulo": "Formador de Ventas - Call Center",
+            "empresa": "TCONTAKTO SAC",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Atención al Cliente, Call Center y Telemarketing",
+            "subarea": "Call Center",
+            "fechaHoraPublicacion": "15-06-2026 11:16:56",
+            "fechaModificado": "15-06-2026 11:45:35",
+            "fechaPublicacion": "15-06-2026 11:16:56",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331578,
+            "confidencial": false,
+            "detalle": "¡Haz historia con nosotros y lleva tu carrera al siguiente nivel!En Los Portales, con más de 60 años de trayectoria impulsando el desarrollo de negocios en el sector inmobiliario y hotelero, y brindando oportunidades para las familias peruanas, estamos en busca de un(a) Gestor de Cobranzas para ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2031850_bum_v17f8d163.jpg",
+            "titulo": "Gestor de cobranzas",
+            "empresa": "Los Portales",
+            "empresaPro": false,
+            "localizacion": "Magdalena del Mar, Lima",
+            "area": "Atención al Cliente, Call Center y Telemarketing",
+            "subarea": "Call Center",
+            "fechaHoraPublicacion": "15-06-2026 10:24:40",
+            "fechaModificado": "15-06-2026 14:27:25",
+            "fechaPublicacion": "15-06-2026 10:24:40",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118331591,
+            "confidencial": false,
+            "detalle": "Asesor de Ventas Resumen del Puesto Buscamos un Asesor de Ventas proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas y estará enfocado en alcanzar y superar objetivos comerciales. Responsabilidades  Atender y asesorar a ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Asesor de Ventas",
+            "empresa": "SHIRLEY CONDORI HUAMANI",
+            "empresaPro": null,
+            "localizacion": "Comas, Lima",
+            "area": "Atención al Cliente, Call Center y Telemarketing",
+            "subarea": "Call Center",
+            "fechaHoraPublicacion": "15-06-2026 10:28:47",
+            "fechaModificado": "15-06-2026 10:28:47",
+            "fechaPublicacion": "15-06-2026 10:28:47",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

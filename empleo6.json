@@ -1,0 +1,326 @@
+{
+    "aviso": {
+        "fechaPublicacion": "17-06-2026",
+        "fechaHoraPublicacion": "17-06-2026 15:56:12",
+        "fechaFinalizacion": "15-09-2026",
+        "fechaModificado": "17-06-2026 15:56:12",
+        "estado": "activo",
+        "titulo": "Asesor Financiero Full Time Banco Ripley Jockey Plaza",
+        "descripcion": "<p>¡En Banco Ripley estamos en búsqueda de Talento!</p><p>Ven y forma parte del equipo como Asesor Financiero en la modalidad Full Time.</p><p>¿Cuáles serán tus funciones?</p><ul> <li>Brindar una atención personalizada al cliente para la colocación y seguimiento postventa de los productos financieros de activos y pasivos del banco, asimismo, ejecutar operaciones de caja y plataforma, cumpliendo con las metas comerciales.</li></ul><p>¿Qué necesitamos de ti?</p><ul> <li>Carrera técnica o universitaria en Banca y Finanzas.</li> <li>Contar con 06 meses a más de experiencia en el rubro bancario.</li> <li>Experiencia en colocación de productos financieros, caja, plataforma o ventas en general.</li> <li>Disponibilidad para trabajar en horarios rotativos entre 10:30 am a 10:30 pm.</li> <li>Horario Rotativo Full Time (46 horas semanales), entre Lun a Dom: 5 veces por semana, 2 días de descanso.</li></ul><p>¿Qué beneficios tendré?</p><ul> <li>Planilla directa del Banco del Ripley + Beneficios corporativos + Remuneración + Comisiones.</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 5,
+        "empresa": {
+            "denominacion": "BANCO RIPLEY PERU S.A.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1299020_aviso_1118219472_bum_vaf8b67a2.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": null,
+            "gptwUrl": null,
+            "id": null,
+            "videoUrl": null
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 12130863,
+            "localidadIdSemantico": "peru|lima|santiago-de-surco",
+            "direccion": null,
+            "detalle": "Santiago de Surco, Lima, Peru",
+            "id": 12130863,
+            "localidadStringId": "santiago-de-surco",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Santiago de Surco",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 1,
+            "nombre": "Administración, Contabilidad y Finanzas",
+            "idSemantico": "administracion-contabilidad-y-finanzas",
+            "stringId": "administracion-contabilidad-y-finanzas"
+        },
+        "subArea": {
+            "id": 25,
+            "nombre": "Finanzas",
+            "idSemantico": "administracion-contabilidad-y-finanzas|finanzas",
+            "stringId": "finanzas"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49604231,
+                    "texto": "¿En qué distrito te encuentras residiendo?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49604232,
+                    "texto": "¿Cuentas con experiencia en el puesto o realizando funciones similares? ¡Menciona detalles!"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49604233,
+                    "texto": "¿Cuentas con disponibilidad para trabajar como Full Time (46 horas semanales) Lun a Dom: 5 veces por semana, 2 días de descanso?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49604234,
+                    "texto": "Si actualmente te encuentras estudiando, indícanos tu horario de clases!"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Junior",
+            "idSemantico": "junior",
+            "id": 2,
+            "stringId": "junior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 931,
+            "nombre": "asesor financiero",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/finanzas/asesor-financiero_931.html"
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118335917,
+        "descripcionSimple": "<p>¡En Banco Ripley estamos en búsqueda de Talento!</p><p>Ven y forma parte del equipo como Asesor Financiero en la modalidad Full Time.</p><p>¿Cuáles serán tus funciones?</p><ul> <li>Brindar una atención personalizada al cliente para la colocación y seguimiento postventa de los productos financieros de activos y pasivos del banco, asimismo, ejecutar operaciones de caja y plataforma, cumpliendo con las metas comerciales.</li></ul><p>¿Qué necesitamos de ti?</p><ul> <li>Carrera técnica o universitaria en Banca y Finanzas.</li> <li>Contar con 06 meses a más de experiencia en el rubro bancario.</li> <li>Experiencia en colocación de productos financieros, caja, plataforma o ventas en general.</li> <li>Disponibilidad para trabajar en horarios rotativos entre 10:30 am a 10:30 pm.</li> <li>Horario Rotativo Full Time (46 horas semanales), entre Lun a Dom: 5 veces por semana, 2 días de descanso.</li></ul><p>¿Qué beneficios tendré?</p><ul> <li>Planilla directa del Banco del Ripley + Beneficios corporativos + Remuneración + Comisiones.</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "finanzas",
+                "name": "Finanzas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 12130863
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "administracion-contabilidad-y-finanzas",
+                "name": "Administración, Contabilidad y Finanzas"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/asesor-financiero-full-time-banco-ripley-jockey-plaza-banco-ripley-peru-s.a.-1118335917.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118336189,
+            "confidencial": false,
+            "detalle": "¡Únete a nuestro equipo!Somos Agrobanco el principal instrumento de apoyo financiero del estado cuyo objetivo fundamental es promover y facilitar el otorgamiento de créditos a los pequeños productores agropecuarios del Perú.Nos encontramos en búsqueda de un profesional altamente motivado para ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.59,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2226740_bum_v6f7f042e.jpg",
+            "titulo": "Analista de Finanzas - Sector Financiero",
+            "empresa": "Banco Agropecuario",
+            "empresaPro": false,
+            "localizacion": "San Isidro, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Finanzas",
+            "fechaHoraPublicacion": "17-06-2026 17:47:43",
+            "fechaModificado": "17-06-2026 17:47:43",
+            "fechaPublicacion": "17-06-2026 17:47:43",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118336136,
+            "confidencial": false,
+            "detalle": "¡En Banco Ripley estamos en búsqueda de Talento!Ven y forma parte del equipo como Asesor Financiero en la modalidad Full Time.¿Cuáles serán tus funciones? Brindar una atención personalizada al cliente para la colocación y seguimiento postventa de los productos financieros de activos y pasivos del ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1299020_aviso_1118219472_bum_vaf8b67a2.jpg",
+            "titulo": "Asesor Financiero Full Time Banco Ripley Santa Anita",
+            "empresa": "BANCO RIPLEY PERU S.A.",
+            "empresaPro": null,
+            "localizacion": "Santa Anita, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Finanzas",
+            "fechaHoraPublicacion": "17-06-2026 17:14:37",
+            "fechaModificado": "17-06-2026 17:14:37",
+            "fechaPublicacion": "17-06-2026 17:14:37",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 5,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118336113,
+            "confidencial": false,
+            "detalle": "Somos UNACEM Global Business Services, parte del Centro Corporativo del Grupo UNACEM. Nuestro objetivo es centralizar, estandarizar y brindar servicios corporativos en todas nuestras unidades de negocio en Perú, Ecuador, Estados Unidos, Chile y Colombia. Juntos por el camino de la orientación al ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13509460_bum_vbef66f14.jpg",
+            "titulo": "Analista Financiero de Reportes (Temporal)",
+            "empresa": "UNACEM Global Business Services ",
+            "empresaPro": null,
+            "localizacion": "San Isidro, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Finanzas",
+            "fechaHoraPublicacion": "17-06-2026 16:59:45",
+            "fechaModificado": "17-06-2026 17:01:07",
+            "fechaPublicacion": "17-06-2026 16:59:45",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118336070,
+            "confidencial": false,
+            "detalle": "¡En Banco Ripley estamos en búsqueda de Talento!Ven y forma parte del equipo como Asesor Financiero en la modalidad Full Time.¿Cuáles serán tus funciones? Brindar una atención personalizada al cliente para la colocación y seguimiento postventa de los productos financieros de activos y pasivos del ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1299020_aviso_1118219472_bum_vaf8b67a2.jpg",
+            "titulo": "Asesor Financiero Full Time Banco Ripley San Isidro",
+            "empresa": "BANCO RIPLEY PERU S.A.",
+            "empresaPro": null,
+            "localizacion": "San Isidro, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Finanzas",
+            "fechaHoraPublicacion": "17-06-2026 16:47:15",
+            "fechaModificado": "17-06-2026 16:47:15",
+            "fechaPublicacion": "17-06-2026 16:47:15",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 5,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118336066,
+            "confidencial": false,
+            "detalle": "¡En Banco Ripley estamos en búsqueda de Talento!Ven y forma parte del equipo como Asesor Financiero en la modalidad Full Time.¿Cuáles serán tus funciones? Brindar una atención personalizada al cliente para la colocación y seguimiento postventa de los productos financieros de activos y pasivos del ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1299020_aviso_1118219472_bum_vaf8b67a2.jpg",
+            "titulo": "Asesor Financiero Full Time Banco Ripley San Borja",
+            "empresa": "BANCO RIPLEY PERU S.A.",
+            "empresaPro": null,
+            "localizacion": "San Miguel, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Finanzas",
+            "fechaHoraPublicacion": "17-06-2026 16:46:22",
+            "fechaModificado": "17-06-2026 16:46:22",
+            "fechaPublicacion": "17-06-2026 16:46:22",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 5,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "aviso": {
+        "fechaPublicacion": "16-06-2026",
+        "fechaHoraPublicacion": "16-06-2026 12:20:34",
+        "fechaFinalizacion": "14-09-2026",
+        "fechaModificado": "16-06-2026 12:20:34",
+        "estado": "activo",
+        "titulo": "Call Center - Part Time - Surquillo",
+        "descripcion": "<p><strong>Sol Resplandeciente <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div></strong> es una empresa peruana con más de 9 años de trayectoria en el mercado, dedicada a la comercialización de productos premium para el hogar. Nos caracterizamos por promover el desarrollo profesional de nuestros colaboradores, brindando oportunidades de aprendizaje, crecimiento y capacitación constante en un ambiente laboral dinámico y orientado a resultados.</p><p>Actualmente buscamos talentos con actitud positiva y ganas de desarrollar habilidades de comunicación y atención al cliente.</p> <strong>Practicante de Call Center – Medio Tiempo</strong><p>Nos encontramos en la búsqueda de estudiantes y jóvenes talentos para formar parte de nuestro equipo de Call Center. Si tienes facilidad de comunicación, buena actitud y deseas adquirir experiencia laboral, esta oportunidad es para ti.</p>Funciones<ul> <li>Realizar llamadas a clientes potenciales.</li> <li>Brindar información y orientación de acuerdo con los lineamientos de la empresa.</li> <li>Seguir los guiones y protocolos de comunicación establecidos.</li> <li>Registrar información obtenida durante las llamadas.</li> <li>Agendar citas para el equipo comercial.</li> <li>Mantener una comunicación cordial y profesional con los clientes.</li></ul>Horario<p> Lunes a Viernes: 4:30 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div> a 8:30 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div><br /> Sábados: 9:00 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div> a 1:00 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div></p><p> Modalidad presencial – Surquillo.</p><p><strong>¡Postula y desarrolla tu experiencia profesional con nosotros!</strong></p><br/> Requisitos:<br/> Requisitos<ul> <li>Estudiante técnico o universitario de cualquier carrera.</li> <li>Buena dicción y facilidad de palabra.</li> <li>Actitud proactiva y disposición para aprender.</li> <li>Disponibilidad para trabajar de manera presencial.</li> <li>Residir en zonas con fácil acceso a Surquillo</li></ul><br/> Beneficios Beneficios<ul> <li>Horario de medio tiempo compatible con estudios.</li> <li>Remuneración mensual de <strong>S/ 550</strong>.</li> <li>Bono por desempeño de hasta <strong>S/ 200</strong> mensuales.</li> <li>Capacitación constante.</li> <li>Excelente ambiente laboral.</li> <li>Certificado de prácticas.</li> <li>Oportunidad de desarrollar experiencia en atención al cliente y comunicación comercial.</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "SOL RESPLANDECIENTE S.A.C.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13195406_bum_v9dfa41ec.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 5,
+            "gptwUrl": null,
+            "id": 13195406,
+            "rangoEmpleados": "Entre 1 y 10",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": false,
+            "validada": null,
+            "empresaPro": null,
+            "descripcion": "Es una empresa peruana fundada en 2017 que se especializa en la comercialización de utensilios de cocina de alta gama",
+            "ciudad": " LIMA - SAN BORJA",
+            "provincia": "Lima",
+            "industria": "Comercio"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 428,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 6171,
+            "localidadIdSemantico": "peru|lima|lima",
+            "direccion": null,
+            "detalle": "Lima, Lima, Peru",
+            "id": 6171,
+            "localidadStringId": "lima",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Lima",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 6,
+            "nombre": "Comercial, Ventas y Negocios",
+            "idSemantico": "comercial-ventas-y-negocios",
+            "stringId": "comercial-ventas-y-negocios"
+        },
+        "subArea": {
+            "id": 35,
+            "nombre": "Ventas",
+            "idSemantico": "comercial-ventas-y-negocios|ventas",
+            "stringId": "ventas"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 1,
+            "nombre": "Part-time",
+            "idSemantico": "part-time",
+            "stringId": "part-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Senior / Semi-Senior",
+            "idSemantico": "senior-semi-senior",
+            "id": 1,
+            "stringId": "senior-semi-senior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "HIRING_ROOM",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 958,
+            "nombre": "call center",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/ventas/call-center_958.html"
+        },
+        "tipoContratacion": null,
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": true,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118333666,
+        "descripcionSimple": "<p><strong>Sol Resplandeciente <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div></strong> es una empresa peruana con más de 9 años de trayectoria en el mercado, dedicada a la comercialización de productos premium para el hogar. Nos caracterizamos por promover el desarrollo profesional de nuestros colaboradores, brindando oportunidades de aprendizaje, crecimiento y capacitación constante en un ambiente laboral dinámico y orientado a resultados.</p><p>Actualmente buscamos talentos con actitud positiva y ganas de desarrollar habilidades de comunicación y atención al cliente.</p> <strong>Practicante de Call Center – Medio Tiempo</strong><p>Nos encontramos en la búsqueda de estudiantes y jóvenes talentos para formar parte de nuestro equipo de Call Center. Si tienes facilidad de comunicación, buena actitud y deseas adquirir experiencia laboral, esta oportunidad es para ti.</p>Funciones<ul> <li>Realizar llamadas a clientes potenciales.</li> <li>Brindar información y orientación de acuerdo con los lineamientos de la empresa.</li> <li>Seguir los guiones y protocolos de comunicación establecidos.</li> <li>Registrar información obtenida durante las llamadas.</li> <li>Agendar citas para el equipo comercial.</li> <li>Mantener una comunicación cordial y profesional con los clientes.</li></ul>Horario<p> Lunes a Viernes: 4:30 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div> a 8:30 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div><br /> Sábados: 9:00 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div> a 1:00 <div style=\"display:inline-block;\"><img width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"></div></p><p> Modalidad presencial – Surquillo.</p><p><strong>¡Postula y desarrolla tu experiencia profesional con nosotros!</strong></p><br/> Requisitos:<br/> Requisitos<ul> <li>Estudiante técnico o universitario de cualquier carrera.</li> <li>Buena dicción y facilidad de palabra.</li> <li>Actitud proactiva y disposición para aprender.</li> <li>Disponibilidad para trabajar de manera presencial.</li> <li>Residir en zonas con fácil acceso a Surquillo</li></ul><br/> Beneficios Beneficios<ul> <li>Horario de medio tiempo compatible con estudios.</li> <li>Remuneración mensual de <strong>S/ 550</strong>.</li> <li>Bono por desempeño de hasta <strong>S/ 200</strong> mensuales.</li> <li>Capacitación constante.</li> <li>Excelente ambiente laboral.</li> <li>Certificado de prácticas.</li> <li>Oportunidad de desarrollar experiencia en atención al cliente y comunicación comercial.</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "ventas",
+                "name": "Ventas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "part-time",
+                "name": "Part-time"
+            },
+            {
+                "id": "provincia",
+                "value": 6171
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "comercial-ventas-y-negocios",
+                "name": "Comercial, Ventas y Negocios"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/call-center-part-time-surquillo-sol-resplandeciente-s.a.c.-1118333666.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118334302,
+            "confidencial": false,
+            "detalle": "Somos OftalmoMedic, una clínica líder en el sector salud oftalmológico, especializada en cirugías oculares de alta complejidad. Nuestra misión es clara: curar los ojos de todos en el Perú, y para lograrlo, buscamos al mejor talento para unirse a nuestro equipo como:&#x1f50e; Puesto: Ejecutivo(a) ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10103141_bum_vbbb7d825.jpg",
+            "titulo": "Ejecutivo Comercial Empresas (B2B) / Lince",
+            "empresa": "OftalmoMedic Clínica de ojos  ",
+            "empresaPro": false,
+            "localizacion": "Lince, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "16-06-2026 16:25:08",
+            "fechaModificado": "16-06-2026 16:25:08",
+            "fechaPublicacion": "16-06-2026 16:25:08",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118334222,
+            "confidencial": true,
+            "detalle": "&#x1f680; ¿Te gustaría generar ingresos desde casa con horarios flexibles?Estamos incorporando nuevos talentos a nuestro Equipo Internacional de Ventas Online.Tu función será:&#x2714;&#xfe0f; Promocionar nuestros productos en redes sociales.&#x2714;&#xfe0f; Conversar con clientes ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Por Horas",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "¿Te gustaría generar ingresos desde casa con horarios flexibles?",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Piura, Piura",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "16-06-2026 15:58:03",
+            "fechaModificado": "16-06-2026 15:58:03",
+            "fechaPublicacion": "16-06-2026 15:58:03",
+            "modalidadTrabajo": "Remoto",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118334218,
+            "confidencial": true,
+            "detalle": "&#x1f680; ¿Te gustaría generar ingresos desde casa con horarios flexibles?Estamos incorporando nuevos talentos a nuestro Equipo Internacional de Ventas Online.Tu función será:&#x2714;&#xfe0f; Promocionar nuestros productos en redes sociales.&#x2714;&#xfe0f; Conversar con clientes ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Por Horas",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "¿Te gustaría generar ingresos desde casa con horarios flexibles?",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Trujillo, La Libertad",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "16-06-2026 15:56:45",
+            "fechaModificado": "16-06-2026 15:56:45",
+            "fechaPublicacion": "16-06-2026 15:56:45",
+            "modalidadTrabajo": "Remoto",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118334214,
+            "confidencial": false,
+            "detalle": "¡Buscamos un Analista Retail para Canales de Venta! &#x1f4e6;&#x1f4ca;¿Eres un apasionado del análisis de datos en un entorno ágil y desafiante? En PORTA buscamos a un profesional detallista y estratégico para asegurar que nuestros productos lleguen al lugar correcto, en el momento preciso y en las ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10060271_bum_vba297b2a.jpg",
+            "titulo": "ANALISTA RETAIL - CANALES DE VENTA",
+            "empresa": "PORTA",
+            "empresaPro": false,
+            "localizacion": "La Molina, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "16-06-2026 15:54:47",
+            "fechaModificado": "16-06-2026 15:54:47",
+            "fechaPublicacion": "16-06-2026 15:54:47",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118334212,
+            "confidencial": true,
+            "detalle": "&#x1f680; ¿Te gustaría generar ingresos desde casa con horarios flexibles?Estamos incorporando nuevos talentos a nuestro Equipo Internacional de Ventas Online.Tu función será:&#x2714;&#xfe0f; Promocionar nuestros productos en redes sociales.&#x2714;&#xfe0f; Conversar con clientes ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Por Horas",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "¿Te gustaría generar ingresos desde casa con horarios flexibles?",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Ayacucho, Ayacucho",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "16-06-2026 15:54:12",
+            "fechaModificado": "16-06-2026 15:54:12",
+            "fechaPublicacion": "16-06-2026 15:54:12",
+            "modalidadTrabajo": "Remoto",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}
