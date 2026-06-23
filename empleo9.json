@@ -1,0 +1,303 @@
+{
+    "aviso": {
+        "fechaPublicacion": "22-06-2026",
+        "fechaHoraPublicacion": "22-06-2026 16:21:28",
+        "fechaFinalizacion": "20-09-2026",
+        "fechaModificado": "22-06-2026 16:21:28",
+        "estado": "activo",
+        "titulo": "Jefe de Operaciones Logísticas",
+        "descripcion": "<p><span style=\"\">Buscamos un líder con experiencia en transporte terrestre de alcance nacional, capaz de gestionar operaciones de alto volumen, negociar con operadores logísticos y asegurar la continuidad del servicio en entornos exigentes.</span></p><p><span style=\"\">Si has liderado operaciones de transporte y distribución, administrado proveedores estratégicos y gestionado indicadores de desempeño, esta es una excelente oportunidad para seguir creciendo profesionalmente.</span></p><p> </p><p> </p><p><strong> Tu principal desafío</strong></p><p>Liderar una operación logística de gran escala, garantizando la disponibilidad de transporte, el cumplimiento de los niveles de servicio, la optimización de costos y la gestión eficiente de proveedores estratégicos a nivel nacional.</p><p> </p><p><strong> Principales responsabilidades</strong></p><p> Liderar la gestión de las operaciones de transporte a nivel nacional, asegurando la atención oportuna de los requerimientos del negocio.</p><p> Gestionar y fortalecer la relación con operadores logísticos y empresas de transporte, velando por el cumplimiento de los acuerdos de servicio.</p><p> Monitorear indicadores de desempeño, productividad, costos y nivel de servicio, impulsando acciones de mejora continua.</p><p> Negociar tarifas y condiciones comerciales con proveedores estratégicos, identificando oportunidades de optimización y eficiencia.</p><p> Gestionar contingencias operativas y asegurar la continuidad de la operación en escenarios de alta demanda.</p><p> Liderar y desarrollar al equipo a cargo, promoviendo una cultura orientada a la seguridad, la colaboración y el logro de resultados.</p><br/> Requisitos:<br/> <p><strong> Perfil que buscamos</strong></p><p><strong>Formación</strong></p><ul> <li>Bachiller en Ingeniería Industrial, Ingeniería de Transporte, Administración o carreras afines.</li></ul><p><strong>Experiencia</strong></p><ul> <li>Mínimo 5 años de experiencia en operaciones de transporte, distribución o logística.</li> <li>Mínimo 2 años ocupando posiciones de Jefatura de Operaciones Logísticas, Jefatura de Transporte, Jefatura de Transporte y Distribución o similares.</li> <li>Experiencia liderando operaciones de transporte terrestre de alcance nacional y alto volumen.</li> <li>Experiencia en gestión y negociación con empresas de transporte y operadores logísticos.</li></ul><p><strong>Conocimientos</strong></p><ul> <li>Gestión de transporte y distribución.</li> <li>Indicadores logísticos y control presupuestal.</li> <li>Gestión de flota tercerizada.</li> <li>SAP y Microsoft Office a nivel intermedio.</li></ul><br/> Beneficios <p><strong> Te ofrecemos</strong></p><p> Ingreso a planilla desde el primer día.</p><p> Todos los beneficios de ley.</p><p> Participar en una operación logística de alcance nacional y alta complejidad.</p><p> Integrarte a una organización sólida.</p><p> </p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "confidencial": true,
+            "videoUrl": null,
+            "inclusiva": false
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 428,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 6171,
+            "localidadIdSemantico": "peru|lima|lima",
+            "direccion": null,
+            "detalle": "Lima, Lima, Peru",
+            "id": 6171,
+            "localidadStringId": "lima",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Lima",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 3,
+            "nombre": "Abastecimiento y Logística",
+            "idSemantico": "abastecimiento-y-logistica",
+            "stringId": "abastecimiento-y-logistica"
+        },
+        "subArea": {
+            "id": 54,
+            "nombre": "Distribución",
+            "idSemantico": "abastecimiento-y-logistica|distribucion",
+            "stringId": "distribucion"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Senior / Semi-Senior",
+            "idSemantico": "senior-semi-senior",
+            "id": 1,
+            "stringId": "senior-semi-senior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "HIRING_ROOM",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": null,
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118341277,
+        "descripcionSimple": "<p><span style=\"\">Buscamos un líder con experiencia en transporte terrestre de alcance nacional, capaz de gestionar operaciones de alto volumen, negociar con operadores logísticos y asegurar la continuidad del servicio en entornos exigentes.</span></p><p><span style=\"\">Si has liderado operaciones de transporte y distribución, administrado proveedores estratégicos y gestionado indicadores de desempeño, esta es una excelente oportunidad para seguir creciendo profesionalmente.</span></p><p> </p><p> </p><p><strong> Tu principal desafío</strong></p><p>Liderar una operación logística de gran escala, garantizando la disponibilidad de transporte, el cumplimiento de los niveles de servicio, la optimización de costos y la gestión eficiente de proveedores estratégicos a nivel nacional.</p><p> </p><p><strong> Principales responsabilidades</strong></p><p> Liderar la gestión de las operaciones de transporte a nivel nacional, asegurando la atención oportuna de los requerimientos del negocio.</p><p> Gestionar y fortalecer la relación con operadores logísticos y empresas de transporte, velando por el cumplimiento de los acuerdos de servicio.</p><p> Monitorear indicadores de desempeño, productividad, costos y nivel de servicio, impulsando acciones de mejora continua.</p><p> Negociar tarifas y condiciones comerciales con proveedores estratégicos, identificando oportunidades de optimización y eficiencia.</p><p> Gestionar contingencias operativas y asegurar la continuidad de la operación en escenarios de alta demanda.</p><p> Liderar y desarrollar al equipo a cargo, promoviendo una cultura orientada a la seguridad, la colaboración y el logro de resultados.</p><br/> Requisitos:<br/> <p><strong> Perfil que buscamos</strong></p><p><strong>Formación</strong></p><ul> <li>Bachiller en Ingeniería Industrial, Ingeniería de Transporte, Administración o carreras afines.</li></ul><p><strong>Experiencia</strong></p><ul> <li>Mínimo 5 años de experiencia en operaciones de transporte, distribución o logística.</li> <li>Mínimo 2 años ocupando posiciones de Jefatura de Operaciones Logísticas, Jefatura de Transporte, Jefatura de Transporte y Distribución o similares.</li> <li>Experiencia liderando operaciones de transporte terrestre de alcance nacional y alto volumen.</li> <li>Experiencia en gestión y negociación con empresas de transporte y operadores logísticos.</li></ul><p><strong>Conocimientos</strong></p><ul> <li>Gestión de transporte y distribución.</li> <li>Indicadores logísticos y control presupuestal.</li> <li>Gestión de flota tercerizada.</li> <li>SAP y Microsoft Office a nivel intermedio.</li></ul><br/> Beneficios <p><strong> Te ofrecemos</strong></p><p> Ingreso a planilla desde el primer día.</p><p> Todos los beneficios de ley.</p><p> Participar en una operación logística de alcance nacional y alta complejidad.</p><p> Integrarte a una organización sólida.</p><p> </p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "distribucion",
+                "name": "Distribución"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 6171
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "abastecimiento-y-logistica",
+                "name": "Abastecimiento y Logística"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/jefe-de-operaciones-logisticas-1118341277.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118333508,
+            "confidencial": false,
+            "detalle": "Supervisor de Operaciones LogísticasOBJETIVO DEL PUESTO:Supervisar las operaciones de recepción, almacenamiento, planificación, slotting, acondicionado, picking, despacho e inventarios en el Centro de Distribución (CD) y/o DAS y DT, asegurando una ejecución eficiente, ordenada y alineada a los ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13395322_bum_vd466d158.jpg",
+            "titulo": "Supervisor de Operaciones Logísticas",
+            "empresa": "CL Selection by Cornerstone",
+            "empresaPro": false,
+            "localizacion": "Lurín, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Distribución",
+            "fechaHoraPublicacion": "16-06-2026 11:34:19",
+            "fechaModificado": "18-06-2026 10:51:43",
+            "fechaPublicacion": "16-06-2026 11:34:19",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118339415,
+            "confidencial": false,
+            "detalle": "Por encargo de nuestro cliente, Grupo Isamisa, empresa pecuaria peruana, nos encontramos en la búsqueda del mejor talento para cubrir la vacante de Jefe de Logística y Operaciones.Requisitos Administración, Ingeniería Industrial o carreras afines. Estudios de postgrado en Logística. Mínimo 5 años ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/3/0/0/6/6/5/4/logoMainPic_13006654_bum_v189eb562.jpg",
+            "titulo": "Jefe de Logística y Operaciones - pecuario/consumo masivo",
+            "empresa": "RCS Capital Humano",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Logística",
+            "fechaHoraPublicacion": "19-06-2026 18:56:36",
+            "fechaModificado": "19-06-2026 18:56:36",
+            "fechaPublicacion": "19-06-2026 18:56:36",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118310778,
+            "confidencial": false,
+            "detalle": "Por encargo de nuestro cliente, Grupo Isamisa, empresa pecuaria peruana, nos encontramos en la búsqueda del mejor talento para cubrir la vacante de Jefe de Logística y Operaciones.Requisitos Administración, Ingeniería Industrial o carreras afines Estudios de postgrado en Logística. Mínimo 5 años de ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/3/0/0/6/6/5/4/logoMainPic_13006654_bum_v189eb562.jpg",
+            "titulo": "Jefe de Logística y Operaciones",
+            "empresa": "RCS Capital Humano",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Logística",
+            "fechaHoraPublicacion": "28-05-2026 18:41:18",
+            "fechaModificado": "18-06-2026 15:54:58",
+            "fechaPublicacion": "28-05-2026 18:41:18",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118321506,
+            "confidencial": false,
+            "detalle": "Somos Talma, tenemos más de 30 años ofreciendo soluciones integrales, brindamos servicios aeroportuarios seguros, rápidos y eficientes, con una visión de liderar el mercado de servicios aeroportuarios en Latinoamérica y ser reconocidos por nuestros altos estándares de seguridad, calidad y ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.07,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/1/5/4/3/2/logoMainPic_10115432.jpg",
+            "titulo": "Jefe de Operaciones Logísticas | Duty Manager",
+            "empresa": "Talma Servicios Aeroportuarios",
+            "empresaPro": false,
+            "localizacion": "Gobierno Regional del Callao, Gobierno Regional del Callao",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Logística",
+            "fechaHoraPublicacion": "05-06-2026 16:07:45",
+            "fechaModificado": "15-06-2026 13:22:22",
+            "fechaPublicacion": "05-06-2026 16:07:45",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118308132,
+            "confidencial": false,
+            "detalle": "Nuestra empresa YOBEL, líder en gestión de cadena de suministros con presencia en más de 9 países, se encuentra en búsqueda de talentos comprometidos, proactivos y orientados a resultados para asumir el siguiente reto:SUPERVISOR DE OPERACIONES - ALMACÉN.¿Qué buscamos? Bachiller universitario en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2535330_bum_vb4d7d278.jpg",
+            "titulo": "SUPERVISOR DE ALMACÉN / OPERACIONES LOGÍSTICAS – LOS OLIVOS",
+            "empresa": "YOBEL",
+            "empresaPro": false,
+            "localizacion": "Los Olivos, Lima",
+            "area": "Abastecimiento y Logística",
+            "subarea": "Almacén / Depósito / Expedición",
+            "fechaHoraPublicacion": "27-05-2026 10:51:57",
+            "fechaModificado": "08-06-2026 18:29:08",
+            "fechaPublicacion": "27-05-2026 10:51:57",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

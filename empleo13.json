@@ -1,0 +1,356 @@
+{
+    "aviso": {
+        "fechaPublicacion": "22-06-2026",
+        "fechaHoraPublicacion": "22-06-2026 14:23:26",
+        "fechaFinalizacion": "20-09-2026",
+        "fechaModificado": "22-06-2026 14:23:26",
+        "estado": "activo",
+        "titulo": "Asistente de Ventas Part Time - Ripley Mall del Sur",
+        "descripcion": "<p>¡En Ripley estamos en búsqueda de Talento!</p><p>Ven y forma parte del equipo como <strong>ASISTENTE DE VENTA ASISTIDA.</strong></p><p>¿Cuáles serán tus funciones?</p><ul> <li><strong>Abordar proactivamente a clientes y asesorarlos durante su experiencia en tienda desde conocimientos específicos de los productos</strong>, logrando la conversión de la venta y completando las operaciones que derivan de ella; cumpliendo con los protocolos y procedimientos definidos por la compañía para atención al cliente, exhibición de productos y promover productos financieros en puntos transaccionales.</li></ul><p>¿Qué necesitamos de ti?</p><ul> <li>Secundaria completa, carrera trunca o Carrera técnica o universitaria en cursco</li> <li>Contar con 06 meses a más de experiencia en el ventas, promotoria de moda (ropa, calzado, beauty, etc).</li> <li>Experiencia comprada ventas.</li> <li>Disponibilidad para trabajar en horarios rotativos entre 3 pm a 10:30pm.</li> <li>Disponibilidad para trabajar en modalidad Part Time (18 horas semanales), 3 o 4 veces por semana.</li></ul><p>¿Qué beneficios tendré?</p><ul> <li>Planilla directa de Ripley + Beneficios corporativos + Remuneración + Comisiones.</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 20,
+        "empresa": {
+            "denominacion": "GRUPO RIPLEY",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1299020_bum_ve1c19168.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 2000,
+            "gptwUrl": null,
+            "id": 1299020,
+            "rangoEmpleados": "Entre 1001 y 5000",
+            "videoUrl": "https://www.youtube.com/embed/nbmuvcuD2NQ?wmode=transparent",
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": true,
+            "empresaPro": false,
+            "descripcion": "Cadena de tiendas por departamentos y retail chilena con fuerte presencia en Perú. Ofrece moda, electrodomésticos, hogar y también servicios financieros como tarjetas propias y crédito.",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Retail"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 11447405,
+            "localidadIdSemantico": "peru|lima|chorrillos",
+            "direccion": null,
+            "detalle": "Chorrillos, Lima, Peru",
+            "id": 11447405,
+            "localidadStringId": "chorrillos",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Chorrillos",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 6,
+            "nombre": "Comercial, Ventas y Negocios",
+            "idSemantico": "comercial-ventas-y-negocios",
+            "stringId": "comercial-ventas-y-negocios"
+        },
+        "subArea": {
+            "id": 23,
+            "nombre": "Comercial",
+            "idSemantico": "comercial-ventas-y-negocios|comercial",
+            "stringId": "comercial"
+        },
+        "requisitos": {
+            "edad": {
+                "excluyente": false,
+                "edadMinima": 20,
+                "edadMaxima": 50
+            },
+            "residencia": {
+                "excluyente": false,
+                "cercania": "provincia",
+                "cantidadKm": null
+            },
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 12
+            },
+            "genero": null,
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 1,
+                    "nombre": "Secundario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49613141,
+                    "texto": "¿Cuál es tu disponibilidad para comenzar a trabajar con nosotros?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49613142,
+                    "texto": "¿Estarías dispuesto a trabajar en turnos rotativos?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49613143,
+                    "texto": "¿Cuentas con experiencia en ventas y promotoría? ¿Cuánto tiempo y que tipo de producto?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49613144,
+                    "texto": "¿En que distrito vives? "
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Junior",
+            "idSemantico": "junior",
+            "id": 2,
+            "stringId": "junior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 504,
+            "nombre": "Asesor Comercial",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/comercial/asesor-comercial_504.html"
+        },
+        "tipoContratacion": {
+            "id": 2,
+            "nombre": "Temporal",
+            "idSemantico": "temporal"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118340958,
+        "descripcionSimple": "<p>¡En Ripley estamos en búsqueda de Talento!</p><p>Ven y forma parte del equipo como <strong>ASISTENTE DE VENTA ASISTIDA.</strong></p><p>¿Cuáles serán tus funciones?</p><ul> <li><strong>Abordar proactivamente a clientes y asesorarlos durante su experiencia en tienda desde conocimientos específicos de los productos</strong>, logrando la conversión de la venta y completando las operaciones que derivan de ella; cumpliendo con los protocolos y procedimientos definidos por la compañía para atención al cliente, exhibición de productos y promover productos financieros en puntos transaccionales.</li></ul><p>¿Qué necesitamos de ti?</p><ul> <li>Secundaria completa, carrera trunca o Carrera técnica o universitaria en cursco</li> <li>Contar con 06 meses a más de experiencia en el ventas, promotoria de moda (ropa, calzado, beauty, etc).</li> <li>Experiencia comprada ventas.</li> <li>Disponibilidad para trabajar en horarios rotativos entre 3 pm a 10:30pm.</li> <li>Disponibilidad para trabajar en modalidad Part Time (18 horas semanales), 3 o 4 veces por semana.</li></ul><p>¿Qué beneficios tendré?</p><ul> <li>Planilla directa de Ripley + Beneficios corporativos + Remuneración + Comisiones.</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "comercial",
+                "name": "Comercial"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 11447405
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "comercial-ventas-y-negocios",
+                "name": "Comercial, Ventas y Negocios"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/asistente-de-ventas-part-time-ripley-mall-del-sur-grupo-ripley-1118340958.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343250,
+            "confidencial": false,
+            "detalle": "&#x1f680; ¡TRABAJA EN SCOTIABANK CON TCONTAKTO! &#x1f680;&#x1f4b0; Bono de bienvenida S/200 + Comisiones ILIMITADAS + Planilla CompletaEn TCONTAKTO, empresa peruana certificada como Great Place to Work, estamos buscando nuevos talentos para nuestro equipo de ventas de SCOTIABANK PRESTAMOS DE LIBRE ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10074401_bum_vdbd3b154.jpg",
+            "titulo": "Asesor Comercial Scotiabank / Gana más de S/ 3,000 al mes",
+            "empresa": "TCONTAKTO SAC",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "23-06-2026 16:46:02",
+            "fechaModificado": "23-06-2026 16:46:02",
+            "fechaPublicacion": "23-06-2026 16:46:02",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 15,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343206,
+            "confidencial": false,
+            "detalle": "Pluz Energía Perú S.A.A, importante empresa multinacional líder en el sector Energía, se encuentra en la búsqueda de jóvenes orientados al cambio para cubrir la vacante de Practicante Profesional de Recaudo.Requisitos: Recién egresados de las carreras de Administración, Ingeniería ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.59,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2428500_bum_vbd2ac8a0.jpg",
+            "titulo": "Practicante Profesional de Recaudo",
+            "empresa": "Pluz Perú",
+            "empresaPro": false,
+            "localizacion": "San Borja, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "23-06-2026 16:23:22",
+            "fechaModificado": "23-06-2026 16:23:22",
+            "fechaPublicacion": "23-06-2026 16:23:22",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343191,
+            "confidencial": true,
+            "detalle": "Asesor Comercial de CampoArequipaPresencialS/ 1,500 a S/ 3,000 (Mensual bruto)1 PuestoContrato IntermitenteTiempo completoAsesor Comercial de Campo – Centro ComercialSomos una empresa dedicada al desarrollo y comercialización de espacios comerciales, enfocada en generar oportunidades de crecimiento ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Asesor Comercial de Campo",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Arequipa, Arequipa",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "23-06-2026 16:20:16",
+            "fechaModificado": "23-06-2026 16:20:16",
+            "fechaPublicacion": "23-06-2026 16:20:16",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343129,
+            "confidencial": false,
+            "detalle": "¡Estamos buscando Talento! &#x1f31f;Cargo: Asistente de Diseño GráficoSomos una empresa con más de 30 años de experiencia y nos encontramos en la búsqueda de profesionales talentosos como tú para unirse a nuestro equipo y participar en el crecimiento y éxito continuo de nuestra ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10002729_bum_vc65ec814.jpg",
+            "titulo": "Asistente de Diseño Gráfico",
+            "empresa": "Empresa Farmacéutica Veterinaria ",
+            "empresaPro": false,
+            "localizacion": "San Luis, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "23-06-2026 16:02:08",
+            "fechaModificado": "23-06-2026 16:02:08",
+            "fechaPublicacion": "23-06-2026 16:02:08",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343084,
+            "confidencial": false,
+            "detalle": "Somos Great Place to Work-Certificada&#x2122;Caja Huancayo es una empresa líder del sector microfinanciero que ofrece una experiencia de trabajo de estándares mundiales a sus colaboradores, organización que está comprometida con construir y mantener una cultura empresarial de alta confianza.Únete a ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.85,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10108213_bum_v7bef45cf.jpg",
+            "titulo": "ASESOR(A) DE NEGOCIOS CON/SIN EXPERIENCIA (PROD. EMPRENDE MUJER - CRED. GRUPALES) AGENCIA GAMARRA",
+            "empresa": "CAJA HUANCAYO",
+            "empresaPro": false,
+            "localizacion": "Independencia, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Comercial",
+            "fechaHoraPublicacion": "23-06-2026 15:44:32",
+            "fechaModificado": "23-06-2026 15:44:54",
+            "fechaPublicacion": "23-06-2026 15:44:32",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

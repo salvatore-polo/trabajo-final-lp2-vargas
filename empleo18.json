@@ -1,0 +1,335 @@
+{
+    "aviso": {
+        "fechaPublicacion": "26-02-2026",
+        "fechaHoraPublicacion": "26-02-2026 09:37:09",
+        "fechaFinalizacion": "26-06-2026",
+        "fechaModificado": "25-03-2026 14:10:15",
+        "estado": "activo",
+        "titulo": "SUPERVISOR DE GESTION DE CALIDAD",
+        "descripcion": "<p><p>¡Únete a nuestro equipo! Somos una empresa agroexportadora líder en el cultivo de arándanos, uva y palta. Buscamos personas comprometidas y apasionadas para formar parte de nuestro equipo como SUPERVISOR DE GESTION DE CALIDAD ¡Postúlate ahora y sé parte de nuestro éxito en la industria agroexportadora!</p></p> <p>Requisitos:</p><ul> <li>Bachiller o Titulado en Ing. Agrónoma o carreras afines.</li> <li>Conocimiento en normas de seguridad e inocuidad alimentaria vigentes como GLOBAL GAP v.5.4.1 y adendas FSMA, GRASP, TESCO, SPRING; SUSTAINABLY GROWN y RAINFOREST.</li> <li>Dominio de Power Bi y Excel a nivel intermedio o avanzado.</li> <li>Residencia o disponibilidad para trabajar en San Jacinto - Nepeña.</li></ul><p>Funciones:</p><ul> <li>Implementación de requerimientos de normativas y certificaciones de Inocuidad alimentaria , seguridad del trabajador, seguridad de suministro y responsabilidad social.</li> <li>Monitoreo de ejecución de solicitudes de acciones correctivas, preventivas o de mejora del Sistema de Gestión de la Calidad.</li> <li>Implementación y seguimiento de indicadores de gestión en el cumplimiento de los estándares de calidad establecidos y normativas implementadas.</li> <li>Participar en el entrenamiento a todo el personal para garantizar el cumplimiento del sistema de calidad establecido.</li> <li>Participar en la elaboración y actualización de procedimientos, instructivos y formatos.</li> <li>Otras funciones afines asignadas por Jefatura inmediata.</li></ul><p>Beneficios:</p><ul> <li>Ingreso a planilla con todos los beneficios ley.</li> <li>Capacitaciones, desarrollo y crecimiento profesional</li> <li>Grato ambiente de trabajo y excelente clima laboral.</li></ul><p>Esta empresa promueve la inclusión de personas con discapacidad y la equidad de género con igualdad de condiciones y beneficios a mujeres y hombres.</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "confidencial": true,
+            "videoUrl": null,
+            "inclusiva": false
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 486,
+            "provinciaIdSemantico": "peru|ancash",
+            "localidadId": 420996,
+            "localidadIdSemantico": "peru|ancash|nepena",
+            "direccion": null,
+            "detalle": "Nepeña, Ancash, Peru",
+            "id": 420996,
+            "localidadStringId": "nepena",
+            "provinciaStringId": "ancash",
+            "paisStringId": "peru",
+            "localidadDetalle": "Nepeña",
+            "provinciaDetalle": "Ancash",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 22,
+            "nombre": "Oficios y Otros",
+            "idSemantico": "oficios-y-otros",
+            "stringId": "oficios-y-otros"
+        },
+        "subArea": {
+            "id": 36,
+            "nombre": "Otros",
+            "idSemantico": "oficios-y-otros|otros",
+            "stringId": "otros"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 12
+            },
+            "genero": null,
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49113894,
+                    "texto": "Indica tu grado académico (bachiller, titulado, egresado, etc.) y la carrera profesional que estudiaste."
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113895,
+                    "texto": " ¿ Tienes conocimiento en certificaciones agrícolas vigentes como GLOBALG.A.P. v5.4-1 (incluye adendas FSMA), GRASP, TESCO Nurture, SPRING, Sustainably Grown, Rainforest Alliance y SMETA?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113896,
+                    "texto": "¿ Qué nivel de dominio tienes de las herramientas de Excel?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113897,
+                    "texto": " ¿ Tienes licencia de conducir ?"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 80,
+            "nombre": "Simples_60"
+        },
+        "nivelLaboral": {
+            "nombre": "Jefe / Supervisor / Responsable",
+            "idSemantico": "jefe-supervisor-responsable",
+            "id": 4,
+            "stringId": "jefe-supervisor-responsable"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": "<p>¡Únete a nuestro equipo! Somos una empresa agroexportadora líder en el cultivo de arándanos, uva y palta. Buscamos personas comprometidas y apasionadas para formar parte de nuestro equipo como SUPERVISOR DE GESTION DE CALIDAD ¡Postúlate ahora y sé parte de nuestro éxito en la industria agroexportadora!</p>",
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118171620,
+        "descripcionSimple": "<p>Requisitos:</p><ul> <li>Bachiller o Titulado en Ing. Agrónoma o carreras afines.</li> <li>Conocimiento en normas de seguridad e inocuidad alimentaria vigentes como GLOBAL GAP v.5.4.1 y adendas FSMA, GRASP, TESCO, SPRING; SUSTAINABLY GROWN y RAINFOREST.</li> <li>Dominio de Power Bi y Excel a nivel intermedio o avanzado.</li> <li>Residencia o disponibilidad para trabajar en San Jacinto - Nepeña.</li></ul><p>Funciones:</p><ul> <li>Implementación de requerimientos de normativas y certificaciones de Inocuidad alimentaria , seguridad del trabajador, seguridad de suministro y responsabilidad social.</li> <li>Monitoreo de ejecución de solicitudes de acciones correctivas, preventivas o de mejora del Sistema de Gestión de la Calidad.</li> <li>Implementación y seguimiento de indicadores de gestión en el cumplimiento de los estándares de calidad establecidos y normativas implementadas.</li> <li>Participar en el entrenamiento a todo el personal para garantizar el cumplimiento del sistema de calidad establecido.</li> <li>Participar en la elaboración y actualización de procedimientos, instructivos y formatos.</li> <li>Otras funciones afines asignadas por Jefatura inmediata.</li></ul><p>Beneficios:</p><ul> <li>Ingreso a planilla con todos los beneficios ley.</li> <li>Capacitaciones, desarrollo y crecimiento profesional</li> <li>Grato ambiente de trabajo y excelente clima laboral.</li></ul><p>Esta empresa promueve la inclusión de personas con discapacidad y la equidad de género con igualdad de condiciones y beneficios a mujeres y hombres.</p>",
+        "tipoAviso": "simple",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "otros",
+                "name": "Otros"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 420996
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "oficios-y-otros",
+                "name": "Oficios y Otros"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/supervisor-de-gestion-de-calidad-1118171620.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343225,
+            "confidencial": false,
+            "detalle": " En TISUR, no sólo movilizamos mercaderías, ¡movemos el futuro! Somos el puerto líder en el sur del Perú; y, nuestro mayor orgullo es transformar oportunidades en desarrollo concreto y real para nuestros colaboradores, la comunidad y el Perú. Aquí, el propósito se vive y se siente, porque cuando ...",
+            "planPublicacion": {
+                "id": 20,
+                "nombre": "Agrupados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/5/9/7/3/7/logoMainPic_10159737.jpg",
+            "titulo": "Auxiliar Operativo I - copia",
+            "empresa": "Tisur S.A.",
+            "empresaPro": false,
+            "localizacion": "Matarani, Arequipa",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 16:34:53",
+            "fechaModificado": "23-06-2026 16:34:53",
+            "fechaPublicacion": "23-06-2026 16:34:53",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "home",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118327173,
+            "confidencial": false,
+            "detalle": "Productos Paraíso del Perú, empresa líder en la fabricación de colchones con más de 60 años de experiencia en el mercado, se encuentra en búsqueda de un Jefe de Gestión de la Calidad para unirse a su equipo. Buscamos un profesional que lidere el mantenimiento y fortalecimiento de los sistemas ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1665590_bum_v37668dde.jpg",
+            "titulo": "Jefe de Gestión de la Calidad",
+            "empresa": "Productos Paraíso del Perú",
+            "empresaPro": false,
+            "localizacion": "Gobierno Regional del Callao, Gobierno Regional del Callao",
+            "area": "Ingenierías",
+            "subarea": "Ingeniería  Industrial",
+            "fechaHoraPublicacion": "10-06-2026 16:26:05",
+            "fechaModificado": "23-06-2026 12:59:42",
+            "fechaPublicacion": "10-06-2026 16:26:05",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118288872,
+            "confidencial": true,
+            "detalle": "Objetivo del puesto:Buscamos un(a) profesional que lidere la planificación, implementación, mantenimiento y mejora continua del Sistema Integrado de Gestión (SIG), garantizando el cumplimiento de normas internacionales y requisitos legales, así como la eficiencia de los procesos ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": null,
+            "titulo": "Líder de Calidad – Sistema Integrado de Gestión (SIG)",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Santiago de Surco, Lima",
+            "area": "Ingenierías",
+            "subarea": "Otras Ingenierias",
+            "fechaHoraPublicacion": "12-05-2026 15:00:09",
+            "fechaModificado": "10-06-2026 14:31:22",
+            "fechaPublicacion": "12-05-2026 15:00:09",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118280407,
+            "confidencial": false,
+            "detalle": "&#x1f4bc; ¡Súmate a una empresa líder del rubro inmobiliario y de construcción!En Besco, nos encontramos en la búsqueda de un(a) Jefe de Gestión Total de la Calidad - Piura, quien será responsable de liderar el cumplimiento de los procesos de calidad en obra, asegurando la implementación del ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10160477_bum_vd7ad07.jpg",
+            "titulo": "Jefe de Gestión Total de la Calidad - Piura",
+            "empresa": "BESCO S.A.C",
+            "empresaPro": false,
+            "localizacion": "Piura, Piura",
+            "area": "Ingeniería Civil y Construcción",
+            "subarea": "Construcción",
+            "fechaHoraPublicacion": "06-05-2026 11:26:51",
+            "fechaModificado": "01-06-2026 23:30:21",
+            "fechaPublicacion": "06-05-2026 11:26:51",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343202,
+            "confidencial": false,
+            "detalle": "En JRC, empresa líder en servicios mineros con presencia en Perú, Canadá y México, nos encontramos en búsqueda del mejor talento. para ocupar el cargo de Supervisor de SeguridadProyecto: SANTA BÁRBARA Información del puesto¿Qué necesitas para ser exitoso? Titulado y colegiado habilitado en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.27,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10119413_bum_v8fe799ab.jpg",
+            "titulo": "Supervisor de Seguridad",
+            "empresa": "JRC",
+            "empresaPro": false,
+            "localizacion": "Yauli, Junin",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 16:22:34",
+            "fechaModificado": "23-06-2026 16:22:34",
+            "fechaPublicacion": "23-06-2026 16:22:34",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

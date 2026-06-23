@@ -1,0 +1,342 @@
+{
+    "aviso": {
+        "fechaPublicacion": "25-02-2026",
+        "fechaHoraPublicacion": "25-02-2026 18:41:23",
+        "fechaFinalizacion": "25-06-2026",
+        "fechaModificado": "31-03-2026 13:41:40",
+        "estado": "activo",
+        "titulo": "Analista de Procesos y Datos",
+        "descripcion": "<p>FUNCIONES PRINCIPALES:</p><ul> <li>Participar en los proyectos de reingeniería de procesos .</li> <li>Realizar los análisis de datos e implementación de cambios en las diferentes empresas.</li> <li>Generar indicadores de segumiento.</li> <li>Realizar el mapeo de procesos de los proyectos asignados.</li></ul><p>REQUISITOS:</p><ul> <li>Bachiller o titulado de Ingenieria Industrial, Mecatrónica, o afines.</li> <li>Experiencia de 02 años en puesto similares.</li> <li>Conocimiento de Power BI (intermedio) y Excel (avanzado)</li> <li>Conocimiento en gestión de proyectos como: Scrum, Project Management Institute (PMI), International Project Management Association (IPMA).</li></ul><p>BENEFICIOS:</p><ul> <li>Seguro EPS- asumido 100% para tltular.</li> <li>Seguro Oncológico.</li> <li>Convenio corporativos</li> <li>Oportunidad de crecimiento</li> <li>Agradable clima laboral y actividades de integración</li></ul>",
+        "aptoDiscapacitados": true,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "CITIKOLD DEL PERU",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13219466_bum_v2719dff1.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 130,
+            "gptwUrl": null,
+            "id": 13219466,
+            "rangoEmpleados": "Entre 51 y 150",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": true,
+            "empresaPro": false,
+            "descripcion": "Grupo corporativo con actividades de agenciamiento general, agenciamiento marítimo, en representación de empresas navieras nacionales o extranjeras. \nActividades de transporte marítimo internacional y de transporte general de todo tipo de carga y descarga de mercancía, Depósito de contenedores.",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Comercio Exterior"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 1295452,
+            "provinciaIdSemantico": "peru|gobierno-regional-del-callao",
+            "localidadId": 38220106,
+            "localidadIdSemantico": "peru|gobierno-regional-del-callao|gobierno-regional-del-callao",
+            "direccion": null,
+            "detalle": "Gobierno Regional del Callao, Gobierno Regional del Callao, Peru",
+            "id": 38220106,
+            "localidadStringId": "gobierno-regional-del-callao",
+            "provinciaStringId": "gobierno-regional-del-callao",
+            "paisStringId": "peru",
+            "localidadDetalle": "Gobierno Regional del Callao",
+            "provinciaDetalle": "Gobierno Regional del Callao",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 16,
+            "nombre": "Producción y Manufactura",
+            "idSemantico": "produccion-y-manufactura",
+            "stringId": "produccion-y-manufactura"
+        },
+        "subArea": {
+            "id": 84,
+            "nombre": "Calidad",
+            "idSemantico": "produccion-y-manufactura|calidad",
+            "stringId": "calidad"
+        },
+        "requisitos": {
+            "edad": {
+                "excluyente": false,
+                "edadMinima": 24,
+                "edadMaxima": 35
+            },
+            "residencia": null,
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 24
+            },
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": true
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49113269,
+                    "texto": "Cuentas con disponibilidad inmediata?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113270,
+                    "texto": "Cuánto es tus pretensiones salariales?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113271,
+                    "texto": "Manejas Power BI? indica que nivel es tu conocimiento y aplicación."
+                }
+            },
+            {
+                "simple": {
+                    "id": 49113272,
+                    "texto": "Cuentas con disponibilidad para trabajar en el callao? "
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 80,
+            "nombre": "Simples_60"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 560,
+            "nombre": "Analista de Procesos",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/calidad/analista-de-procesos_560.html"
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118171268,
+        "descripcionSimple": "<p>FUNCIONES PRINCIPALES:</p><ul> <li>Participar en los proyectos de reingeniería de procesos .</li> <li>Realizar los análisis de datos e implementación de cambios en las diferentes empresas.</li> <li>Generar indicadores de segumiento.</li> <li>Realizar el mapeo de procesos de los proyectos asignados.</li></ul><p>REQUISITOS:</p><ul> <li>Bachiller o titulado de Ingenieria Industrial, Mecatrónica, o afines.</li> <li>Experiencia de 02 años en puesto similares.</li> <li>Conocimiento de Power BI (intermedio) y Excel (avanzado)</li> <li>Conocimiento en gestión de proyectos como: Scrum, Project Management Institute (PMI), International Project Management Association (IPMA).</li></ul><p>BENEFICIOS:</p><ul> <li>Seguro EPS- asumido 100% para tltular.</li> <li>Seguro Oncológico.</li> <li>Convenio corporativos</li> <li>Oportunidad de crecimiento</li> <li>Agradable clima laboral y actividades de integración</li></ul>",
+        "tipoAviso": "simple",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "calidad",
+                "name": "Calidad"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 38220106
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "produccion-y-manufactura",
+                "name": "Producción y Manufactura"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/analista-de-procesos-y-datos-citikold-del-peru-1118171268.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343319,
+            "confidencial": false,
+            "detalle": "Indique qué sistemas o estándares de calidad alimentaria ha manejadoResumen del PuestoEstamos en la búsqueda de un profesional experimentado para liderar el área de Aseguramiento de Calidad Alimentaria. El rol principal será Diseñar, implementar y mantener el Sistema de Gestión de Calidad e ...",
+            "planPublicacion": {
+                "id": 50,
+                "nombre": "Destacados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": null,
+            "titulo": "Jefe de Aseguramiento de Calidad Alimentaria",
+            "empresa": "DESSERT FACTORY PERU S.A.C",
+            "empresaPro": false,
+            "localizacion": "San Martín De Porres - Lima, Lima",
+            "area": "Producción y Manufactura",
+            "subarea": "Calidad",
+            "fechaHoraPublicacion": "23-06-2026 17:12:50",
+            "fechaModificado": "23-06-2026 17:12:50",
+            "fechaPublicacion": "23-06-2026 17:12:50",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "destacado",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118320169,
+            "confidencial": true,
+            "detalle": "Buscamos un perfil analítico y orientado a resultados que combine el dominio de herramientas de datos con la capacidad de mapear y optimizar procesos de negocio. Si disfrutas transformar datos en decisiones y convertir procesos complejos en flujos claros y eficientes, esta posición es para ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Analista de Procesos y Datos",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Lima, Lima",
+            "area": "Ingenierías",
+            "subarea": "Ingeniería de Procesos",
+            "fechaHoraPublicacion": "04-06-2026 19:41:57",
+            "fechaModificado": "23-06-2026 11:42:59",
+            "fechaPublicacion": "04-06-2026 19:41:57",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118277239,
+            "confidencial": false,
+            "detalle": "Somos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa.Te invitamos a ser parte de nuestro equipo ocupando el cargo de: AnalistaRequisitos: Carreras: Sistemas, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10180167_bum_vfd1e3051.jpg",
+            "titulo": "Analista de Datos, Calidad y Procesos",
+            "empresa": "Hitss Perú",
+            "empresaPro": false,
+            "localizacion": "La Victoria, Lima",
+            "area": "Tecnología, Sistemas y Telecomunicaciones",
+            "subarea": "Análisis de Datos",
+            "fechaHoraPublicacion": "04-05-2026 16:09:53",
+            "fechaModificado": "15-06-2026 09:50:17",
+            "fechaPublicacion": "04-05-2026 16:09:53",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342743,
+            "confidencial": false,
+            "detalle": "Acerca de AbbottAbbott es líder mundial en cuidado de la salud, que crea ciencia innovadora para mejorar la salud de las personas. Siempre estamos mirando hacia el futuro, anticipando cambios en la ciencia y la tecnología médica.Como practicante brindarás soporte al área de gestión de la Calidad, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.92,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/0/1/0/7/4/0/1/0/logoMainPic_1074010_bum_v1f4b9c30.jpg",
+            "titulo": "PRACTICANTE DE GESTION DE LA CALIDAD",
+            "empresa": "ABBOTT",
+            "empresaPro": false,
+            "localizacion": "Lince, Lima",
+            "area": "Producción y Manufactura",
+            "subarea": "Calidad",
+            "fechaHoraPublicacion": "23-06-2026 13:37:59",
+            "fechaModificado": "23-06-2026 13:37:59",
+            "fechaPublicacion": "23-06-2026 13:37:59",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118341912,
+            "confidencial": false,
+            "detalle": "Empresa industrial del rubro de alimentos, líder en su proceso, nos encontramos en la búsqueda del mejor talento para ocupar el puesto de: &quot;Supervisor de Saneamiento&quot;.¿Qué buscamos? Bachiller o Titulado de las carreras de Biología, Alimentos, Química o afines. Experiencia de 02 años en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.55,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13032546_bum_v7ab395a4.jpg",
+            "titulo": "Supervisor de Saneamiento / Sede de Pisco",
+            "empresa": "Machu Picchu Foods SAC",
+            "empresaPro": false,
+            "localizacion": "Pisco, Ica",
+            "area": "Producción y Manufactura",
+            "subarea": "Calidad",
+            "fechaHoraPublicacion": "23-06-2026 08:50:40",
+            "fechaModificado": "23-06-2026 08:50:40",
+            "fechaPublicacion": "23-06-2026 08:50:40",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

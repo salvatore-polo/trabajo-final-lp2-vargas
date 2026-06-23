@@ -1,0 +1,367 @@
+{
+    "aviso": {
+        "fechaPublicacion": "23-06-2026",
+        "fechaHoraPublicacion": "23-06-2026 12:27:55",
+        "fechaFinalizacion": "21-09-2026",
+        "fechaModificado": "23-06-2026 14:12:18",
+        "estado": "activo",
+        "titulo": "Profesional de Seguridad Industrial / Profesional de Psicología de la Seguridad – Sector Minero",
+        "descripcion": "<p>¡POSTULA CON NOSOTROS(AS)!</p><p>CETEMIN se encuentra en la búsqueda de <strong>INSTRUCTORES(AS) DE PROYECTOS</strong> para participar en un importante programa de capacitación dirigido a Superintendentes, Jefes y Supervisores de una reconocida operación minera.</p><p>Vacantes:</p><p>&#x1f539; Instructor(a) de Proyectos – Seguridad Industrial</p><p>&#x1f539; Instructor(a) de Proyectos – Psicología de la Seguridad</p><p>Instructor(a) de Proyectos – Seguridad Industrial</p><p><strong>Requisitos:</strong></p><p>&#x2705; Profesional titulado(a) en Ingeniería de Minas, Ingeniería Industrial o Ingeniería de Seguridad Industrial.</p><p>&#x2705; Mínimo 8 años de experiencia profesional.</p><p>&#x2705; Mínimo 3 años de experiencia como Supervisor(a) de Seguridad en el rubro minero.</p><p>&#x2705; Mínimo 2 años de experiencia en investigación de accidentes e incidentes.</p><p>&#x2705; Deseable 1 año de experiencia como Instructor(a).</p><p>&#x2705; Conocimientos en:</p><ul> <li>Investigación de incidentes y accidentes.</li> <li>Hallazgos y análisis de los 5 porqués.</li> <li>Diferencias entre causa básica, inmediata y organizacional.</li> <li>Jerarquía de controles.</li> <li>Clasificación de niveles de accidentes.</li> <li>Análisis de casos reales.</li></ul><p>&#x2705; Deseable contar con certificaciones y/o diplomados en:</p><ul> <li>Seguridad Industrial.</li> <li>Investigación de Incidentes.</li> <li>Gestión de Riesgos.</li> <li>Auditorías.</li> <li>Normativas peruanas e internacionales en Seguridad Industrial.</li></ul><p>Instructor(a) de Proyectos – Psicología de la Seguridad</p><p><strong>Requisitos:</strong></p><p>&#x2705; Profesional titulado(a) en Psicología.</p><p>&#x2705; Mínimo 8 años de experiencia profesional.</p><p>&#x2705; Deseable 1 año de experiencia como Instructor(a).</p><p>&#x2705; Conocimientos en:</p><ul> <li>Cultura de Seguridad y Salud Ocupacional.</li> <li>Accountability en Seguridad y Salud Ocupacional.</li> <li>Liderazgo visible e inteligencia emocional.</li> <li>Comunicación asertiva e interacciones en campo.</li> <li>Dirección y delegación de equipos.</li> <li>Efectividad y desarrollo de equipos de trabajo.</li></ul><p>&#x2705; Deseable contar con certificaciones en:</p><ul> <li>Factores Humanos.</li> <li>Psicología de la Seguridad.</li> <li>Ciencias del Comportamiento aplicadas a la prevención de riesgos.</li></ul><p>Condiciones</p><p>&#x1f4cd; Modalidad: Presencial.</p><p>&#x1f4cd; Lugar de ejecución: Lima y/o Arequipa (según programación del cliente).</p><p>En CETEMIN creemos firmemente en la igualdad de oportunidades para todos y todas, promoviendo la diversidad generacional, de origen étnico y nacionalidad. Asimismo, son bienvenidas las personas con discapacidad, de acuerdo con lo establecido en la Ley N.° 29973.</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "CETEMIN",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10215767_bum_vad7536e9.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 60,
+            "gptwUrl": null,
+            "id": 10215767,
+            "rangoEmpleados": "Entre 51 y 150",
+            "videoUrl": "https://www.youtube.com/embed/4EzoK6jw8w8?wmode=transparent",
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": true,
+            "empresaPro": false,
+            "descripcion": ".",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Educación"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 6171,
+            "localidadIdSemantico": "peru|lima|lima",
+            "direccion": null,
+            "detalle": "Lima, Lima, Peru",
+            "id": 6171,
+            "localidadStringId": "lima",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Lima",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 9,
+            "nombre": "Educación, Docencia e Investigación",
+            "idSemantico": "educacion-docencia-e-investigacion",
+            "stringId": "educacion-docencia-e-investigacion"
+        },
+        "subArea": {
+            "id": 120,
+            "nombre": "Educación/Docencia",
+            "idSemantico": "educacion-docencia-e-investigacion|educacion-docencia",
+            "stringId": "educacion-docencia"
+        },
+        "requisitos": {
+            "edad": {
+                "excluyente": false,
+                "edadMinima": 35,
+                "edadMaxima": 60
+            },
+            "residencia": null,
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 96
+            },
+            "genero": null,
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": null,
+            "idiomas": [
+                {
+                    "excluyente": false,
+                    "idioma": {
+                        "id": 1101,
+                        "nombre": "Español"
+                    },
+                    "nivel": {
+                        "id": 12,
+                        "nombre": "Nativo"
+                    }
+                }
+            ],
+            "conocimientos": null,
+            "detalleSalario": null
+        },
+        "preguntas": [
+            {
+                "choice": {
+                    "id": 49616217,
+                    "texto": "¿En cuál de las siguientes vacantes te encuentras interesado(a)?",
+                    "indiceCorrecta": 0,
+                    "opciones": [
+                        {
+                            "id": 1030444284,
+                            "opcion": "Instructor(a) en Seguridad Industrial"
+                        },
+                        {
+                            "id": 1030444285,
+                            "opcion": "Instructor(a) en Psicología de la Seguridad"
+                        }
+                    ]
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616218,
+                    "texto": "Indica tu profesión y grado académico. (Ejemplo: Ingeniero de Minas titulado, Psicólogo colegiado, etc.)"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616219,
+                    "texto": "Según la vacante de tu interés, menciona brevemente los conocimientos y experiencia que posees en los temas requeridos."
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616220,
+                    "texto": "¿Cuentas con certificaciones, diplomados o especializaciones relacionadas con la vacante?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616221,
+                    "texto": "Si te encuentras interesado(a) en participar en este proyecto, déjanos tu número de celular y correo electrónico para poder contactarnos contigo."
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": true,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118342560,
+        "descripcionSimple": "<p>¡POSTULA CON NOSOTROS(AS)!</p><p>CETEMIN se encuentra en la búsqueda de <strong>INSTRUCTORES(AS) DE PROYECTOS</strong> para participar en un importante programa de capacitación dirigido a Superintendentes, Jefes y Supervisores de una reconocida operación minera.</p><p>Vacantes:</p><p>&#x1f539; Instructor(a) de Proyectos – Seguridad Industrial</p><p>&#x1f539; Instructor(a) de Proyectos – Psicología de la Seguridad</p><p>Instructor(a) de Proyectos – Seguridad Industrial</p><p><strong>Requisitos:</strong></p><p>&#x2705; Profesional titulado(a) en Ingeniería de Minas, Ingeniería Industrial o Ingeniería de Seguridad Industrial.</p><p>&#x2705; Mínimo 8 años de experiencia profesional.</p><p>&#x2705; Mínimo 3 años de experiencia como Supervisor(a) de Seguridad en el rubro minero.</p><p>&#x2705; Mínimo 2 años de experiencia en investigación de accidentes e incidentes.</p><p>&#x2705; Deseable 1 año de experiencia como Instructor(a).</p><p>&#x2705; Conocimientos en:</p><ul> <li>Investigación de incidentes y accidentes.</li> <li>Hallazgos y análisis de los 5 porqués.</li> <li>Diferencias entre causa básica, inmediata y organizacional.</li> <li>Jerarquía de controles.</li> <li>Clasificación de niveles de accidentes.</li> <li>Análisis de casos reales.</li></ul><p>&#x2705; Deseable contar con certificaciones y/o diplomados en:</p><ul> <li>Seguridad Industrial.</li> <li>Investigación de Incidentes.</li> <li>Gestión de Riesgos.</li> <li>Auditorías.</li> <li>Normativas peruanas e internacionales en Seguridad Industrial.</li></ul><p>Instructor(a) de Proyectos – Psicología de la Seguridad</p><p><strong>Requisitos:</strong></p><p>&#x2705; Profesional titulado(a) en Psicología.</p><p>&#x2705; Mínimo 8 años de experiencia profesional.</p><p>&#x2705; Deseable 1 año de experiencia como Instructor(a).</p><p>&#x2705; Conocimientos en:</p><ul> <li>Cultura de Seguridad y Salud Ocupacional.</li> <li>Accountability en Seguridad y Salud Ocupacional.</li> <li>Liderazgo visible e inteligencia emocional.</li> <li>Comunicación asertiva e interacciones en campo.</li> <li>Dirección y delegación de equipos.</li> <li>Efectividad y desarrollo de equipos de trabajo.</li></ul><p>&#x2705; Deseable contar con certificaciones en:</p><ul> <li>Factores Humanos.</li> <li>Psicología de la Seguridad.</li> <li>Ciencias del Comportamiento aplicadas a la prevención de riesgos.</li></ul><p>Condiciones</p><p>&#x1f4cd; Modalidad: Presencial.</p><p>&#x1f4cd; Lugar de ejecución: Lima y/o Arequipa (según programación del cliente).</p><p>En CETEMIN creemos firmemente en la igualdad de oportunidades para todos y todas, promoviendo la diversidad generacional, de origen étnico y nacionalidad. Asimismo, son bienvenidas las personas con discapacidad, de acuerdo con lo establecido en la Ley N.° 29973.</p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "educacion-docencia",
+                "name": "Educación/Docencia"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 6171
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "educacion-docencia-e-investigacion",
+                "name": "Educación, Docencia e Investigación"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/profesional-de-seguridad-industrial-profesional-de-psicologia-de-la-seguridad-–-sector-minero-cetemin-1118342560.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343149,
+            "confidencial": false,
+            "detalle": "Forma parte de una institución educativa privada del Grupo Euroidiomas. En nuestro campus, ubicado en el último valle verde de Lima (Pachacámac), ofrecemos un entorno único donde la naturaleza y la tranquilidad se unen para inspirar el aprendizaje y el crecimiento profesional. El colegio se ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Profesor de matemáticas para secundaria por reemplazo",
+            "empresa": "LITS S.A.C.",
+            "empresaPro": false,
+            "localizacion": "Pachacamac, Lima",
+            "area": "Educación, Docencia e Investigación",
+            "subarea": "Educación/Docencia",
+            "fechaHoraPublicacion": "23-06-2026 16:09:43",
+            "fechaModificado": "23-06-2026 16:09:43",
+            "fechaPublicacion": "23-06-2026 16:09:43",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342635,
+            "confidencial": false,
+            "detalle": "Somos VISIVA, holding educativo de CERTUS, UCAL | Universidad de Ciencias y Artes de América Latina y Toulouse Lautrec, tenemos el propósito de llenar el mundo de personas que lo mejoren.En Toulouse Lautrec para nuestro Programa de Pre Grado Lima, estamos en la búsqueda de profesionales con ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Por Horas",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13244894_bum_vc552b8c5.jpg",
+            "titulo": "Docente de Bim Collaborate y Revit | Arquitectura | TLS Virtual",
+            "empresa": "VISIVA",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Educación, Docencia e Investigación",
+            "subarea": "Educación/Docencia",
+            "fechaHoraPublicacion": "23-06-2026 12:51:47",
+            "fechaModificado": "23-06-2026 12:51:47",
+            "fechaPublicacion": "23-06-2026 12:51:47",
+            "modalidadTrabajo": "Remoto",
+            "cantidadVacantes": 5,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342588,
+            "confidencial": false,
+            "detalle": "La comunidad del &quot;Santísimo Nombre de Jesus&quot;, se encontra en la búsqueda del mejor talento para desempeñarse como DOCENTE DE LENGUAJE Y LITERATURA DEL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL, comprometido(a) con la excelencia académica, el desarrollo del pensamiento crítico y ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": true,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoOriginalPic_13198114_bum_v6167bc85.jpg",
+            "titulo": "PROFESOR(A) DE LENGUA Y LITERATURA DEL PROGRAMA DEL DIPLOMA DE BACHILLERATO INTERNACIONAL",
+            "empresa": "COL. SANTISIMO NOMBRE DE JESUS",
+            "empresaPro": false,
+            "localizacion": "San Borja, Lima",
+            "area": "Educación, Docencia e Investigación",
+            "subarea": "Educación/Docencia",
+            "fechaHoraPublicacion": "23-06-2026 12:35:44",
+            "fechaModificado": "23-06-2026 12:35:44",
+            "fechaPublicacion": "23-06-2026 12:35:44",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342500,
+            "confidencial": false,
+            "detalle": "Tecsup, institución líder en educación tecnológica, cuenta con más de 40 años en el mercado formando profesionales innovadores y éticos.En esta oportunidad se busca un Docente Tiempo Parcial para el Departamento de Minería y Procesos Químico-Metalúrgicos con las siguientes características:Perfil ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.31,
+            "gptwUrl": null,
+            "tipoTrabajo": "Por Horas",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2112280_bum_vc48137e4.jpg",
+            "titulo": "Docente tiempo parcial - Minería",
+            "empresa": "TECSUP",
+            "empresaPro": false,
+            "localizacion": "José Luis Bustamante Y Rivero., Arequipa",
+            "area": "Educación, Docencia e Investigación",
+            "subarea": "Educación/Docencia",
+            "fechaHoraPublicacion": "23-06-2026 12:07:18",
+            "fechaModificado": "23-06-2026 12:07:18",
+            "fechaPublicacion": "23-06-2026 12:07:18",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118342559,
+            "confidencial": false,
+            "detalle": "Instructor de Moto Lineal Resumen del Puesto Buscamos un Instructor de Moto Lineal con experiencia para unirse a nuestro equipo. El candidato ideal será un experto en la operación segura y eficiente de motocicletas lineales, con la capacidad de transmitir conocimientos teóricos y prácticos a ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Instructor de Moto Lineal",
+            "empresa": "Educar",
+            "empresaPro": false,
+            "localizacion": "Chimbote, Ancash",
+            "area": "Educación, Docencia e Investigación",
+            "subarea": "Educación/Docencia",
+            "fechaHoraPublicacion": "23-06-2026 12:27:42",
+            "fechaModificado": "23-06-2026 12:27:42",
+            "fechaPublicacion": "23-06-2026 12:27:42",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

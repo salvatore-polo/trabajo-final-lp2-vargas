@@ -1,0 +1,335 @@
+{
+    "aviso": {
+        "fechaPublicacion": "22-06-2026",
+        "fechaHoraPublicacion": "22-06-2026 17:36:06",
+        "fechaFinalizacion": "20-09-2026",
+        "fechaModificado": "22-06-2026 17:36:06",
+        "estado": "activo",
+        "titulo": "Asistente de Selección - Huacho",
+        "descripcion": "<p>Somos una empresa con 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.</p><p>Nos encontramos en búsqueda de <strong>(01) Asistente de Selección, </strong>para nuestras sede ubicada en <strong>Huacho.</strong></p><p><strong>Funciones:</strong></p><ul> <li>Revisar que la ficha de requerimiento de personal cumpla con los lineamientos del proceso de reclutamiento y selección.</li> <li>Revisar el perfil de puesto con el cliente interno.</li> <li>Publicar las vacantes asignadas en las diferentes bolsas laborales.</li> <li>Realizar reclutamiento de campo y entrevistas masivas cuando se requiera.</li> <li>Gestionar la búsqueda de candidatos de tal forma que se cuente con un backup amplio y suficiente para dar respuesta a los procesos de selección y a los procesos masivos que se requieran.</li> <li>Realizar los filtros telefónicos, internos y curriculares de los candidatos.</li> <li>Programar y ejecutar entrevistas por competencias a fin de validar el perfil profesional de cada postulante.</li> <li>Programar entrevistas con el cliente interno y brindar asesoría respecto al desarrollo de las entrevistas.</li> <li>Realizar el informe de referencias laborales al candidato seleccionado.</li> <li>Coordinar y programar el examen médico pre-ocupacional.</li> <li>Elaborar el Informe Psicolaboral del candidato seleccionado.</li> <li>Solicitar y recopilar los documentación para armado de file personal.</li> <li>Coordinar con el área solicitante la fecha de ingreso del candidato seleccionado.</li> <li>Realizar y enviar el layout al equipo de Administración de Personas.</li> <li>Programar y facilitar la inducción corporativa al personal ingresante y mantener los registros de inducción actualizados.</li> <li>Gestionar los movimientos internos de personal.</li> <li>Gestionar y participar de ferias laborales y charlas de empleabilidad a fin de promover la marca empleadora.</li> <li>Mantener actualizado el cuadro de procesos</li> <li>Enviar estatus del proceso al cliente interno.</li> <li>Elaborar y mantener actualizado los indicadores de gestión del área.</li> <li>Otras funciones asignadas por el jefe directo.</li></ul><p><strong>Requisitos:</strong></p><ul> <li>Bachiller en Psicología (indispensable).</li> <li>6 meses de experiencia en puestos similares o como practicante.</li> <li>Experiencia en procesos masivos (indispensable).</li> <li>Manejo de excel a nivel intermedio.</li> <li>Disponibilidad para laborar de manera presencial en Huacho.</li></ul><p><strong>Beneficios:</strong></p><ul> <li>Planilla con todos los beneficios de ley.</li> <li>EPS facultativo.</li> <li>Descuentos corporativos.</li> <li>Convenios educativos.</li></ul><p><em>¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!</em></p><p>Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno.</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "Redondos S.A.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130566_bum_v414ca4c2.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 3000,
+            "gptwUrl": null,
+            "id": 10130566,
+            "rangoEmpleados": "Entre 1001 y 5000",
+            "videoUrl": "https://www.youtube.com/embed/pAGEFLB52k4?wmode=transparent",
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": "Somos una empresa con 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Consumo masivo"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 1470,
+            "localidadIdSemantico": "peru|lima|huacho",
+            "direccion": null,
+            "detalle": "Huacho, Lima, Peru",
+            "id": 1470,
+            "localidadStringId": "huacho",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Huacho",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 17,
+            "nombre": "Recursos Humanos y Capacitación",
+            "idSemantico": "recursos-humanos-y-capacitacion",
+            "stringId": "recursos-humanos-y-capacitacion"
+        },
+        "subArea": {
+            "id": 2565,
+            "nombre": "Selección",
+            "idSemantico": "recursos-humanos-y-capacitacion|seleccion",
+            "stringId": "seleccion"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": null,
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": null
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49614289,
+                    "texto": "¿Cuál es su carrera y grado de instrucción?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49614290,
+                    "texto": "¿Cuenta con experiencia viendo procesos masivos?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49614291,
+                    "texto": "Esta posición es para Huacho, ¿Cuenta con disponibilidad de cambio de residencia?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49614292,
+                    "texto": "¿Cuál es su expectativa salarial?"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Junior",
+            "idSemantico": "junior",
+            "id": 2,
+            "stringId": "junior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118341483,
+        "descripcionSimple": "<p>Somos una empresa con 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.</p><p>Nos encontramos en búsqueda de <strong>(01) Asistente de Selección, </strong>para nuestras sede ubicada en <strong>Huacho.</strong></p><p><strong>Funciones:</strong></p><ul> <li>Revisar que la ficha de requerimiento de personal cumpla con los lineamientos del proceso de reclutamiento y selección.</li> <li>Revisar el perfil de puesto con el cliente interno.</li> <li>Publicar las vacantes asignadas en las diferentes bolsas laborales.</li> <li>Realizar reclutamiento de campo y entrevistas masivas cuando se requiera.</li> <li>Gestionar la búsqueda de candidatos de tal forma que se cuente con un backup amplio y suficiente para dar respuesta a los procesos de selección y a los procesos masivos que se requieran.</li> <li>Realizar los filtros telefónicos, internos y curriculares de los candidatos.</li> <li>Programar y ejecutar entrevistas por competencias a fin de validar el perfil profesional de cada postulante.</li> <li>Programar entrevistas con el cliente interno y brindar asesoría respecto al desarrollo de las entrevistas.</li> <li>Realizar el informe de referencias laborales al candidato seleccionado.</li> <li>Coordinar y programar el examen médico pre-ocupacional.</li> <li>Elaborar el Informe Psicolaboral del candidato seleccionado.</li> <li>Solicitar y recopilar los documentación para armado de file personal.</li> <li>Coordinar con el área solicitante la fecha de ingreso del candidato seleccionado.</li> <li>Realizar y enviar el layout al equipo de Administración de Personas.</li> <li>Programar y facilitar la inducción corporativa al personal ingresante y mantener los registros de inducción actualizados.</li> <li>Gestionar los movimientos internos de personal.</li> <li>Gestionar y participar de ferias laborales y charlas de empleabilidad a fin de promover la marca empleadora.</li> <li>Mantener actualizado el cuadro de procesos</li> <li>Enviar estatus del proceso al cliente interno.</li> <li>Elaborar y mantener actualizado los indicadores de gestión del área.</li> <li>Otras funciones asignadas por el jefe directo.</li></ul><p><strong>Requisitos:</strong></p><ul> <li>Bachiller en Psicología (indispensable).</li> <li>6 meses de experiencia en puestos similares o como practicante.</li> <li>Experiencia en procesos masivos (indispensable).</li> <li>Manejo de excel a nivel intermedio.</li> <li>Disponibilidad para laborar de manera presencial en Huacho.</li></ul><p><strong>Beneficios:</strong></p><ul> <li>Planilla con todos los beneficios de ley.</li> <li>EPS facultativo.</li> <li>Descuentos corporativos.</li> <li>Convenios educativos.</li></ul><p><em>¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!</em></p><p>Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno.</p>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "seleccion",
+                "name": "Selección"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 1470
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "recursos-humanos-y-capacitacion",
+                "name": "Recursos Humanos y Capacitación"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/asistente-de-seleccion-huacho-redondos-s.a.-1118341483.html"
+    },
+    "productoLookAndFeel": {
+        "colorTituloAviso": "#000000",
+        "colorTituloEmpresa": "#000000",
+        "colorTexto": "#000000",
+        "colorLabels": "#000000",
+        "colorBackgroundSeparadores": "#000000",
+        "colorTextoSeparadores": "#000000",
+        "colorBackgroundBotones": "#e40420",
+        "colorTextoBotones": "#FFFFFF",
+        "colorBackgroundTituloCaja": "#e40420",
+        "colorTextoTituloCaja": "#FFFFFF",
+        "colorBackgroundCaja": "#000000",
+        "colorSeparadoresCaja": "#000000",
+        "colorBordeCaja": "#e40420",
+        "colorTextoCaja": "#000000",
+        "bannerEmpresa": "https://imgbum.jobscdn.com/postulantes/custom/bg_10130566__cb__uiwccq7pbg.png"
+    },
+    "avisosSimilares": [
+        {
+            "id": 1118338896,
+            "titulo": "Administrador de Granja (Reproductoras) - Norte Chico",
+            "detalle": "Somos una empresa con más de 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.En Redondos, nos encontramos en búsqueda de (01) Administrador de Granja para el área de Reproductoras con disponibilidad para realizar trabajo de campo (Huacho - Barranca - Huarmey)Funciones: Verificar los trabajos de mantenimiento para que se cumplan de acuerdo a las especificaciones del presupuesto. Verificar que se cumplan los procedimientos de bioseguridad dispuestos por el área de sanidad. Supervisar la recepción de las aves, preparación de las granjas y traslado de las aves entre granjas. Verificar que se ejecute el programa de manejos y vacunación de acuerdo a lo establecido por las jefaturas de sanidad y de producción. Controlar y gestionar el stock de productos de los almacenes. Verificar que las unidades de producción cuenten con todos los recursos antes de realizar el traslado y encasetamiento de las reproductoras. Supervisar las pruebas de investigación en las unidades de producción. Verificar que el proceso de desinfección y clasificación de huevos incubables se cumpla de acuerdo a los procedimientos definidos en la etapa de producción. Elaborar el programa de pedidos mensuales de acuerdo al presupuesto operativo aprobado. Consolidar y verificar el tareo y el programa de vacaciones del personal a su cargo. Elaborar el reporte de investigación de las causas de accidentes de trabajo, enfermedades ocupacionales, incidentes peligrosos y otros incidentes ocurridos en su zona. Analizar los parámetros productivos y correlacionarlos con los manejos ejecutados para tomar decisiones ante cualquier desviación de lo esperado. Verificar el correcto llenado de la documentación del sistema integrado de gestión. Otras funciones asignadas por el jefe directo.Requisitos: Bachiller en Medicina Veterinaria, Ingeniería Zootecnia y/o similares. Un (01) un año de experiencia laboral en puestos similares. Disponibilidad para realizar trabajo de campo 100%. Disponibilidad para residir en granjas (Huarmey).Beneficios: Planilla con todos los beneficios de ley. Descuentos corporativos. Convenios educativos con Institutos y Universidades. EPS facultativo. Alimentación Vivienda Movilidad¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!“Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno”",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10130566,
+            "empresa": "Redondos S.A.",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130566_bum_v414ca4c2.jpg",
+            "validada": false,
+            "empresaPro": false,
+            "fechaHoraPublicacion": "19-06-2026 14:32:49",
+            "fechaPublicacion": "19-06-2026",
+            "fechaModificado": "19-06-2026 14:32:49",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 11,
+            "idArea": 30,
+            "idSubarea": 59,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Huacho, Lima",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "promedioEmpresa": 4.21,
+            "modalidadTrabajo": "Presencial",
+            "tienePreguntas": true,
+            "salarioObligatorio": false,
+            "altaRevisionPerfiles": false,
+            "postulacionRapida": false,
+            "tipoAviso": "simple"
+        },
+        {
+            "id": 1118338498,
+            "titulo": "Cocinero(a) con experiencia y Ayudante de Cocina - Restaurant en San Isidro",
+            "detalle": "Somos una empresa con 52 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.En Redondos, nos encontramos en búsqueda de Personal para Restaurante con experiencia, para el distrito de San Isidro - Lima: Cocinero. Ayudante de Cocina.Funciones del Puesto: Ejecutar la preparación de platos finales conforme a recetas, fichas técnicas y estándares establecidos. Supervisar y coordinar la correcta preparación de insumos y productos intermedios. Verificar la calidad, frescura y rotación de los insumos (PEPS). Realizar y validar la mise en place diaria del área asignada. Controlar porciones, presentación y tiempos de entrega de los platos. Asegurar el cumplimiento de normas de higiene, inocuidad alimentaria y seguridad en cocina. Coordinar con el equipo (asistentes y ayudantes) durante el servicio para garantizar eficiencia. Reportar requerimientos de insumos, mermas o incidencias al jefe de cocina. Participar en inventarios y control básico de insumos. Capacitar y guiar a asistentes y ayudantes en tareas operativas. Mantener el orden y limpieza del área de trabajo, equipos y utensilios. Otras funciones asignadas por su jefe directo.Requisitos: Tener mínimo 6 meses de experiencia en puestos similares. Deseable conocimiento de técnicas de cocción. Deseable experiencia con manipulación de alimentos. Haber laborado anteriormente en restaurantes , cafeterías o similares. Disponibilidad para trabajar en horarios flexibles. Capacidad para trabajar bajo presión y en equipo. Residencia en zonas aledañas a San Isidro. Estudios técnicos o universitarios en Gastronomía o carreras afines (No excluyente).Beneficios: Planilla con todos los beneficios de ley. Descuentos corporativos. Participación en Utilidades. Convenios educativos con institutos y universidades. EPS facultativo. Propinas. Asignación Familiar.¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!“Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno”",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10130566,
+            "empresa": "Redondos S.A.",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130566_bum_v414ca4c2.jpg",
+            "validada": false,
+            "empresaPro": false,
+            "fechaHoraPublicacion": "19-06-2026 11:31:51",
+            "fechaPublicacion": "19-06-2026",
+            "fechaModificado": "19-06-2026 16:03:51",
+            "planPublicacion": {
+                "id": 20,
+                "nombre": "Agrupados_60Full"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 11,
+            "idArea": 10,
+            "idSubarea": 2350,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "San Isidro, Lima",
+            "cantidadVacantes": 8,
+            "guardado": null,
+            "gptwUrl": null,
+            "promedioEmpresa": 4.21,
+            "modalidadTrabajo": "Presencial",
+            "tienePreguntas": true,
+            "salarioObligatorio": true,
+            "altaRevisionPerfiles": false,
+            "postulacionRapida": false,
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1118338392,
+            "titulo": "Analista de Diseño y Comunicaciones - San Isidro",
+            "detalle": "Somos una empresa con más de 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.Nos encontramos en búsqueda de (01) Analista de Diseño y Comunicación para nuestra área de Clima y Cultura en las oficinas administrativas de San Isidro.Funciones: Diseñar y ejecutar campañas de comunicación interna y corporativa, desarrollando piezas gráficas y contenidos multimedia alineados con la identidad visual y los objetivos de la organización. Coordinar y supervisar la producción de materiales gráficos, fotográficos y audiovisuales, participando activamente en grabaciones, sesiones fotográficas y demás actividades de generación de contenido en campo para asegurar la calidad visual y comunicacional de los entregables. Gestionar la relación con clientes internos, agencias, diseñadores, fotógrafos, videógrafos y otros proveedores especializados, garantizando el cumplimiento de los estándares de calidad, los lineamientos de marca y los plazos establecidos. Gestionar los canales de comunicación interna y coordinar la difusión estratégica de programas, eventos e iniciativas corporativas. Elaborar planes y cronogramas de comunicación, gestionando de manera eficiente los proyectos y recursos asociados. Monitorear y analizar los resultados de las acciones de comunicación, proponiendo mejoras continuas que fortalezcan la cultura organizacional y el compromiso de los colaboradores. Brindar soporte comunicacional y creativo a las diferentes áreas, contribuyendo a una comunicación integral, transversal y efectiva en la organización. Participar activamente en la planificación, organización y ejecución de eventos corporativos, activaciones de cultura y ceremonias internas, asegurando el correcto despliegue de la identidad visual y la experiencia del colaborador. Otras funciones detalladas por el jefe inmediato.Requisitos: Bachiller o Titulado(a) en Ciencias de la Comunicación, Marketing o Publicación, Diseño Gráfico, 02 de experiencia realizando funciones similares en diseño gráfico, comunicación interna o comunicación corporativa. Experiencia en desarrollo de campañas institucionales y gestión de contenidos. Experiencia coordinando producciones audiovisuales o interactuando con proveedores creativos y agencias (deseable). Conocimiento en Adobe Illustratos, Photoshop y Premiere Por/ Capcut, Canva Pro y Microsof Office. Conocimiento en branding, gestión de marca y comunicación organizacional.Beneficios Planilla con todos los beneficios de ley. EPS facultativo. Descuentos corporativos. Convenios educativos.¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10130566,
+            "empresa": "Redondos S.A.",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130566_bum_v414ca4c2.jpg",
+            "validada": false,
+            "empresaPro": false,
+            "fechaHoraPublicacion": "19-06-2026 10:49:04",
+            "fechaPublicacion": "19-06-2026",
+            "fechaModificado": "19-06-2026 11:18:26",
+            "planPublicacion": {
+                "id": 20,
+                "nombre": "Agrupados_60Full"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 11,
+            "idArea": 17,
+            "idSubarea": 48,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "San Isidro, Lima",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "promedioEmpresa": 4.21,
+            "modalidadTrabajo": "Presencial",
+            "tienePreguntas": true,
+            "salarioObligatorio": false,
+            "altaRevisionPerfiles": false,
+            "postulacionRapida": false,
+            "tipoAviso": "home"
+        },
+        {
+            "id": 1118337148,
+            "titulo": "Supervisor de Despacho - Callao",
+            "detalle": "Somos una empresa con 50 años en el mercado nacional, líderes en la producción y comercialización de proteína animal, cuyo propósito de negocio es el bienestar y la nutrición de las familias peruanas. Contamos con un amplio portafolio de productos alimenticios de origen cárnico como pollo, pavo, cerdo y productos procesados. Además, con plantas industriales e instalaciones de crianza con tecnología de primer nivel.Nos encontramos en búsqueda de (01) Supervisor de Despacho, para nuestro sede ubicada en el Callao, con experiencia en Gestión de inventarios en almacén.Funciones: Ejecutar y supervisar los planes operativos de almacenamiento y distribución. Capacitar al personal en funciones operativas, seguridad y calidad. Controlar inventarios y asegurar la disponibilidad de productos. Supervisar las actividades operativas y asignación de recursos. Verificar el cumplimiento de protocolos y sistemas de gestión. Brindar indicaciones y retroalimentación a operarios y controladores. Coordinar mantenimientos preventivos y correctivos de equipos. Coordinar con áreas internas y proveedores de transporte y almacenamiento. Validar registros e indicadores de eficiencia y desempeño. Gestionar documentación de transporte según normativa vigente. Asegurar el cumplimiento de normas de seguridad, calidad y medio ambiente. Reportar incidencias y realizar otras funciones asignadas por la jefatura.Requisitos: Bachiller en Administración de Empresas, Ingeniería industrial, Contabilidad, Economía o carreras afines. Experiencia de mínimo 1 año en puestos similares. Deseable conocimiento en Microsoft Office a nivel avanzado. Deseable conocimiento en ERP SAP a nivel usuario. Deseable especialización en Cadena de Suministro.Beneficios: Planilla con todos los beneficios de ley. EPS facultativo. Descuentos corporativos. Convenios educativos.¡Postula y obtén la posibilidad de contribuir con la nutrición y bienestar de las familias peruanas!Esta convocatoria se encuentra en concordancia con las políticas organizacionales de REDONDOS donde se respeta la diversidad y no hace ningún tipo de discriminación de conformidad con la Ley N° 28983, también promueve la inclusión de la persona con discapacidad de conformidad con la Ley N° 29973 y no solicita ningún tipo de pago o abono para participar en procesos de reclutamiento y selección de acuerdo a nuestra Política Antisoborno.",
+            "aptoDiscapacitado": false,
+            "idEmpresa": 10130566,
+            "empresa": "Redondos S.A.",
+            "confidencial": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130566_bum_v414ca4c2.jpg",
+            "validada": false,
+            "empresaPro": false,
+            "fechaHoraPublicacion": "18-06-2026 12:35:50",
+            "fechaPublicacion": "18-06-2026",
+            "fechaModificado": "22-06-2026 09:59:52",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "portal": "bumeran",
+            "tipoTrabajo": "Full-time",
+            "idPais": 11,
+            "idArea": 3,
+            "idSubarea": 29,
+            "leido": null,
+            "visitadoPorPostulante": null,
+            "localizacion": "Callao, Lima",
+            "cantidadVacantes": 1,
+            "guardado": null,
+            "gptwUrl": null,
+            "promedioEmpresa": 4.21,
+            "modalidadTrabajo": "Presencial",
+            "tienePreguntas": true,
+            "salarioObligatorio": true,
+            "altaRevisionPerfiles": false,
+            "postulacionRapida": false,
+            "tipoAviso": "simple"
+        }
+    ]
+}

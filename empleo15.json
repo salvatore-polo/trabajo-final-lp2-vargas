@@ -1,0 +1,314 @@
+{
+    "aviso": {
+        "fechaPublicacion": "19-06-2026",
+        "fechaHoraPublicacion": "19-06-2026 14:59:42",
+        "fechaFinalizacion": "17-09-2026",
+        "fechaModificado": "22-06-2026 16:07:08",
+        "estado": "activo",
+        "titulo": "ANALISTA SENIOR DE PROYECTOS",
+        "descripcion": "<p><strong>Requerimientos del Perfil:</strong></p><ol> <li>Capacidad de análisis, organización y estructuración de información compleja. </li> <li>Orientación a resultados y cumplimiento de plazos en entornos dinámicos. </li> <li>Habilidades de comunicación para interactuar con distintas áreas y stakeholders. </li> <li>Proactividad, autonomía y capacidad para gestionar múltiples prioridades. </li> <li>Enfoque en mejora continua y optimización de procesos. </li> <li>Manejo de herramientas Office (Excel, PowerPoint, Word).</li></ol><p><strong>Funciones principales:</strong></p><ul> <li>Liderar la actualización y regularización continua de procesos y definiciones funcionales impactadas por la implementación del core, asegurando su correcta adopción en la operación diaria. </li> <li>Gestionar la coordinación transversal con áreas usuarias, TI y proveedores, orientada a garantizar la continuidad operativa, alineación funcional y correcta ejecución de procesos en producción. </li> <li>Elaborar y consolidar reportes y presentaciones ejecutivas de seguimiento operativo, enfocados en la estabilización, desempeño del core y control de iniciativas de mejora continua. </li> <li>Realizar el seguimiento integral de actividades operativas recurrentes, identificando desviaciones en la operación y liderando la definición de acciones correctivas y de mejora. </li> <li>Identificar, analizar y gestionar riesgos, incidencias y dependencias operativas, asegurando su oportuna atención y mitigación en el contexto productivo. </li> <li>Analizar información funcional y operativa del core para generar insights que optimicen la operación, eficiencia de procesos y toma de decisiones del negocio. </li> <li>Asegurar la calidad, consistencia y vigencia de la documentación operativa (procesos, manuales, definiciones funcionales), en línea con los cambios implementados y requerimientos regulatorios. </li> <li>Actuar como punto de enlace senior entre negocio y tecnología, asegurando la correcta interpretación y ajustes de funcionalidades en entorno productivo. </li> <li>Liderar la identificación e implementación de mejoras continuas en procesos y operación, orientadas a optimizar eficiencia, reducir riesgos operativos y asegurar la estabilidad del core.</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "INFORMATICA DELTA S.A.C.",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13119665_bum_v57a71a4f.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 125,
+            "gptwUrl": null,
+            "id": 13119665,
+            "rangoEmpleados": "Entre 51 y 150",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": "Empresa peruana que desde 1992 brinda soluciones de TI orientadas a optimizar los procesos y la gestión de las empresas. El profesionalismo, la capacidad y experiencia de nuestro personal y nuestra constante preocupación por alcanzar la excelencia nos permiten garantizar el éxito en los proyectos",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Informática / Tecnología"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 405,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": null,
+            "localidadIdSemantico": null,
+            "direccion": "Avenida Canaval y Moreyra 290",
+            "detalle": "Lima, Peru",
+            "id": 41373823,
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 19,
+            "nombre": "Tecnología, Sistemas y Telecomunicaciones",
+            "idSemantico": "tecnologia-sistemas-y-telecomunicaciones",
+            "stringId": "tecnologia-sistemas-y-telecomunicaciones"
+        },
+        "subArea": {
+            "id": 34,
+            "nombre": "Tecnologia / Sistemas",
+            "idSemantico": "tecnologia-sistemas-y-telecomunicaciones|tecnologia-sistemas",
+            "stringId": "tecnologia-sistemas"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": {
+                "excluyente": false,
+                "cercania": "provincia",
+                "cantidadKm": null
+            },
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 12
+            },
+            "genero": {
+                "excluyente": false,
+                "nombre": "femenino"
+            },
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 3,
+                    "nombre": "Universitario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": null,
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": null
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 2,
+            "nombre": "Temporal",
+            "idSemantico": "temporal"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118338957,
+        "descripcionSimple": "<p><strong>Requerimientos del Perfil:</strong></p><ol> <li>Capacidad de análisis, organización y estructuración de información compleja. </li> <li>Orientación a resultados y cumplimiento de plazos en entornos dinámicos. </li> <li>Habilidades de comunicación para interactuar con distintas áreas y stakeholders. </li> <li>Proactividad, autonomía y capacidad para gestionar múltiples prioridades. </li> <li>Enfoque en mejora continua y optimización de procesos. </li> <li>Manejo de herramientas Office (Excel, PowerPoint, Word).</li></ol><p><strong>Funciones principales:</strong></p><ul> <li>Liderar la actualización y regularización continua de procesos y definiciones funcionales impactadas por la implementación del core, asegurando su correcta adopción en la operación diaria. </li> <li>Gestionar la coordinación transversal con áreas usuarias, TI y proveedores, orientada a garantizar la continuidad operativa, alineación funcional y correcta ejecución de procesos en producción. </li> <li>Elaborar y consolidar reportes y presentaciones ejecutivas de seguimiento operativo, enfocados en la estabilización, desempeño del core y control de iniciativas de mejora continua. </li> <li>Realizar el seguimiento integral de actividades operativas recurrentes, identificando desviaciones en la operación y liderando la definición de acciones correctivas y de mejora. </li> <li>Identificar, analizar y gestionar riesgos, incidencias y dependencias operativas, asegurando su oportuna atención y mitigación en el contexto productivo. </li> <li>Analizar información funcional y operativa del core para generar insights que optimicen la operación, eficiencia de procesos y toma de decisiones del negocio. </li> <li>Asegurar la calidad, consistencia y vigencia de la documentación operativa (procesos, manuales, definiciones funcionales), en línea con los cambios implementados y requerimientos regulatorios. </li> <li>Actuar como punto de enlace senior entre negocio y tecnología, asegurando la correcta interpretación y ajustes de funcionalidades en entorno productivo. </li> <li>Liderar la identificación e implementación de mejoras continuas en procesos y operación, orientadas a optimizar eficiencia, reducir riesgos operativos y asegurar la estabilidad del core.</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "tecnologia-sistemas",
+                "name": "Tecnologia / Sistemas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 27334
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "tecnologia-sistemas-y-telecomunicaciones",
+                "name": "Tecnología, Sistemas y Telecomunicaciones"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/analista-senior-de-proyectos-informatica-delta-s.a.c.-1118338957.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118315307,
+            "confidencial": false,
+            "detalle": "¡Únete a importante proyecto del sector banca!En SYNOPSIS nos encontramos en búsqueda de un(a) Analista de proyectos Semi Senior para incorporarse a uno de nuestros clientes más destacados del sector bancario, brindando soporte operativo, administrativo y financiero a iniciativas ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1613320_bum_v3abd6669.jpg",
+            "titulo": "Analista de Proyectos Semi Senior | Banca",
+            "empresa": "Synopsis S.A",
+            "empresaPro": false,
+            "localizacion": "San Isidro, Lima",
+            "area": "Tecnología, Sistemas y Telecomunicaciones",
+            "subarea": "Tecnologia / Sistemas",
+            "fechaHoraPublicacion": "02-06-2026 10:30:25",
+            "fechaModificado": "22-06-2026 20:42:31",
+            "fechaPublicacion": "02-06-2026 10:30:25",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118316801,
+            "confidencial": false,
+            "detalle": "En Alicorp honramos nuestro propósito de Alimentar un mañana mejor en cada decisión que tomamos. Nuestra filosofía de talento promueve procesos de atracción inclusivos que nos permite seguir construyendo una cultura de respeto y confianza, promoviendo un ambiente laboral saludable y seguro donde ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.43,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_1333690_bum_vaa78b909.jpg",
+            "titulo": "Analista Senior Proyectos Contables - Contrato Temporal",
+            "empresa": "Alicorp",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Otra",
+            "fechaHoraPublicacion": "02-06-2026 20:17:17",
+            "fechaModificado": "11-06-2026 14:32:37",
+            "fechaPublicacion": "02-06-2026 20:17:17",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118318093,
+            "confidencial": false,
+            "detalle": "En Hochschild somos responsables, innovadores, nos apasionan los retos e inspirar y promover el talento para contribuir con un mundo mejor. Lo hacemos de la mano de los mejores, en un ambiente inclusivo y diverso, y queremos que seas parte de ello.Analista Senior de Proyectos - Unidad Minera - ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.48,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2290570_bum_v54c20123.jpg",
+            "titulo": "Analista Senior de Proyectos (Campo y Relevo de jefe) / Minería (Temporal)",
+            "empresa": "Hochschild",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Mineria/Petroleo/Gas",
+            "fechaHoraPublicacion": "03-06-2026 15:44:38",
+            "fechaModificado": "08-06-2026 16:34:15",
+            "fechaPublicacion": "03-06-2026 15:44:38",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118305783,
+            "confidencial": false,
+            "detalle": "&#x1f4e2; Analista de Cuentas por Pagar – Suplencia por Proyecto&#x1f3e2; Farmindustria S.A. se encuentra en la búsqueda de un/a Analista de Cuentas por Pagar para cubrir una suplencia temporal de 6 meses.&#x1f4cd; Modalidad: Presencial &#x1f552; Horario: Lunes a viernes de 8:30 a.m. a 6:00 p.m. ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10002890_bum_va03dcae6.jpg",
+            "titulo": "Analista de Cuentas por Pagar Senior – Proyecto Temporal | S/ 5,500",
+            "empresa": "ARCH LATAM",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Administración, Contabilidad y Finanzas",
+            "subarea": "Contabilidad",
+            "fechaHoraPublicacion": "25-05-2026 19:15:16",
+            "fechaModificado": "26-05-2026 16:04:04",
+            "fechaPublicacion": "25-05-2026 19:15:16",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118330418,
+            "confidencial": false,
+            "detalle": "Hoy somos una red global de servicios profesionales con más de 300 000 personas en 149 países, que asisten a clientes en la creación de valor, el manejo de riesgos y la mejora de su desempeño a través de prácticas especializadas en diversas industrias, mediante nuestros servicios de auditoría, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2498960_bum_va6ce67e8.jpg",
+            "titulo": "Practicante de Tecnología",
+            "empresa": "PWC",
+            "empresaPro": false,
+            "localizacion": "San Isidro, Lima",
+            "area": "Tecnología, Sistemas y Telecomunicaciones",
+            "subarea": "Tecnologia / Sistemas",
+            "fechaHoraPublicacion": "23-06-2026 17:01:21",
+            "fechaModificado": "23-06-2026 17:01:21",
+            "fechaPublicacion": "23-06-2026 17:01:21",
+            "modalidadTrabajo": "Híbrido",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

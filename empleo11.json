@@ -1,0 +1,328 @@
+{
+    "aviso": {
+        "fechaPublicacion": "23-06-2026",
+        "fechaHoraPublicacion": "23-06-2026 13:27:51",
+        "fechaFinalizacion": "21-09-2026",
+        "fechaModificado": "23-06-2026 13:27:51",
+        "estado": "activo",
+        "titulo": "SUPERVISOR ZONAL DE SEGURIDAD CIVIL - CHORRILLOS",
+        "descripcion": "<p><strong>REQUISITOS:</strong></p><ul> <li>Técnico, universitario y/o en estudios en fuerzas armadas, militar (Deseable).</li> <li>Experiencia mínima de 2 años en seguridad y vigilancia privada civil</li> <li>Personal retirado de las fuerzas armadas de preferencia (Deseable).</li> <li>Preparación de informes.</li> <li>Nivel de office a nivel usuario.</li> <li>Indispensable contar con Licencia de conducir A1 (Se asignará vehículo propio de la empresa)</li> <li>Disponibilidad para trabajar 12 horas con días rotativos día/ noche</li> <li>Disponibilidad para laborar en el distrito de Chorrillos</li> <li>Disponibilidad para trabajo de campo 80% y oficina 20%</li></ul><p><strong>FUNCIONES:</strong></p><ul> <li>Coordinar y supervisar las operaciones de seguridad en su área de responsabilidad, asegurando el cumplimiento de los estándares de calidad y seguridad establecidos</li> <li>Verificación de los sistemas de seguridad, la evaluación y mitigación de riesgos, la capacitación del personal y la supervisión de la asistencia y desempeño del equipo operativo.</li> <li>Realizar rondas de control, administra recursos como armamento y equipos de comunicación, y mantiene un registro actualizado de incidencias.</li> <li>Coordinar con las áreas de la empresa para la gestión de denuncias, reportes y documentación, garantizando la operatividad del servicio y la mejora continua dentro del Sistema de Gestión Integrado.</li></ul><p><strong>BENEFICIOS:</strong></p><ul> <li>Sueldo acorde al mercado</li> <li>Planilla MYPE (Beneficios ½ CTS, ½ Gratificacion, 15 días vacaciones, Essalud)</li> <li>Capacitación Continua</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "confidencial": true,
+            "videoUrl": null,
+            "inclusiva": false
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 11447405,
+            "localidadIdSemantico": "peru|lima|chorrillos",
+            "direccion": null,
+            "detalle": "Chorrillos, Lima, Peru",
+            "id": 11447405,
+            "localidadStringId": "chorrillos",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Chorrillos",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 22,
+            "nombre": "Oficios y Otros",
+            "idSemantico": "oficios-y-otros",
+            "stringId": "oficios-y-otros"
+        },
+        "subArea": {
+            "id": 36,
+            "nombre": "Otros",
+            "idSemantico": "oficios-y-otros|otros",
+            "stringId": "otros"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 49616521,
+                    "texto": "Bríndanos tu número de celular y whatsapp"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616522,
+                    "texto": "¿Cuántos años de experiencia tienes en seguridad y vigilancia privada civil?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616523,
+                    "texto": "¿Cuál es tu nivel de office?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616524,
+                    "texto": "¿Cuentas con Licencia de conducir A1 vigente?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 49616525,
+                    "texto": "¿Disponibilidad para trabajar 12 horas con días rotativos día/ noche? "
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Semi Sr",
+            "idSemantico": "semi-sr",
+            "id": 8,
+            "stringId": "semi-sr"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1118342719,
+        "descripcionSimple": "<p><strong>REQUISITOS:</strong></p><ul> <li>Técnico, universitario y/o en estudios en fuerzas armadas, militar (Deseable).</li> <li>Experiencia mínima de 2 años en seguridad y vigilancia privada civil</li> <li>Personal retirado de las fuerzas armadas de preferencia (Deseable).</li> <li>Preparación de informes.</li> <li>Nivel de office a nivel usuario.</li> <li>Indispensable contar con Licencia de conducir A1 (Se asignará vehículo propio de la empresa)</li> <li>Disponibilidad para trabajar 12 horas con días rotativos día/ noche</li> <li>Disponibilidad para laborar en el distrito de Chorrillos</li> <li>Disponibilidad para trabajo de campo 80% y oficina 20%</li></ul><p><strong>FUNCIONES:</strong></p><ul> <li>Coordinar y supervisar las operaciones de seguridad en su área de responsabilidad, asegurando el cumplimiento de los estándares de calidad y seguridad establecidos</li> <li>Verificación de los sistemas de seguridad, la evaluación y mitigación de riesgos, la capacitación del personal y la supervisión de la asistencia y desempeño del equipo operativo.</li> <li>Realizar rondas de control, administra recursos como armamento y equipos de comunicación, y mantiene un registro actualizado de incidencias.</li> <li>Coordinar con las áreas de la empresa para la gestión de denuncias, reportes y documentación, garantizando la operatividad del servicio y la mejora continua dentro del Sistema de Gestión Integrado.</li></ul><p><strong>BENEFICIOS:</strong></p><ul> <li>Sueldo acorde al mercado</li> <li>Planilla MYPE (Beneficios ½ CTS, ½ Gratificacion, 15 días vacaciones, Essalud)</li> <li>Capacitación Continua</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "otros",
+                "name": "Otros"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 11447405
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "oficios-y-otros",
+                "name": "Oficios y Otros"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/supervisor-zonal-de-seguridad-civil-chorrillos-1118342719.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343225,
+            "confidencial": false,
+            "detalle": " En TISUR, no sólo movilizamos mercaderías, ¡movemos el futuro! Somos el puerto líder en el sur del Perú; y, nuestro mayor orgullo es transformar oportunidades en desarrollo concreto y real para nuestros colaboradores, la comunidad y el Perú. Aquí, el propósito se vive y se siente, porque cuando ...",
+            "planPublicacion": {
+                "id": 20,
+                "nombre": "Agrupados_60Full"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/5/9/7/3/7/logoMainPic_10159737.jpg",
+            "titulo": "Auxiliar Operativo I - copia",
+            "empresa": "Tisur S.A.",
+            "empresaPro": false,
+            "localizacion": "Matarani, Arequipa",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 16:34:53",
+            "fechaModificado": "23-06-2026 16:34:53",
+            "fechaPublicacion": "23-06-2026 16:34:53",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 3,
+            "idPais": 11,
+            "tipoAviso": "home",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343202,
+            "confidencial": false,
+            "detalle": "En JRC, empresa líder en servicios mineros con presencia en Perú, Canadá y México, nos encontramos en búsqueda del mejor talento. para ocupar el cargo de Supervisor de SeguridadProyecto: SANTA BÁRBARA Información del puesto¿Qué necesitas para ser exitoso? Titulado y colegiado habilitado en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.27,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10119413_bum_v8fe799ab.jpg",
+            "titulo": "Supervisor de Seguridad",
+            "empresa": "JRC",
+            "empresaPro": false,
+            "localizacion": "Yauli, Junin",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 16:22:34",
+            "fechaModificado": "23-06-2026 16:22:34",
+            "fechaPublicacion": "23-06-2026 16:22:34",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343011,
+            "confidencial": false,
+            "detalle": "En Movil bus nos encontramos en búsqueda de un Ayudante Fibrero para realizar el mantenimiento y reparación de las flotas de carros siniestrados (choques, fallas de fibras) con el fin de arreglar y dar operatividad a los carros.REQUISITOS Secundaria completa, o estudios en carreras de Mecánica. ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130454_bum_v8d01345a.jpg",
+            "titulo": "Ayudante Fibrero - Mantenimiento de transportes",
+            "empresa": "MOVIL BUS SAC ",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 15:18:21",
+            "fechaModificado": "23-06-2026 15:18:21",
+            "fechaPublicacion": "23-06-2026 15:18:21",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342852,
+            "confidencial": true,
+            "detalle": "De parte de: Almacenera Pacífico, una empresa peruana con más de 20 años de experiencia brindando soluciones logísticas integrales en almacenamiento, operación logística, transporte y distribución para diversos sectores. Nos distinguimos por ofrecer servicios seguros, eficientes y orientados a ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Analista de HSEQ",
+            "empresa": "Confidencial",
+            "empresaPro": null,
+            "localizacion": "Lurín, Lima",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 14:18:44",
+            "fechaModificado": "23-06-2026 14:19:39",
+            "fechaPublicacion": "23-06-2026 14:18:44",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118342841,
+            "confidencial": false,
+            "detalle": "Importante empresa de transportes con 38 años liderando su rubro, se encuentra en búsqueda de jóvenes dinámicos, entusiastas y con vocación de servicio para el puesto de Practicante de operaciones.Requisitos: Egresado o bachiller de las carreras universitarias de Ingeniería Industrial, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10130454_bum_v8d01345a.jpg",
+            "titulo": "Practicante profesional de mantenimiento / Rubro transporte",
+            "empresa": "MOVIL BUS SAC ",
+            "empresaPro": false,
+            "localizacion": "Cercado De Lima, Lima",
+            "area": "Oficios y Otros",
+            "subarea": "Otros",
+            "fechaHoraPublicacion": "23-06-2026 14:16:45",
+            "fechaModificado": "23-06-2026 14:26:26",
+            "fechaPublicacion": "23-06-2026 14:16:45",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        }
+    ]
+}

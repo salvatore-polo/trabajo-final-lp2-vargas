@@ -1,0 +1,333 @@
+{
+    "aviso": {
+        "fechaPublicacion": "24-02-2026",
+        "fechaHoraPublicacion": "24-02-2026 16:33:03",
+        "fechaFinalizacion": "24-06-2026",
+        "fechaModificado": "09-06-2026 11:51:08",
+        "estado": "activo",
+        "titulo": "Electricistas de equipos Trackless",
+        "descripcion": "<p>En JRC, empresa líder en servicios mineros con presencia en Perú, Canadá y México, nos encontramos en búsqueda de Electricistas de Mantenimiento de Equipos Trackless - JUNIN </p><p>¿Cuál será tu misión?</p><p>Ejecutar las reparaciones y mantenimiento del sistema eléctrico en los equipos pesados de la mina a fin de garantizar su continuidad en las operaciones.</p><p>Cocimientos y experiencia</p><ul> <li>Formación: Técnico en electricidad automotriz, electrónica y carreras afines.</li> <li>Tiempo de experiencia mínima en total: 4 años</li></ul><p>¿Qué ofrecemos?</p><ul> <li>Beneficios Corporativos</li> <li>Planilla con beneficios de ley</li></ul><p>En JRC está prohibida la discriminación de acuerdo a la Ley N°29973. Estamos comprometidos con la igualdad de oportunidades y el respeto por la diversidad. Por ello, en nuestros procesos de selección cada profesional es evaluado sin importar su origen étnico, sexo, edad, discapacidad, orientación sexual u otros.</p><p>¡Únete a nuestro equipo JRC y continuemos extrayendo lo mejor de cada uno de nosotros!</p>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "JRC",
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_10119413_bum_v8fe799ab.jpg",
+            "confidencial": false,
+            "cantidadEmpleados": 3000,
+            "gptwUrl": null,
+            "id": 10119413,
+            "rangoEmpleados": "Entre 1001 y 5000",
+            "videoUrl": "https://www.youtube.com/embed/sMLirD622nw?wmode=transparent",
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": true,
+            "empresaPro": false,
+            "descripcion": "Somos la empresa líder de servicios integrales de minería con más de 20 años de experiencia como aliados estratégicos de las compañías mineras más importantes de Perú, México y Canadá, brindando un servicio eficiente e innovador para el desarrollo, construcción y operación de proyectos mineros subterráneo, superficial; así como proyectos de construcción.",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "industria": "Industrial"
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 1,
+            "provinciaId": 1698,
+            "provinciaIdSemantico": "peru|junin",
+            "localidadId": 70411,
+            "localidadIdSemantico": "peru|junin|junin",
+            "direccion": null,
+            "detalle": "Junín, Junin, Peru",
+            "id": 70411,
+            "localidadStringId": "junin",
+            "provinciaStringId": "junin",
+            "paisStringId": "peru",
+            "localidadDetalle": "Junín",
+            "provinciaDetalle": "Junin",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 29,
+            "nombre": "Minería, Petróleo y Gas",
+            "idSemantico": "mineria-petroleo-y-gas",
+            "stringId": "mineria-petroleo-y-gas"
+        },
+        "subArea": {
+            "id": 2430,
+            "nombre": "Mineria/Petroleo/Gas",
+            "idSemantico": "mineria-petroleo-y-gas|mineria-petroleo-gas",
+            "stringId": "mineria-petroleo-gas"
+        },
+        "requisitos": {
+            "edad": {
+                "excluyente": false,
+                "edadMinima": 20,
+                "edadMaxima": 65
+            },
+            "residencia": null,
+            "experiencia": {
+                "excluyente": false,
+                "minimo": 48
+            },
+            "genero": {
+                "excluyente": false,
+                "nombre": "masculino"
+            },
+            "educacion": null,
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [
+            {
+                "simple": {
+                    "id": 48707115,
+                    "texto": "¿Cuál es su expectativa salarial?"
+                }
+            },
+            {
+                "simple": {
+                    "id": 48707116,
+                    "texto": "¿Cuenta con experiencia con equipos Trackless o volquetes?"
+                }
+            }
+        ],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 80,
+            "nombre": "Simples_60"
+        },
+        "nivelLaboral": {
+            "nombre": "Junior",
+            "idSemantico": "junior",
+            "id": 2,
+            "stringId": "junior"
+        },
+        "redireccionURL": null,
+        "origenAviso": "PORTAL",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": null,
+            "nombre": null,
+            "tieneEstadisticas": false,
+            "linkSeoSalario": null
+        },
+        "tipoContratacion": {
+            "id": 1,
+            "nombre": "Indeterminado",
+            "idSemantico": "indeterminado"
+        },
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": false,
+        "beneficiosNormalizados": [],
+        "id": 1117943645,
+        "descripcionSimple": "<p>En JRC, empresa líder en servicios mineros con presencia en Perú, Canadá y México, nos encontramos en búsqueda de Electricistas de Mantenimiento de Equipos Trackless - JUNIN </p><p>¿Cuál será tu misión?</p><p>Ejecutar las reparaciones y mantenimiento del sistema eléctrico en los equipos pesados de la mina a fin de garantizar su continuidad en las operaciones.</p><p>Cocimientos y experiencia</p><ul> <li>Formación: Técnico en electricidad automotriz, electrónica y carreras afines.</li> <li>Tiempo de experiencia mínima en total: 4 años</li></ul><p>¿Qué ofrecemos?</p><ul> <li>Beneficios Corporativos</li> <li>Planilla con beneficios de ley</li></ul><p>En JRC está prohibida la discriminación de acuerdo a la Ley N°29973. Estamos comprometidos con la igualdad de oportunidades y el respeto por la diversidad. Por ello, en nuestros procesos de selección cada profesional es evaluado sin importar su origen étnico, sexo, edad, discapacidad, orientación sexual u otros.</p><p>¡Únete a nuestro equipo JRC y continuemos extrayendo lo mejor de cada uno de nosotros!</p>",
+        "tipoAviso": "simple",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "mineria-petroleo-gas",
+                "name": "Mineria/Petroleo/Gas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 70411
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "mineria-petroleo-y-gas",
+                "name": "Minería, Petróleo y Gas"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/electricistas-de-equipos-trackless-jrc-1117943645.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118303307,
+            "confidencial": false,
+            "detalle": "En RESEMIN &#x1f996;&#x1f529;diseñamos, producimos y vendemos al mercado minero mundial, maquinaria de perforación subterránea de la más alta calidad, tecnología e innovación en el rubro. Ofrecemos la mejor alternativa de jumbos de perforación para minería subterránea.Actualmente nos encontramos en ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.38,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13107283_bum_ve147e99c.jpg",
+            "titulo": "Técnico Electricista 1 de equipos Trackless / Taller de OP Mina / ATE",
+            "empresa": "RESEMIN",
+            "empresaPro": false,
+            "localizacion": "Ate, Lima",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Mineria/Petroleo/Gas",
+            "fechaHoraPublicacion": "22-05-2026 15:37:57",
+            "fechaModificado": "26-05-2026 08:29:11",
+            "fechaPublicacion": "22-05-2026 15:37:57",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343164,
+            "confidencial": false,
+            "detalle": "¡SÉ PARTE DE KOMATSU - MITSUI!Somos una empresa transnacional líder en el sector industrial, comprometida con el progreso y la innovación en uno de los sectores clave de nuestro país. Actualmente, estamos en búsqueda de personas como tú: apasionadas, motivadas por los desafíos y dispuestas a ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.47,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2134950_bum_vfc72fb35.jpg",
+            "titulo": "Supervisor SSOMA - ANTAMINA (Temporal)",
+            "empresa": "KOMATSU MITSUI",
+            "empresaPro": false,
+            "localizacion": "Huaraz, Ancash",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Mineria/Petroleo/Gas",
+            "fechaHoraPublicacion": "23-06-2026 16:12:43",
+            "fechaModificado": "23-06-2026 16:12:43",
+            "fechaPublicacion": "23-06-2026 16:12:43",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343130,
+            "confidencial": false,
+            "detalle": "Corporativo Lomas es una destacada empresa minera peruana dedicada al procesamiento de minerales. Operamos a nivel nacional con plantas estratégicamente ubicadas en Piura, Arequipa, Trujillo y Nazca nos encontramos en busqueda de un Supervisor SSOMA- PIURAREQUISITOS Bachiller o Titulado en las ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13471506_bum_v75927cd0.jpg",
+            "titulo": "Supervisor SSOMA/ Planta Piura / Rubro Minería",
+            "empresa": "SERVICIOS CORPORATIVOS GRUPO LOMAS SOCIEDAD ANONIMA CERRADA",
+            "empresaPro": false,
+            "localizacion": "Piura, Piura",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Mineria/Petroleo/Gas",
+            "fechaHoraPublicacion": "23-06-2026 16:02:42",
+            "fechaModificado": "23-06-2026 16:04:11",
+            "fechaPublicacion": "23-06-2026 16:02:42",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118342917,
+            "confidencial": false,
+            "detalle": "En Volcan estamos en la búsqueda de un Ingeniero de Confiabilidad para unirse al equipo Mantenimiento Mecánico para Unidad Minera de Chungar.Misión del Puesto:Aplicar dentro de los estándares y procedimientos de seguridad, salud ocupacional, medio ambiente y calidad, técnicas predictivas mediante ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 4.47,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_2151100_bum_vf1243b29.jpg",
+            "titulo": "INGENIERO DE CONFIABILIDAD",
+            "empresa": "Volcan Compañia Minera S.A.A.",
+            "empresaPro": false,
+            "localizacion": "Huayllay, Pasco",
+            "area": "Minería, Petróleo y Gas",
+            "subarea": "Mineria/Petroleo/Gas",
+            "fechaHoraPublicacion": "23-06-2026 14:44:35",
+            "fechaModificado": "23-06-2026 14:44:35",
+            "fechaPublicacion": "23-06-2026 14:44:35",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118293899,
+            "confidencial": false,
+            "detalle": "IMG MINING  somos una empresa comprometida con brindar servicios de calidad en el mantenimiento de maquinaria para el sector minero e industrial. Nos enfocamos en la seguridad, protección ambiental, innovación y trabajo en equipo, contribuyendo al desarrollo económico de nuestro país mediante ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13473401_bum_v4511aefb.jpg",
+            "titulo": "Técnico Electricista para Equipos Trackless",
+            "empresa": "IMG MINING S.A.C",
+            "empresaPro": false,
+            "localizacion": "Los Olivos, Lima",
+            "area": "Ingenierías",
+            "subarea": "Ingeniería Electromecánica",
+            "fechaHoraPublicacion": "19-05-2026 03:02:51",
+            "fechaModificado": "26-05-2026 09:44:20",
+            "fechaPublicacion": "19-05-2026 03:02:51",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}

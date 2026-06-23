@@ -1,0 +1,316 @@
+{
+    "aviso": {
+        "fechaPublicacion": "23-06-2026",
+        "fechaHoraPublicacion": "23-06-2026 14:27:09",
+        "fechaFinalizacion": "21-09-2026",
+        "fechaModificado": "23-06-2026 14:27:09",
+        "estado": "activo",
+        "titulo": "Asesor de ventas Nike Santa Catalina (La Victoria)",
+        "descripcion": "<p><strong><u>¡Postula y se parte del equipo Nike! </u></strong></p> <p><strong>Equinox International</strong>, distribuidor oficial de la marca <strong>Nike</strong> en el Perú, se encuentra en la búsqueda de<strong> Asesores de venta Full Time</strong> para la tienda<strong> Nike Santa Catalina (A la espalda de la torre principal de Interbank). </strong></p><p><strong><u>Funciones: </u></strong></p><ul> <li>Lograr la cuota personal asignada, siguiendo el proceso de venta establecida por la empresa y sugerir estrategias que permitan lograr el pronóstico de ventas.</li> <li>Orientación al cliente en los diversos tipos de deportes y la tecnología que se utiliza en cada uno de ellos.</li> <li>Apoyo en tareas adicionales (limpieza, orden, reposición, empiochado, vaporizado, caja, etc.)</li></ul><br/> Requisitos:<br/> <p><strong><u>Requisitos: </u></strong></p><ul> <li>Disponibilidad para laborar Full time (48 horas semanales) en horarios rotativos.</li> <li>Contar con 6 meses de experiencia en el puesto en mención (indispensable) y en el rubro retail (preferible).</li> <li>Comunicación fluida, vocación de servicio y buen manejo de relaciones interpersonales.</li></ul><br/> Beneficios <p><strong><u>Beneficios: </u></strong></p><ul> <li>Planilla completa desde el primer día.</li> <li>Beneficios de ley.</li> <li>Comisiones sin límite.</li> <li>Capacitaciones constantes</li> <li>Descuentos corporativos</li></ul>",
+        "aptoDiscapacitados": false,
+        "cantidadVacantes": 1,
+        "empresa": {
+            "denominacion": "EQUINOX INTERNATIONAL S.A.C.",
+            "logoURL": null,
+            "confidencial": false,
+            "cantidadEmpleados": 500,
+            "gptwUrl": null,
+            "id": 13340627,
+            "rangoEmpleados": "Entre 301 y 500",
+            "videoUrl": null,
+            "inclusiva": false,
+            "busquedaActiva": true,
+            "validada": false,
+            "empresaPro": false,
+            "descripcion": null,
+            "ciudad": null,
+            "provincia": null,
+            "industria": null
+        },
+        "localizacion": {
+            "paisId": 11,
+            "paisIdSemantico": "peru",
+            "zonaId": 428,
+            "provinciaId": 27334,
+            "provinciaIdSemantico": "peru|lima",
+            "localidadId": 11907958,
+            "localidadIdSemantico": "peru|lima|cercado-de-lima",
+            "direccion": null,
+            "detalle": "Cercado De Lima, Lima, Peru",
+            "id": 11907958,
+            "localidadStringId": "cercado-de-lima",
+            "provinciaStringId": "lima",
+            "paisStringId": "peru",
+            "localidadDetalle": "Cercado De Lima",
+            "provinciaDetalle": "Lima",
+            "paisDetalle": "Peru"
+        },
+        "area": {
+            "id": 6,
+            "nombre": "Comercial, Ventas y Negocios",
+            "idSemantico": "comercial-ventas-y-negocios",
+            "stringId": "comercial-ventas-y-negocios"
+        },
+        "subArea": {
+            "id": 35,
+            "nombre": "Ventas",
+            "idSemantico": "comercial-ventas-y-negocios|ventas",
+            "stringId": "ventas"
+        },
+        "requisitos": {
+            "edad": null,
+            "residencia": null,
+            "experiencia": null,
+            "genero": null,
+            "educacion": {
+                "excluyente": false,
+                "tipoEstudio": {
+                    "id": 1,
+                    "nombre": "Secundario"
+                },
+                "estadoEstudio": {
+                    "id": 2,
+                    "nombre": "Graduado"
+                }
+            },
+            "salario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            },
+            "idiomas": null,
+            "conocimientos": null,
+            "detalleSalario": {
+                "excluyente": false,
+                "salarioMinimo": null,
+                "salarioMaximo": null,
+                "frecuenciaPago": null,
+                "tipo": null,
+                "solicitarCandidato": false
+            }
+        },
+        "preguntas": [],
+        "tipoTrabajo": {
+            "id": 2,
+            "nombre": "Full-time",
+            "idSemantico": "full-time",
+            "stringId": "full-time"
+        },
+        "planPublicacion": {
+            "id": 20,
+            "nombre": "Agrupados_60Full"
+        },
+        "nivelLaboral": {
+            "nombre": "Otro",
+            "idSemantico": "otro",
+            "id": 5,
+            "stringId": "otro"
+        },
+        "redireccionURL": null,
+        "origenAviso": "HIRING_ROOM",
+        "modalidadTrabajo": {
+            "id": 1,
+            "nombre": "Presencial",
+            "idSemantico": "presencial",
+            "stringId": "presencial"
+        },
+        "puesto": {
+            "puestoId": 504,
+            "nombre": "Asesor Comercial",
+            "tieneEstadisticas": true,
+            "linkSeoSalario": "/salarios/ventas/asesor-comercial_504.html"
+        },
+        "tipoContratacion": null,
+        "encabezado": null,
+        "beneficios": null,
+        "altaRevisionPerfiles": false,
+        "postulacionRapida": true,
+        "beneficiosNormalizados": [],
+        "id": 1118342866,
+        "descripcionSimple": "<p><strong><u>¡Postula y se parte del equipo Nike! </u></strong></p> <p><strong>Equinox International</strong>, distribuidor oficial de la marca <strong>Nike</strong> en el Perú, se encuentra en la búsqueda de<strong> Asesores de venta Full Time</strong> para la tienda<strong> Nike Santa Catalina (A la espalda de la torre principal de Interbank). </strong></p><p><strong><u>Funciones: </u></strong></p><ul> <li>Lograr la cuota personal asignada, siguiendo el proceso de venta establecida por la empresa y sugerir estrategias que permitan lograr el pronóstico de ventas.</li> <li>Orientación al cliente en los diversos tipos de deportes y la tecnología que se utiliza en cada uno de ellos.</li> <li>Apoyo en tareas adicionales (limpieza, orden, reposición, empiochado, vaporizado, caja, etc.)</li></ul><br/> Requisitos:<br/> <p><strong><u>Requisitos: </u></strong></p><ul> <li>Disponibilidad para laborar Full time (48 horas semanales) en horarios rotativos.</li> <li>Contar con 6 meses de experiencia en el puesto en mención (indispensable) y en el rubro retail (preferible).</li> <li>Comunicación fluida, vocación de servicio y buen manejo de relaciones interpersonales.</li></ul><br/> Beneficios <p><strong><u>Beneficios: </u></strong></p><ul> <li>Planilla completa desde el primer día.</li> <li>Beneficios de ley.</li> <li>Comisiones sin límite.</li> <li>Capacitaciones constantes</li> <li>Descuentos corporativos</li></ul>",
+        "tipoAviso": "home",
+        "filtersApplied": [
+            {
+                "type": "subarea",
+                "id": "ventas",
+                "name": "Ventas"
+            },
+            {
+                "type": "tipo_trabajo",
+                "id": "full-time",
+                "name": "Full-time"
+            },
+            {
+                "id": "provincia",
+                "value": 11907958
+            },
+            {
+                "type": "modalidad_trabajo",
+                "id": "presencial",
+                "name": "Presencial"
+            },
+            {
+                "type": "area",
+                "id": "comercial-ventas-y-negocios",
+                "name": "Comercial, Ventas y Negocios"
+            }
+        ],
+        "seoFriendlyUrl": "/empleos/asesor-de-ventas-nike-santa-catalina-la-victoria-equinox-international-s.a.c.-1118342866.html"
+    },
+    "productoLookAndFeel": null,
+    "avisosSimilares": [
+        {
+            "id": 1118343256,
+            "confidencial": false,
+            "detalle": "Por encargo de nuestro cliente, importante empresa dedicada a la comercialización de cerámicos, sanitarios y porcelanatos, nos encontramos en la búsqueda de un Administrador de Tienda para Iquitos.Puesto: Administrador de TiendaRequisitos: Egresado Técnico y/o Universitario en Administración, ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13479198_bum_v25b65a8e.jpg",
+            "titulo": "Administrador de Tienda / Iquitos",
+            "empresa": "CHAMBA TALENT S.A.C.",
+            "empresaPro": false,
+            "localizacion": "Iquitos, Loreto",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "23-06-2026 16:49:51",
+            "fechaModificado": "23-06-2026 16:49:51",
+            "fechaPublicacion": "23-06-2026 16:49:51",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343243,
+            "confidencial": false,
+            "detalle": "Buscamos a los que tienen ganas de transformar el país. A los que quieren llegar lejos. Porque esto no es solo un trabajo, esto es desafiarte en grande para impactar en grande. Esto es el &#x1f9e1;BCP&#x1f499;y te estamos buscando para que formes parte de nuestro equipo como EJECUTIVO(A) BANCA PYME ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13270799_bum_v90c4e684.jpg",
+            "titulo": "BCP - Ejecutivo(a) Banca PYME Lima",
+            "empresa": "Banco de Crédito del Perú",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "23-06-2026 16:42:37",
+            "fechaModificado": "23-06-2026 16:43:06",
+            "fechaPublicacion": "23-06-2026 16:42:37",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 4,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": true,
+            "tienePreguntas": true,
+            "salarioObligatorio": false
+        },
+        {
+            "id": 1118343209,
+            "confidencial": false,
+            "detalle": "Gestionar y dirigir el negocio operativo de nuestras tiendas mediante un liderazgo y compromiso de los equipos manteniendo un nivel de comunicación integral dentro de los mismos, buscando potenciar e incrementar las ventas de la zona asignada siempre alineado a la estrategia comercial de la ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/1007/static/logoMainPic_12092572_bum_vef3812ed.jpg",
+            "titulo": "Jefe (a) Zonal de Ventas / Tienda",
+            "empresa": "EssilorLuxottica",
+            "empresaPro": false,
+            "localizacion": "Lima, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "23-06-2026 16:26:38",
+            "fechaModificado": "23-06-2026 16:26:38",
+            "fechaPublicacion": "23-06-2026 16:26:38",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": true,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343148,
+            "confidencial": false,
+            "detalle": "Somos una empresa sólida, con 44 años de trayectoria, pioneros en microfinanzas y apasionados por brindar un servicio de calidad a nuestros clientes en todo el Perú.Nuestra visión es ser “Líder en soluciones financieras innovadoras, accesibles y de calidad” y nuestra misión “Impulsar la inclusión ...",
+            "planPublicacion": {
+                "id": 80,
+                "nombre": "Simples_60"
+            },
+            "promedioEmpresa": 3.74,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": "https://imgbum.jobscdn.com/portal/img/empresas/11/static/logoMainPic_13014712_bum_vb69eceba.jpg",
+            "titulo": "ASESOR DE NEGOCIOS OFICINA JICAMARCA (LIMA)",
+            "empresa": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE  PIURA S.A.C.",
+            "empresaPro": false,
+            "localizacion": "San Juan De Lurigancho., Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "23-06-2026 16:09:33",
+            "fechaModificado": "23-06-2026 16:09:33",
+            "fechaPublicacion": "23-06-2026 16:09:33",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 2,
+            "idPais": 11,
+            "tipoAviso": "simple",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": true
+        },
+        {
+            "id": 1118343194,
+            "confidencial": false,
+            "detalle": "Ejecutiva(o) Comercial Veterinario Resumen del Puesto Buscamos una profesional con experiencia en el rubro Agro Veterinario para unirse a nuestro equipo. El candidato ideal poseerá habilidades de liderazgo y una visión estratégica para impulsar el crecimiento comercial. Responsabilidades  ...",
+            "planPublicacion": {
+                "id": 2001,
+                "nombre": "Freemium"
+            },
+            "promedioEmpresa": null,
+            "gptwUrl": null,
+            "tipoTrabajo": "Full-time",
+            "aptoDiscapacitado": false,
+            "logoURL": null,
+            "titulo": "Ejecutiva(o) Comercial Veterinario",
+            "empresa": "LABOQUC",
+            "empresaPro": null,
+            "localizacion": "Lurigancho, Lima",
+            "area": "Comercial, Ventas y Negocios",
+            "subarea": "Ventas",
+            "fechaHoraPublicacion": "23-06-2026 16:20:35",
+            "fechaModificado": "23-06-2026 16:20:35",
+            "fechaPublicacion": "23-06-2026 16:20:35",
+            "modalidadTrabajo": "Presencial",
+            "cantidadVacantes": 1,
+            "idPais": 11,
+            "tipoAviso": "freemium",
+            "altaRevisionPerfiles": false,
+            "tienePreguntas": false,
+            "salarioObligatorio": false
+        }
+    ]
+}
