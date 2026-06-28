@@ -13,8 +13,8 @@
 - Solis Leon, Nilo Andy | 20240734 | Usuario: Elnilo-bot
 ## Introducción
 
-Actualmente, la búsqueda de empleo por internet se ha convertido en una práctica común para muchas personas en el Perú. Plataformas como Bumeran y Trabajos Diarios permiten acceder rápidamente a distintas ofertas laborales; sin embargo, también pueden aparecer publicaciones poco confiables o sospechosas que buscan aprovecharse de los postulantes.
+Actualmente, la búsqueda de empleo por internet es una práctica común en el Perú. Plataformas como Bumeran y Trabajos Diarios ofrecen diversas oportunidades laborales, pero algunas publicaciones pueden presentar señales de alerta o información poco confiable.
 
-Estas ofertas suelen presentar características similares, como promesas de ingresos elevados, poca información sobre la empresa, ausencia de requisitos claros, mensajes de urgencia o solicitudes de pagos previos. Por ello, resulta importante contar con herramientas que ayuden a identificar posibles señales de alerta en este tipo de publicaciones.
+Por ello, este proyecto utiliza Python y técnicas de web scraping para recopilar, limpiar y analizar ofertas laborales. A partir del texto obtenido, se identifican palabras clave sospechosas y se asigna una clasificación según el puntaje de cada oferta.
 
-Este proyecto propone una primera aproximación para analizar ofertas laborales mediante Python. Para ello, se aplicaron técnicas de web scraping, limpieza de texto, búsqueda de palabras clave y clasificación por puntaje. De esta manera, se busca diferenciar entre ofertas no sospechosas, potencialmente sospechosas y sospechosas.
+De esta manera, el trabajo busca diferenciar entre ofertas no sospechosas, potencialmente sospechosas y sospechosas, mostrando cómo la programación puede apoyar el análisis de información laboral en internet.
