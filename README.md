@@ -11,7 +11,7 @@
 - Maguiña Tabory, Leonardo Fabio | 20241388 | Usuario: e0lab
 - Polo D'Arrigo, Salvatore Diego | 20241394 | Usuario: salvatore-polo
 - Solis Leon, Nilo Andy | 20240734 | Usuario: Elnilo-bot
-## Introducción
+## Descripción
 
 Actualmente, la búsqueda de empleo por internet es una práctica común en el Perú. Plataformas como Bumeran y Trabajos Diarios ofrecen diversas oportunidades laborales, pero algunas publicaciones pueden presentar señales de alerta o información poco confiable.
 
